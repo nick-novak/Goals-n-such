@@ -12,6 +12,7 @@ I wanted to keep my goals in an easily accessibly place.
 4. Walk/workout everyday
 5. Build more things
 6. Break 3 million steps this year
+7. Build something with D3
 
 
 ### Things I'll Do in the Future:
