@@ -7,10 +7,11 @@ I wanted to keep my goals in an easily accessibly place.
 # Goals for 2016
 ---
 1. Learn. Learn and keep on learning. [Something New](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/something-new.md)
-2. Use Github more
-3. Walk/workout everyday
-4. Build more things
-5. Break 3 million steps this year
+2. Start my blog
+3. Use Github more
+4. Walk/workout everyday
+5. Build more things
+6. Break 3 million steps this year
 
 
 ### Things I'll Do in the Future:
