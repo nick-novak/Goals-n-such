@@ -6,7 +6,8 @@ Feel free to add to the list below under suggestions. :) Also, check out my [Goo
 
 ## January 2015
 - [ ] Gumption -- Nick Offerman
-- [ ] The New Hardboiled Web Design - Andy Clarke
+- [ ] The New Hardboiled Web Design -- Andy Clarke
+- [ ] Eloquent JavaScript -- Marijn Haverbeke
 
 To-Read
 ---
@@ -37,6 +38,3 @@ To-Read
 - [ ] The Tipping Point -- Malcolm Gladwell
 - [ ] So You've Been Publicly Shamed -- Jon Ronson
 
-
-Suggestions
----

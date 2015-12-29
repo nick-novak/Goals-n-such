@@ -32,5 +32,3 @@ Up North
 - [ ] Beards Brewery
 - [ ] Right Brain Brewery
 
-Suggestions
----

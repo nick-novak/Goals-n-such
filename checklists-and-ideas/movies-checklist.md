@@ -13,6 +13,3 @@ Documentries
 ---
 - [ ] The Ties That Bind -- 2015
 
-
-Suggestions
----
