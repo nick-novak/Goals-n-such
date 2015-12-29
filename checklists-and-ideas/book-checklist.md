@@ -37,4 +37,9 @@ To-Read
 - [ ] Why Not Me -- Mindy Kaling
 - [ ] The Tipping Point -- Malcolm Gladwell
 - [ ] So You've Been Publicly Shamed -- Jon Ronson
+- [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
+- [ ] Jim Henson: The Biography -- Brian Jay Jones
+- [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
+- [ ] Unfaithful Music & Disappearing Ink -- Elvis Costello
+- [ ] The Power of Habit -- Charles Duhigg
 
