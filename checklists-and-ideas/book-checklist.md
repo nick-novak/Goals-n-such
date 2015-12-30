@@ -1,13 +1,18 @@
 # Books I've Read & Want to Read
-## Collection of Audiobooks, hardcover & ebooks I intend to read.
+## Collection of Audiobooks, books & ebooks I intend to read.
 
 
 Feel free to add to the list below under suggestions. :) Also, check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) account.
 
+(:blue_book: == Actual book with paper pages)
+(:iphone: == Kindle)
+(:headphones: == AudioBook)
+
 ## January 2015
-- [ ] Gumption -- Nick Offerman
-- [ ] The New Hardboiled Web Design -- Andy Clarke
-- [ ] Eloquent JavaScript -- Marijn Haverbeke
+- [ ] Gumption -- Nick Offerman :iphone:
+- [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
+- [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
+- [ ] Steal like an Artist -- Austin Kleon
 
 To-Read
 ---
@@ -42,4 +47,7 @@ To-Read
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
 - [ ] Unfaithful Music & Disappearing Ink -- Elvis Costello
 - [ ] The Power of Habit -- Charles Duhigg
-
+- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte
+- [ ] On Web Typography -- Jason Santa Maria
+- [ ] Mobile First -- Luke Wroblewski
+- [ ] You're My Favorite Client -- Mike Monteiro
