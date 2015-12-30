@@ -9,10 +9,10 @@ Feel free to add to the list below under suggestions. :) Also, check out my [Goo
 (:headphones: == AudioBook)
 
 ## January 2015
-- [ ] Gumption -- Nick Offerman :iphone:
+- [ ] Gumption -- Nick Offerman :headphones:
 - [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
-- [ ] Steal like an Artist -- Austin Kleon
+- [ ] Steal like an Artist -- Austin Kleon :blue_book:
 
 To-Read
 ---
