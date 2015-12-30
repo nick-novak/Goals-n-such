@@ -2,7 +2,7 @@
 ## Collection of Audiobooks, books & ebooks I intend to read.
 
 
-Feel free to add to the list below under suggestions. :) Also, check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) account.
+Feel free to add to the list. :) Also, check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) account.
 
 (:blue_book: == Actual book with paper pages)
 (:iphone: == Kindle)
