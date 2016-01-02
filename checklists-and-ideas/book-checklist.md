@@ -22,6 +22,7 @@ To-Read
 - [ ] Beatlebone -- Kevin Barry
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] The Master Switch -- Tim Wu
+- [ ] Show Your Work!  -- Austin Kleon
 - [ ] Where Wizards Stay Up Late -- Katie Hafner 
 - [ ] The Crowd, The Critic, and the Muse -- Michael Gungor
 - [ ] Timeline -- Michael Crichton
