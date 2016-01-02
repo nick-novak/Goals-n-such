@@ -6,7 +6,7 @@
 
 01/01/2015
 ---
-HGTV's Dream Home 2016 Sweepstakes prize total this year is at $1.75 million. With federal taxes (roughly %25), it would cost the winner $437,500 if they decided to keep it. Also since this year the house is located in Florida, it would be exempted from state taxes on sweepstakes winnings. Florida is 1 of 11 states do not tax sweepstakes winners.
+HGTV's Dream Home 2016 Sweepstakes prize total this year is at $1.75 million. With federal taxes (roughly 25%), it would cost the winner $437,500 if they decided to keep it. Also since this year the house is located in Florida, it would be exempted from state taxes on sweepstakes winnings. Florida is 1 of 11 states that do not tax sweepstakes winners.
 
 01/02/2015
 ---
