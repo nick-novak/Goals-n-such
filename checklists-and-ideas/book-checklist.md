@@ -12,7 +12,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [ ] Gumption -- Nick Offerman :headphones:
 - [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
-- [ ] Steal like an Artist -- Austin Kleon :blue_book:
+- [x] Steal like an Artist -- Austin Kleon :blue_book:
 
 To-Read
 ---
