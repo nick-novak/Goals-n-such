@@ -15,4 +15,4 @@ The legend of le Marche du Nain Rouge. A little red imp, who is the embodiment o
 
 01/03/2015
 ---
-
+There is a Google project that is making it possible to weave touch and gesture interactivity into any textile using standard, industrial looms. Their goal is to turn objects such as clothing and furniture into interactive systems! [Project Jacquard](https://www.google.com/atap/project-jacquard/)
