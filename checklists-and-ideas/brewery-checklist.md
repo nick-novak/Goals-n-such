@@ -5,16 +5,16 @@
 Detroit/Ann Arbor
 ---
 - [ ] Canton Brew Works
-- [ ] New Atwater Brewery
+- [x] New Atwater Brewery *Visted 1/2/2016*
 - [ ] Motor City Brewing Works
 - [ ] Detroit City Distillery
-- [ ] Two James Distillery
+- [x] Two James Distillery *Visted 1/2/2016*
 - [ ] Jolly Pumpkin
 - [ ] Traffic Jam & Snug
 - [ ] B. Nektar Meadery
 - [ ] Dragonmead Microbrewery
 - [ ] Griffin Claw Brewing *revisit*
-- [x] Arbor Brewing Company
+- [ ] Arbor Brewing Company
 
 Grand Rapids/ Kalamazoo
 ---
