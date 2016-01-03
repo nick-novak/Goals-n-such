@@ -52,3 +52,4 @@ To-Read
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
+- [ ] Fidelity -- Wendell Berry
