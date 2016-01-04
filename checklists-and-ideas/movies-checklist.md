@@ -22,7 +22,7 @@ Movies
 	- [ ] An Unexpected Journey -- 2012
 	- [ ] The Desolation of Smaug -- 2013
 	- [ ] The Battle of the Five Armies -- 2014
-- [ ] Django Unchained -- 2012
+- [x] Django Unchained -- 2012
 - [ ] North by Northwest -- 1959
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
