@@ -4,7 +4,7 @@ Feel free to add to the list below under suggestions. :)
 
 Movies
 ---
-- [ ] Field of Dreams -- 1989
+- [x] Field of Dreams -- 1989
 - [ ] Citizen Kane -- 1941
 - [ ] The Maltese Falcon -- 1941
 - [ ] Joy -- 2015
