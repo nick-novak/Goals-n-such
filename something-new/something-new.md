@@ -24,3 +24,7 @@ It is estimated that there are about 72 people currently living who are centenar
 01/05/2016
 ---
 Last year I walked 2,983,845 steps, which equals 1412.8 miles. That’s equal to walking from my house to the Florida Everglades or Nearly to Kansas City and back.
+
+01/06/2016
+---
+During the height of the spice trade, Europeans were making up tall tales about how to get these spices. People believed that mythical creatures guarded them and that you needed special skills to obtain them. This came about because the wealthy that were buying them didn’t know much about the exotic lands from which the spices arrived. So traders would tell tall tales about them and concealed the truth. Either to add mystic to the spices or to drive up the prices.
