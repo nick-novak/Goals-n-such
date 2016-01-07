@@ -28,3 +28,7 @@ Last year I walked 2,983,845 steps, which equals 1412.8 miles. That’s equal to
 01/06/2016
 ---
 During the height of the spice trade, Europeans were making up tall tales about how to get these spices. People believed that mythical creatures guarded them and that you needed special skills to obtain them. This came about because the wealthy that were buying them didn’t know much about the exotic lands from which the spices arrived. So traders would tell tall tales about them and concealed the truth. Either to add mystic to the spices or to drive up the prices.
+
+01/07/2016
+---
+Bulk editing in AEM exists and it is pretty awesome. [Adobe github link](http://adobe-consulting-services.github.io/acs-aem-tools/csv-asset-importer.html),[Adobe link](https://docs.adobe.com/docs/en/aem/6-1/administer/operations/bulk-editor.html) & [Developing the editor](https://docs.adobe.com/docs/en/aem/6-1/develop/operations/dev-bulk-editor.html)
