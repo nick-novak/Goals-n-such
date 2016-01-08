@@ -32,3 +32,7 @@ During the height of the spice trade, Europeans were making up tall tales about 
 01/07/2016
 ---
 Bulk editing in AEM exists and it is pretty awesome. [Adobe github link](http://adobe-consulting-services.github.io/acs-aem-tools/csv-asset-importer.html),[Adobe link](https://docs.adobe.com/docs/en/aem/6-1/administer/operations/bulk-editor.html) & [Developing the editor](https://docs.adobe.com/docs/en/aem/6-1/develop/operations/dev-bulk-editor.html)
+
+01/08/2016
+---
+Restaurants don't sing happy birthday to their patrons because then they would have to pay Warner every time the song is sung. That’s why they make up their own tunes. This was before Happy Birthday was claimed in public domain.

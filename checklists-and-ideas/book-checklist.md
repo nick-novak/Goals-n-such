@@ -9,10 +9,11 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 (:headphones: == AudioBook)
 
 ## January 2015
-- [ ] Gumption -- Nick Offerman :headphones:
+- [x] Gumption -- Nick Offerman :headphones:
 - [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
+- [ ] Botany of Desire -- Micheal Pollan :headphones:
 
 To-Read
 ---
@@ -53,7 +54,6 @@ To-Read
 - [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] Fidelity -- Wendell Berry
-- [ ] Botany of Desire -- Micheal Pollan
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] The Tenth of December -- George Saunders 
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
