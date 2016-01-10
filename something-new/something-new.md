@@ -27,7 +27,7 @@ Last year I walked 2,983,845 steps, which equals 1412.8 miles. That’s equal to
 
 01/06/2016
 ---
-During the height of the spice trade, Europeans were making up tall tales about how to get these spices. People believed that mythical creatures guarded them and that you needed special skills to obtain them. This came about because the wealthy that were buying them didn’t know much about the exotic lands from which the spices arrived. So traders would tell tall tales about them and concealed the truth. Either to add mystic to the spices or to drive up the prices.
+During the height of the spice trade, Europeans were making up tall tales about how to get these spices. People believed that mythical creatures guarded them and that you needed special skills to obtain them. This came about because the wealthy that were buying them didn't know much about the exotic lands from which the spices arrived. So traders would tell tall tales about them and concealed the truth. Either to add mystic to the spices or to drive up the prices.
 
 01/07/2016
 ---
@@ -36,3 +36,12 @@ Bulk editing in AEM exists and it is pretty awesome. [Adobe github link](http://
 01/08/2016
 ---
 Restaurants don't sing happy birthday to their patrons because then they would have to pay Warner every time the song is sung. That’s why they make up their own tunes. This was before Happy Birthday was claimed in public domain.
+
+01/09/2016
+---
+London finally overtook its previous population peak this week from World War II! From now on, London's population will be at an all time high.[link](http://www.citymetric.com/skylines/week-when-londons-population-will-finally-overtake-its-previous-peak-606)
+
+01/10/2016
+---
+You can learn a lot about JavaScript by decoding the jQuery source code. [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436)
+[11 More Things I Learned from the jQuery Source](https://www.youtube.com/watch?v=ARnp9Y8xgR4)
