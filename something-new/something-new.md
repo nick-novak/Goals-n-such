@@ -78,3 +78,7 @@ Prior to 1974 the goal posts in the NFL were on the goal lines instead of the en
 01/18/2016
 ---
 Wilco's third album "Summerteeth" was recorded in Willie Nelson's studio.
+
+01/19/2016
+---
+U2's Pride(In the Name of Love), was written about Martin Luther King, Jr.
