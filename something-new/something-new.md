@@ -45,3 +45,36 @@ London finally overtook its previous population peak this week from World War II
 ---
 You can learn a lot about JavaScript by decoding the jQuery source code. [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436)
 [11 More Things I Learned from the jQuery Source](https://www.youtube.com/watch?v=ARnp9Y8xgR4)
+
+01/11/2016
+---
+After prohibition, farmers were worried about the sales of their apples dropping since they wouldn't be used to make cider or apple jack. This lead to a PR campaign coining the phrase "An apple a day keeps the doctor away."
+
+01/12/2016
+---
+Today I did extensive research on Sam Maloof and his beautifully crafted furniture. One of the most brilliant woodworker and designer. That Dado-and-Rabbet joint is just wood candy all the way. [link](http://sammaloofwoodworker.com/)
+
+
+01/13/2016
+---
+There is a term for the thought of throwing your cell phone into the river; pushing someone into a moving vehicle; Harming someone when holding a knife or firearm. The insane desire of our unconscious, but it is nothing to worry about unless you relish and enjoy these thoughts. This is know as The Call of the Void.
+
+01/14/2016
+---
+Thomas Lie-Nielsen worked for Gareet Wade. But after improving several wood planes by some of the manufactures, he left to make high quality woodworking hand tool.
+
+01/15/2016
+---
+Major Tom in the song "Space Oddity" by bowie is said to be a "junkie, strung out in heavens high, hitting an all-time low".
+
+01/16/2016
+---
+Typically, higher alcohol content in your favorite beer results in higher calories. Sorry Imperial Stout and Barleywine drinkers.
+
+01/17/2016
+---
+Prior to 1974 the goal posts in the NFL were on the goal lines instead of the end lines, and a missed field goal was treated the same as a punt: if it missed, it was a touchback unless it landed in the field of play and was returned. [link](http://mmqb.si.com/2014/06/17/nfl-history-in-95-objects-goal-post-on-the-goal-line)
+
+01/18/2016
+---
+Wilco's third album "Summerteeth" was recorded in Willie Nelson's studio.
