@@ -82,3 +82,7 @@ Wilco's third album "Summerteeth" was recorded in Willie Nelson's studio.
 01/19/2016
 ---
 U2's Pride(In the Name of Love), was written about Martin Luther King, Jr.
+
+01/20/2016
+---
+Montana discards the most milk out of any state. Industry standard is that all milk must have a expiration date 21 days after pasteurization. However, in Montana there is a state law that requires that date to be after 12 days of pasteurization.
