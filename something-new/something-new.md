@@ -86,3 +86,19 @@ U2's Pride(In the Name of Love), was written about Martin Luther King, Jr.
 01/20/2016
 ---
 Montana discards the most milk out of any state. Industry standard is that all milk must have a expiration date 21 days after pasteurization. However, in Montana there is a state law that requires that date to be after 12 days of pasteurization.
+
+01/21/2016
+---
+Jekyll's Pagination is super finicky when it comes to placing your blog posts off the index home page. paginate_path: "" in the _config.yml file can fix this issue. There goes that hour I'll never get back.
+
+01/22/2016
+---
+Nepetalactone is the active organic compound in catnip. Only 67%-80% of cats are actually affected by it. It also repels cockroaches and mosquitos. 
+
+01/23/2016
+---
+The original name for the bicycle is a Velocipede(Latin for "fast foot").
+
+1/24/2016
+---
+According to a tradition believed to have been derived from the Romans, the wedding ring is worn on the left hand ring finger because there was thought to be a vein in the finger, referred to as the 'Vena Amoris' or the 'Vein of Love' said to be directly connected to the heart.
