@@ -14,7 +14,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
 - [ ] Botany of Desire -- Micheal Pollan :headphones:
-- [ ] Fidelity -- Wendell Berry
+- [ ] Fidelity -- Wendell Berry :blue_book:
 
 To-Read
 ---
