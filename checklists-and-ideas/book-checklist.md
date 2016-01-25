@@ -14,6 +14,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
 - [ ] Botany of Desire -- Micheal Pollan :headphones:
+- [ ] Fidelity -- Wendell Berry
 
 To-Read
 ---
@@ -53,7 +54,6 @@ To-Read
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
-- [ ] Fidelity -- Wendell Berry
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] The Tenth of December -- George Saunders 
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
