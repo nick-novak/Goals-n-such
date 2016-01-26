@@ -102,3 +102,15 @@ The original name for the bicycle is a Velocipede(Latin for "fast foot").
 1/24/2016
 ---
 According to a tradition believed to have been derived from the Romans, the wedding ring is worn on the left hand ring finger because there was thought to be a vein in the finger, referred to as the 'Vena Amoris' or the 'Vein of Love' said to be directly connected to the heart.
+
+1/25/2016
+---
+There is a CSS selector that will target href links that are external.
+
+a[href^="http"]
+
+The carat symbol designates the beginning of a string. So you can set it to target all hrefs that begin with "http", which would be the start to all external links.
+
+1/26/2016
+---
+Some of the best Autobiographies are written by songwriters.
