@@ -8,13 +8,15 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 (:iphone: == Kindle)
 (:headphones: == AudioBook)
 
-## January 2015
+## January 2016
 - [x] Gumption -- Nick Offerman :headphones:
 - [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
 - [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
-- [ ] Botany of Desire -- Micheal Pollan :headphones:
-- [ ] Fidelity -- Wendell Berry :blue_book:
+- [x] Botany of Desire -- Micheal Pollan :headphones:
+- [x] Fidelity -- Wendell Berry :blue_book:
+- [ ] The Tipping Point -- Malcolm Gladwell :blue_book:
+- [ ] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
 
 To-Read
 ---
@@ -43,12 +45,10 @@ To-Read
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
 - [ ] Why Not Me -- Mindy Kaling
-- [ ] The Tipping Point -- Malcolm Gladwell
 - [ ] So You've Been Publicly Shamed -- Jon Ronson
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
-- [ ] Unfaithful Music & Disappearing Ink -- Elvis Costello
 - [ ] The Power of Habit -- Charles Duhigg
 - [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte
 - [ ] On Web Typography -- Jason Santa Maria
