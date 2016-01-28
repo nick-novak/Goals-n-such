@@ -113,4 +113,12 @@ The carat symbol designates the beginning of a string. So you can set it to targ
 
 1/26/2016
 ---
-Some of the best Autobiographies are written by songwriters.
+Some of the best Autobiographies are written by musicians and songwriters.
+
+1/27/2016
+---
+Feeling like drinking socially, but not in the mood for alcohol? Whether you are training, cleansing, detox, what have you. Order a tonic with Angostura bitters and a lime wedge. The sharp crisp taste feels like a drink. The bitters also are believed to revile stomach aliments too.
+
+1/28/2016
+---
+Google plans on killing the password. [link](http://www.androidcentral.com/project-abacus-atap-project-aimed-killing-password)
