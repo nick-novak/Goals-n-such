@@ -122,3 +122,15 @@ Feeling like drinking socially, but not in the mood for alcohol? Whether you are
 1/28/2016
 ---
 Google plans on killing the password. [link](http://www.androidcentral.com/project-abacus-atap-project-aimed-killing-password)
+
+1/29/2016
+---
+You can make your own sawmill with scrap metal, some tires, a band saw and a small engine. [link](https://www.youtube.com/watch?v=F9fCORPDTE0)
+
+1/30/2016
+---
+You can also build a solar kiln! [link](http://www.popularwoodworking.com/projects/solar-kiln)
+
+1/31/2016
+---
+DNA testing was once used to track down a black walnut poacher. Due to the value, forestry officials often are called on to track down walnut poachers; in 2004, DNA testing was used to solve one such poaching case, involving a 55-foot (16-m) tree worth US$2,500.
