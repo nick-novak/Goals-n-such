@@ -28,10 +28,13 @@ Movies
 - [ ] The Apartment -- 1960
 - [ ] The Muppet Movie *revisit* -- 1979
 - [ ] The Great Muppet Caper -- 1981
-- [ ] The Muppets -- 2011
+- [x] The Muppets -- 2011
 - [ ] The Revenant -- 2015
 - [ ] I Saw the Light -- 2016
 - [ ] Billy Jack -- 1971
+- [x] Ex Machina -- 2015
+- [ ] Spotlight -- 2015
+- [ ] The Big Short -- 2015
 
 Documentaries
 ---
