@@ -20,4 +20,20 @@ Historically, the gene that regulated a human's ability to digest lactose shut d
 
 02/06/2016
 ---
-seven hundred and fifty billion dollars a year, which was more than our nation’s entire budget for K-12 education is said to be spent on unporductive, unnecessary health-car services [link](http://www.newyorker.com/magazine/2015/05/11/overkill-atul-gawande) 
+Seven hundred and fifty billion dollars a year, which was more than our nation’s entire budget for K-12 education is said to be spent on unproductive, unnecessary health-car services [link](http://www.newyorker.com/magazine/2015/05/11/overkill-atul-gawande) 
+
+02/07/2016
+---
+You can buy a person's Social Security number for as low as $3.70. [link](http://shoptalkshow.com/episodes/special-one-one-hacker/)
+
+02/08/2016
+---
+You can target quotations in CSS. [with link](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
+
+02/09/2016
+---
+The Music of Rayland Baxter. [link](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq)
+
+02/10/2016
+---
+The Three point shot was introduced into NBA Basketball until 1978 after the NBA and the ABA merged. The ABA had been using the three point shot and it adopted by the NBA two years after the merge in 1976. [Link](http://99percentinvisible.org/episode/yin-yang-basketball/?utm_source=99%25+Invisible&utm_medium=email&utm_campaign=05f5554f86-RSS_EMAIL_CAMPAIGN&utm_term=0_f773924a7f-05f5554f86-96872149)

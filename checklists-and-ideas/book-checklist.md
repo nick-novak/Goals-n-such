@@ -36,10 +36,11 @@ To-Read
 - [ ] Ender's Game -- Orson Scott Card
 - [ ] Ghost in The Wires -- Kevin Mitnick
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
-- [ ] Dharma Bums -- Jack Kerouak
+- [ ] Dharma Bums -- Jack Kerouac
 - [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli
 - [ ] The Innovators -- Walter Isaacson
 - [ ] Lean UX -- Jeff Gothelf
+- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein
 - [ ] Modern Romance -- Aziz Ansari
 - [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
@@ -57,3 +58,4 @@ To-Read
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] The Tenth of December -- George Saunders 
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
+- [ ] Git for Humans - David Demaree
