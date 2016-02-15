@@ -16,13 +16,15 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Botany of Desire -- Micheal Pollan :headphones:
 - [x] Fidelity -- Wendell Berry :blue_book:
 - [ ] The Tipping Point -- Malcolm Gladwell :blue_book:
-- [ ] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
+- [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
+
+## February  2016
+- [ ] Just Kids -- Patti Smith
 
 To-Read
 ---
 - [ ] The Bassoon King -- Rainn Wilson
 - [ ] Shady Characters -- Keith Houston
-- [ ] Just Kids -- Patti Smith
 - [ ] Beatlebone -- Kevin Barry
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] The Master Switch -- Tim Wu
