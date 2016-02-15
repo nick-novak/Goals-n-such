@@ -28,7 +28,7 @@ You can buy a person's Social Security number for as low as $3.70. [link](http:/
 
 02/08/2016
 ---
-You can target quotations in CSS. [with link](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
+You can target quotations in CSS. [link](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
 
 02/09/2016
 ---
@@ -37,3 +37,22 @@ The Music of Rayland Baxter. [link](https://open.spotify.com/artist/251UrhgNbMr1
 02/10/2016
 ---
 The Three point shot was introduced into NBA Basketball until 1978 after the NBA and the ABA merged. The ABA had been using the three point shot and it adopted by the NBA two years after the merge in 1976. [Link](http://99percentinvisible.org/episode/yin-yang-basketball/?utm_source=99%25+Invisible&utm_medium=email&utm_campaign=05f5554f86-RSS_EMAIL_CAMPAIGN&utm_term=0_f773924a7f-05f5554f86-96872149)
+
+02/11/2016
+---
+A sanity test or sanity check is a basic test to quickly evaluate whether a claim or the result of a calculation can possibly be true. 
+
+02/12/2016
+---
+Merging vs. Rebasing with git. I didn't even know about rebasing until today. [link](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+02/13/2016
+---
+How to build a staging environment for my WordPress sites and it is pretty nice so far.
+
+02/14/2016
+---
+There was a theater in Greenwich Village known as the Mercer Art Center. the venue hosted Shakespeare plays and even jazz legends like Miles Davis and Dizzy Gillespie. It was becoming a large scene for the punk bands to play at in NYC. But the entire theater collapsed in 1973 killing four people. [link](http://narrative.ly/stories/the-theater-came-crashing-down/)
+
+02/15/2016
+---
