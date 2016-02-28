@@ -15,11 +15,16 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
 - [x] Botany of Desire -- Micheal Pollan :headphones:
 - [x] Fidelity -- Wendell Berry :blue_book:
-- [ ] The Tipping Point -- Malcolm Gladwell :blue_book:
-- [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
+
 
 ## February  2016
-- [ ] Just Kids -- Patti Smith
+- [ ] Just Kids -- Patti Smith :headphones:
+- [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
+- [X] The Tipping Point -- Malcolm Gladwell :blue_book:
+- [ ] Congo -- Michael Crichton
+
+## March 2016
+
 
 To-Read
 ---
@@ -32,7 +37,6 @@ To-Read
 - [ ] Where Wizards Stay Up Late -- Katie Hafner 
 - [ ] The Crowd, The Critic, and the Muse -- Michael Gungor
 - [ ] Timeline -- Michael Crichton
-- [ ] Congo -- Michael Crichton
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] Ender's Game -- Orson Scott Card
@@ -47,7 +51,6 @@ To-Read
 - [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
-- [ ] Why Not Me -- Mindy Kaling
 - [ ] So You've Been Publicly Shamed -- Jon Ronson
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
