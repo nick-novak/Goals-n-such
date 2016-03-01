@@ -18,7 +18,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 
 ## February  2016
-- [ ] Just Kids -- Patti Smith :headphones:
+- [x] Just Kids -- Patti Smith :headphones:
 - [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
 - [X] The Tipping Point -- Malcolm Gladwell :blue_book:
 - [ ] Congo -- Michael Crichton
@@ -40,7 +40,6 @@ To-Read
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] Ender's Game -- Orson Scott Card
-- [ ] Ghost in The Wires -- Kevin Mitnick
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] Dharma Bums -- Jack Kerouac
 - [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli

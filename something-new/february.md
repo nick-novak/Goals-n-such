@@ -112,3 +112,11 @@ Google Resizer is pretty nice for quick visualization for mobile, tablet and des
 02/27/2016
 ---
 Pigeons were once used to sort pills at a pharmaceutical company in western Australia in 1968. But they were stopped by the RSPCA. After they replaced them with humans sorters.
+
+02/28/2016
+---
+Emmets new tool known as livestyle. [link](http://livestyle.io)
+
+02/29/2016
+---
+Kennedy had a secret fallout shelter in florida. Now a muesum, it might get shut down. [link](http://www.detroitnews.com/story/news/nation/2016/02/29/jfk-florida-bunker/81102516/)
