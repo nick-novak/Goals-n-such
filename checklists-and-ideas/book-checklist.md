@@ -21,10 +21,12 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Just Kids -- Patti Smith :headphones:
 - [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
 - [X] The Tipping Point -- Malcolm Gladwell :blue_book:
-- [ ] Congo -- Michael Crichton
+- [ ] Modern Romance -- Aziz Ansari :headphones:
+
 
 ## March 2016
-
+- [X] Congo -- Michael Crichton :blue_book:
+- [ ] Git for Humans - David Demaree :blue_book:
 
 To-Read
 ---
@@ -46,7 +48,6 @@ To-Read
 - [ ] The Innovators -- Walter Isaacson
 - [ ] Lean UX -- Jeff Gothelf
 - [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein
-- [ ] Modern Romance -- Aziz Ansari
 - [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
@@ -62,4 +63,3 @@ To-Read
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] The Tenth of December -- George Saunders 
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
-- [ ] Git for Humans - David Demaree
