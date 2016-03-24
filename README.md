@@ -11,7 +11,7 @@ I wanted to keep my goals in an easily accessibly place.
 3. Use Github more
 4. Walk/workout everyday
 5. Build more things
-6. Break 3 million steps this year
+6. Break ~~3 million~~ 4 million steps this year
 7. Build something with D3 [resource](https://github.com/mbostock/d3/wiki/Tutorials)
 
 
