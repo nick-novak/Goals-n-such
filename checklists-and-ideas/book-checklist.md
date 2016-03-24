@@ -20,13 +20,14 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## February  2016
 - [x] Just Kids -- Patti Smith :headphones:
 - [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
-- [X] The Tipping Point -- Malcolm Gladwell :blue_book:
-- [ ] Modern Romance -- Aziz Ansari :headphones:
+- [x] The Tipping Point -- Malcolm Gladwell :blue_book:
+- [x] Modern Romance -- Aziz Ansari :headphones:
 
 
 ## March 2016
-- [X] Congo -- Michael Crichton :blue_book:
+- [x] Congo -- Michael Crichton :blue_book:
 - [ ] Git for Humans - David Demaree :blue_book:
+- [ ] The Tenth of December -- George Saunders :blue_book:
 
 To-Read
 ---
@@ -61,5 +62,4 @@ To-Read
 - [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
-- [ ] The Tenth of December -- George Saunders 
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert

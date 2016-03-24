@@ -53,3 +53,39 @@ Heart attacks are significantly more common the first three weekdays after the s
 03/14/2016
 ---
 When Fender made George Harrison's Rosewood Telecaster, they also made a rosewood Stratocaster for Jimi Hendrix. But it was never delivered and its currents whereabouts are unknown. [Link](http://www.guitarplayer.com/gear/1012/see-george-harrisons-famed-rosewood-telecaster-examined-and-replicated/57108)
+
+03/15/2016
+---
+Public key cryptography explained, in such a brilliant way. [link](https://www.youtube.com/watch?v=YEBfamv-_do)
+
+03/16/2016
+---
+There is a guy named Nicholas Felton who creates yearly reports about himself. He keeps track of things like his travels, diet, books etc. hmmm sounds simalar to what I have been doing… [Nicholas Felton](http://feltron.com/)
+
+03/17/2016
+---
+The weird white stringy part in a raw egg is called the chalaza. It attaches or suspends the yolk or nucellus within the larger structure.
+
+03/18/2016
+---
+'TIM', was one of the worlds’ first talking clock systems and it was launched in London in 1936. Anyone with access to a telephone could dial the ‘talking clock’ number and have the precise GMT time read to them - down to the second.
+
+03/19/2016
+---
+Coconut milk is the liquid that comes from the grated meat of a brown coconut. It should not be confused with coconut water. I always thought the milk was the water.
+
+03/20/2016
+---
+Kareem Abdul-Jabbar still holds the Most career points in the NBA. Since his retirement in 1989 the record has been set at 38,387 pts.
+
+03/21/2016
+---
+Elephants have an innate aversion to bees. This allows for farmers in Africa to build fences of bee hives around their crops. If an elephant trips a wire, it will cause a hive to be disturbed and unleash a swarm of angry bees. This causes the elephants to flee away. [link](http://99percentinvisible.org/article/invisible-fences-farmers-plant-beehive-guard-posts-repel-elephants/?utm_source=99%25+Invisible&utm_medium=email&utm_campaign=e3ae7cfcc2-RSS_EMAIL_CAMPAIGN&utm_term=0_f773924a7f-e3ae7cfcc2-96872149)
+
+03/23/2016
+---
+"Scarborough Fair" is a traditional English ballad about the Yorkshire town of Scarborough. I always thought that Simon and Garfunkel wrote the tune and stole the line from Bob Dylan's "Girl from the North Country". But Dylan actually stole the line "Remember me to one who lives there, she once was a true love of mine" from the balled.
+
+03/24/2016
+---
+A SarcMark is a punctuation mark to emphasis that a written phase or sentence was meant to be said sarcastically.
