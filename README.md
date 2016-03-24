@@ -15,10 +15,6 @@ I wanted to keep my goals in an easily accessibly place.
 7. Build something with D3 [resource](https://github.com/mbostock/d3/wiki/Tutorials)
 
 
-### Things I'll Do in the Future:
----
-
-
 ### Ideas and Checklist. Check them and contribute if you wish. :)
 ---
 - [Reading List](https://github.com/nick-novak/Goals-n-such/blob/master/checklists-and-ideas/book-checklist.md)
