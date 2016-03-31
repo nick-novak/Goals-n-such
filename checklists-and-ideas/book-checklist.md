@@ -28,6 +28,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Congo -- Michael Crichton :blue_book:
 - [ ] Git for Humans - David Demaree :blue_book:
 - [ ] The Tenth of December -- George Saunders :blue_book:
+- [ ] The Power of Habit -- Charles Duhigg :headphones:
 
 To-Read
 ---
@@ -56,7 +57,6 @@ To-Read
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
-- [ ] The Power of Habit -- Charles Duhigg
 - [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] Mobile First -- Luke Wroblewski

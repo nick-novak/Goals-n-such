@@ -89,3 +89,31 @@ Elephants have an innate aversion to bees. This allows for farmers in Africa to 
 03/24/2016
 ---
 A SarcMark is a punctuation mark to emphasis that a written phase or sentence was meant to be said sarcastically.
+
+03/25/2016
+---
+Easter will not fall on my birthday again until 2157.
+
+03/26/2106
+---
+How to implement Formspree.io with Ajax and send confirmation/failure messages instead of the default formspree confirmation page. Blog post about this to follow.
+
+03/27/2106
+---
+Golden Birthday: a person's birthday when they turn the age of their birth date. Like this year, I turned 27 on March 27th.
+
+03/28/2106
+---
+Doxing is the Internet-based practice of researching and broadcasting personally identifiable information about an individual.
+
+03/29/2106
+---
+Jackson Browne originally wrote and recorded "These Days".
+
+03/30/2016
+---
+Febreze was nearly a flop, but a marketing strategies focused on Febreze as a reward once the cleaning task was completed changed it all. Once the cleaning routine was completed, ads showed people spraying Febreze and then relaxing. The idea of treating yourself to something that smelled as clean as it was, allowed for the sale or Febreze to skyrocket.
+
+03/31/2016
+---
+The government uses a Micro-purchase Marketplace to allow developers and companies to bid on their open source issues. [link](https://micropurchase.18f.gov/)
