@@ -7,3 +7,5 @@
 [February](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/february.md)
 
 [March](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/march.md)
+
+[April](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/april.md)

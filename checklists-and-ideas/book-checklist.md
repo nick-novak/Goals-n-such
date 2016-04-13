@@ -26,13 +26,17 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## March 2016
 - [x] Congo -- Michael Crichton :blue_book:
-- [ ] Git for Humans - David Demaree :blue_book:
-- [ ] The Tenth of December -- George Saunders :blue_book:
+- [x] Git for Humans - David Demaree :blue_book:
+- [x] The Tenth of December -- George Saunders :blue_book:
 - [ ] The Power of Habit -- Charles Duhigg :headphones:
+
+## April 2016
+- [ ] The Design of Everyday Things -- Don Norman :blue_book:
+- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
+
 
 To-Read
 ---
-- [ ] The Bassoon King -- Rainn Wilson
 - [ ] Shady Characters -- Keith Houston
 - [ ] Beatlebone -- Kevin Barry
 - [ ] Player Piano -- Kurt Vonnegut
@@ -57,7 +61,6 @@ To-Read
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
-- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
