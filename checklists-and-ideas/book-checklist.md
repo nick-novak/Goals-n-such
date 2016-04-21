@@ -28,7 +28,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Congo -- Michael Crichton :blue_book:
 - [x] Git for Humans - David Demaree :blue_book:
 - [x] The Tenth of December -- George Saunders :blue_book:
-- [ ] The Power of Habit -- Charles Duhigg :headphones:
+- [x] The Power of Habit -- Charles Duhigg :headphones:
 
 ## April 2016
 - [ ] The Design of Everyday Things -- Don Norman :blue_book:
@@ -37,6 +37,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 To-Read
 ---
+- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin 
 - [ ] Shady Characters -- Keith Houston
 - [ ] Beatlebone -- Kevin Barry
 - [ ] Player Piano -- Kurt Vonnegut

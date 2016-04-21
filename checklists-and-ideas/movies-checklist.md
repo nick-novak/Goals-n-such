@@ -38,6 +38,7 @@ Movies
 - [x] Mad Max: Fury Road -- 2015
 - [x] Snow Piercer -- 2013
 - [x] The Warriors -- 1979
+- [x] Magnolia -- 1999
 
 
 Documentaries

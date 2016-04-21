@@ -54,3 +54,35 @@ There are 24 bits used to specify a web color, and 16,777,216 colors that may be
 04/13/2016
 ---
 Fun Dip was originally called Lik-M-Aid and didn't include a sugar stick.
+
+04/14/2016
+---
+There was actually a living castrato singer(Alessandro Moreschi) who was recorded in 1902.
+
+04/15/2016
+---
+Another name for Basswood is limewood. This reference is mainly used in the UK.
+
+04/16/2016
+---
+This is a great resaource fro Flexbox patterns [link](http://www.flexboxpatterns.com/vertical-direction)
+
+04/17/2016
+---
+The theory of the turning test for artifical intelligence [link](https://www.youtube.com/watch?v=QxZFKN9OEpY&feature=em-uploademail)
+
+04/18/2016
+---
+In Norwegian Tradition, the cake ceremony is performed with a wooden spoon, hand carved by the husband.
+
+04/19/2016
+---
+“What gets measured gets managed — even when it’s pointless to measure and manage it, and even if it harms the purpose of the organization to do so.” ~ Peter Drucker
+
+04/20/2016
+---
+The hardest wood is Quebracho, which can sustain 4,390 lbs of force. The softest is Balsa, which can only sustain 90 lbs of force.
+
+04/21/2016
+---
+EMVs(those little gold chip on credit cards) have actually been around since the mid-eighties.
