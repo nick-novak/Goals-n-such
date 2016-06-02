@@ -32,12 +32,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## April 2016
 - [ ] The Design of Everyday Things -- Don Norman :blue_book:
-- [X] Dune -- Frank Herbert :headphones:
-
-## May 2016
-- [X] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
-- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein :headphones:
-
+- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
 
 
 To-Read
@@ -59,6 +54,7 @@ To-Read
 - [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli
 - [ ] The Innovators -- Walter Isaacson
 - [ ] Lean UX -- Jeff Gothelf
+- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein
 - [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
