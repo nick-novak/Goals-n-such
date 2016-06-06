@@ -32,6 +32,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## April 2016
 - [ ] The Design of Everyday Things -- Don Norman :blue_book:
+<<<<<<< HEAD
 - [X] Dune -- Frank Herbert :headphones:
 
 ## May 2016
@@ -41,6 +42,10 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## June 2016
 - [ ] Mobile First -- Luke Wroblewski :blue_book:
+=======
+- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
+
+>>>>>>> parent of ccf0d46... updates to checklists and added may.md
 
 To-Read
 ---
@@ -60,6 +65,7 @@ To-Read
 - [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli
 - [ ] The Innovators -- Walter Isaacson
 - [ ] Lean UX -- Jeff Gothelf
+- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein
 - [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
