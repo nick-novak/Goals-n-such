@@ -28,15 +28,12 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Congo -- Michael Crichton :blue_book:
 - [x] Git for Humans - David Demaree :blue_book:
 - [x] The Tenth of December -- George Saunders :blue_book:
-- [ ] The Power of Habit -- Charles Duhigg :headphones:
+- [x] The Power of Habit -- Charles Duhigg :headphones:
 
 ## April 2016
 - [ ] The Design of Everyday Things -- Don Norman :blue_book:
-- [ ] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
-
-To-Read
----
-- [X] Dune -- Frank Herbert :headphones:
+- [x] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
+- [x] Dune -- Frank Herbert :headphones:
 
 ## May 2016
 - [X] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
@@ -49,7 +46,6 @@ To-Read
 To-Read
 ---
 - [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
->>>>>>> origin/master
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] The Master Switch -- Tim Wu
