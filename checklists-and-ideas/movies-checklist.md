@@ -38,7 +38,9 @@ Movies
 - [x] Mad Max: Fury Road -- 2015
 - [x] Snow Piercer -- 2013
 - [x] The Warriors -- 1979
-
+- [x] Magnolia -- 1999
+- [x] Jurassic World -- 2015
+- [x] Inherent Vice -- 2014
 
 Documentaries
 ---
@@ -49,4 +51,3 @@ Documentaries
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [x] Indie Game -- 2012
-
