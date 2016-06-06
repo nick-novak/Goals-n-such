@@ -68,6 +68,7 @@ There are plans to build a wind farm off the coast of Scotland. [link](http://ww
 
 05/18/2016
 ---
+On December 7, 1980, James Taylor had an encounter with Mark David Chapman, who would assassinate John Lennon just one day later.
 
 05/19/2016
 ---
@@ -78,6 +79,7 @@ C3PO and R2D2 once were on Seasame Street where R2 fell in love with a fire hydr
 
 05/21/2016
 ---
+James Taylor descended into depression; his grades collapsed, he slept 20 hours each day, and he felt part of a "life that [he was] unable to lead." In late 1965 he committed himself to the renowned McLean Hospital in Belmont, Massachusetts,[20] where he was treated with Thorazine and where the organized days began to give him a sense of time and structure. It takes a lot of guts to commit yourself due to circumstances like that and at such a young age.
 
 05/22/2016
 ---
@@ -92,4 +94,24 @@ Bruce Hornsby was an unofficial member of The Grateful Dead from September 1990 
 
 05/25/2016
 ---
-Casey Jones was a real person whose dramatic death while trying to stop his train and save lives made him a hero; he was immortalized in a popular ballad sung by his friend Wallace Saunders, an African-American engine wiper for the IC. I just knew him from The Grateful Dead Son
+Casey Jones was a real person whose dramatic death while trying to stop his train and save lives made him a hero; he was immortalized in a popular ballad sung by his friend Wallace Saunders, an African-American engine wiper for the IC. I just knew him from The Grateful Dead Song.
+
+05/26/2016
+---
+
+05/27/2016
+---
+
+05/28/2016
+---
+
+05/29/2016
+---
+
+05/30/2016
+---
+Vincent D'Onofrio gained 80lbs for his role as Pvt. Leonard Lawrence in Full Metal Jacket. This remains the record for most weight gained by an actor for a movie.
+
+05/31/2016
+---
+Full Metal Jacket's urban battle scenes were actually filmed in east London.

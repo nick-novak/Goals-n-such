@@ -37,18 +37,19 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## May 2016
 - [X] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
 - [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein :headphones:
+- [ ] Beatlebone -- Kevin Barry :blue_book:
 
-
+## June 2016
+- [ ] Mobile First -- Luke Wroblewski :blue_book:
 
 To-Read
 ---
-- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin 
+- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Shady Characters -- Keith Houston
-- [ ] Beatlebone -- Kevin Barry
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] The Master Switch -- Tim Wu
-- [ ] Show Your Work!  -- Austin Kleon
-- [ ] Where Wizards Stay Up Late -- Katie Hafner 
+- [ ] Show Your Work! -- Austin Kleon
+- [ ] Where Wizards Stay Up Late -- Katie Hafner
 - [ ] The Crowd, The Critic, and the Muse -- Michael Gungor
 - [ ] Timeline -- Michael Crichton
 - [ ] I, Me, Mine -- George Harrison
@@ -67,7 +68,6 @@ To-Read
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
 - [ ] On Web Typography -- Jason Santa Maria
-- [ ] Mobile First -- Luke Wroblewski
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
