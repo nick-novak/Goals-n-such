@@ -39,8 +39,6 @@ Movies
 - [x] Snow Piercer -- 2013
 - [x] The Warriors -- 1979
 - [x] Magnolia -- 1999
-- [x] Jurassic World -- 2015
-- [x] Inherent Vice -- 2014
 
 Documentaries
 ---
