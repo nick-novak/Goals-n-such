@@ -36,12 +36,19 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Dune -- Frank Herbert :headphones:
 
 ## May 2016
-- [X] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
-- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein :headphones:
-- [ ] Beatlebone -- Kevin Barry :blue_book:
+- [x] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
+- [x] Hunger Makes Me A Modern Girl - Carrie Brownstein :headphones:
+- [x] Beatlebone -- Kevin Barry :blue_book:
 
 ## June 2016
 - [ ] Mobile First -- Luke Wroblewski :blue_book:
+- [x] The Amazing Adventures of Kavalier & Clay :headphones:
+- [x] The Crowd, The Critic, and the Muse -- Michael Gungor :blue_book:
+
+## July 2016
+- [x] The Girl on the Train -- Paula Hawkins :headphones:
+- [x] The Dharma Bums -- Jack Kerouac :blue_book:
+- [ ] A Feast for Crows -- George R. R. Martin
 
 To-Read
 ---
@@ -51,25 +58,30 @@ To-Read
 - [ ] The Master Switch -- Tim Wu
 - [ ] Show Your Work! -- Austin Kleon
 - [ ] Where Wizards Stay Up Late -- Katie Hafner
-- [ ] The Crowd, The Critic, and the Muse -- Michael Gungor
 - [ ] Timeline -- Michael Crichton
 - [ ] I, Me, Mine -- George Harrison
-- [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] Ender's Game -- Orson Scott Card
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
-- [ ] Dharma Bums -- Jack Kerouac
 - [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli
 - [ ] The Innovators -- Walter Isaacson
-- [ ] Lean UX -- Jeff Gothelf
-- [ ] Hunger Makes Me A Modern Girl - Carrie Brownstein
-- [ ] The Girl on the Train -- Paula Hawkins
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] Yes Please! -- Amy Poehler
-- [ ] So You've Been Publicly Shamed -- Jon Ronson
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
-- [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
+
+To-Read 2017
+---
+- [ ] Haymaker -- Adam Schuitema
+- [ ] The Alchemist -- Paulo Coelho
+- [ ] The Phantom Tollbooth -- Norton Juster
+- [ ] Persepolis: The Story of a Childhood -- Marjane Satrapi
+- [ ] The Art Of Happiness: A Handbook For Living --  Dalai Lama and Howard Cutler
+- [ ] The Seven Spiritual Laws of Success: A Pocketbook Guide to Fulfilling Your Dreams -- Deepak Chopra M.D
+- [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
+- [ ] Lean UX -- Jeff Gothelf
+- [ ] Weaving the Web -- Tim Berners-Lee
+- [ ] You Can't Win -- Jack Black

@@ -72,6 +72,7 @@ On December 7, 1980, James Taylor had an encounter with Mark David Chapman, who 
 
 05/19/2016
 ---
+Shel Silverstein wrote the song "A Boy Named Sue" for Johnny Cash.
 
 05/20/2016
 ---
@@ -83,6 +84,7 @@ James Taylor descended into depression; his grades collapsed, he slept 20 hours 
 
 05/22/2016
 ---
+In 1991, Wayne Allwine, the voice of Mickey Mouse, married Russi Taylor—the voice of Minnie.
 
 05/23/2016
 ---
@@ -98,15 +100,19 @@ Casey Jones was a real person whose dramatic death while trying to stop his trai
 
 05/26/2016
 ---
+William Faulkner refused a dinner invitation from JFK's White House. "Why that’s a hundred miles away," he said. "That’s a long way to go just to eat."
 
 05/27/2016
 ---
+The FBI called Ted Kaczynski "The Unabomber" because his early mail bombs were sent to universities (UN) & airlines (A).
 
 05/28/2016
 ---
+"Jay" used to be slang for "foolish person." So when a pedestrian ignored street signs, he was referred to as a "jaywalker."
 
 05/29/2016
 ---
+Jacuzzi is a brand name. You can also buy Jacuzzi toilets and mattresses.
 
 05/30/2016
 ---

@@ -1,6 +1,6 @@
 My last two years of becoming a better developer.
 ---
-What did. What I read. Tips, tools etc.
+What I did. What I read. Tips, tools etc.
 
 
 Compare web developing to woodworking.

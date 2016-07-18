@@ -6,10 +6,9 @@ Movies
 ---
 - [x] Field of Dreams -- 1989
 - [ ] Citizen Kane -- 1941
-- [ ] The Maltese Falcon -- 1941
 - [ ] Joy -- 2015
 - [ ] Bridge of Spies -- 2015
-- [ ] Paths of Glory -- 1957
+- [x] Paths of Glory -- 1957
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
 - [ ] 12 Angry Men -- 1957
