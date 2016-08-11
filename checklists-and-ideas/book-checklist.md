@@ -16,13 +16,11 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Botany of Desire -- Micheal Pollan :headphones:
 - [x] Fidelity -- Wendell Berry :blue_book:
 
-
 ## February  2016
 - [x] Just Kids -- Patti Smith :headphones:
 - [x] Unfaithful Music & Disappearing Ink -- Elvis Costello :headphones:
 - [x] The Tipping Point -- Malcolm Gladwell :blue_book:
 - [x] Modern Romance -- Aziz Ansari :headphones:
-
 
 ## March 2016
 - [x] Congo -- Michael Crichton :blue_book:
@@ -48,30 +46,26 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## July 2016
 - [x] The Girl on the Train -- Paula Hawkins :headphones:
 - [x] The Dharma Bums -- Jack Kerouac :blue_book:
-- [ ] A Feast for Crows -- George R. R. Martin
+- [x] A Feast for Crows -- George R. R. Martin :headphones:
+
+## August 2016
+- [ ] 11/22/63 - Stephen King :blue_book:
+- [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan :headphones:
 
 To-Read
 ---
 - [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
-- [ ] The Master Switch -- Tim Wu
 - [ ] Show Your Work! -- Austin Kleon
-- [ ] Where Wizards Stay Up Late -- Katie Hafner
 - [ ] Timeline -- Michael Crichton
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Ender's Game -- Orson Scott Card
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
-- [ ] Becoming Steve Jobs -- Brent Schlender & Rick Tetzeli
-- [ ] The Innovators -- Walter Isaacson
 - [ ] The Cuckoo's Egg -- Clifford Stoll
-- [ ] Yes Please! -- Amy Poehler
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
-- [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] You're My Favorite Client -- Mike Monteiro
-- [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan
-- [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
 
 To-Read 2017
 ---
@@ -85,3 +79,7 @@ To-Read 2017
 - [ ] Lean UX -- Jeff Gothelf
 - [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] You Can't Win -- Jack Black
+- [ ] American Gods -- Neil Gaiman
+- [ ] Jim Henson: The Biography -- Brian Jay Jones
+- [ ] Station Eleven -- Emily St. John Mandel
+- [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert

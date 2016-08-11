@@ -73,6 +73,60 @@ Bergmann's rule is an ecogeographical rule that states that within a broadly dis
 
 07/19/2016
 ---
+The weirdly, unsettling dark humor illustrations of Joan Cornellà. [link](http://joancornella.net/)
 
 07/20/2016
 ---
+Because of a bullet wound after an assignation attempt, Theodore Roosevelt was taken off the campaign trail in the final weeks of the race (which ended on election day, November 5). Though the other two campaigners stopped their own campaigns during the week Roosevelt was in the hospital, they resumed it once he was released.
+
+07/21/2016
+---
+Geologically, a fjord or fiord is a long, narrow inlet with steep sides or cliffs, created by glacial erosion.
+
+07/22/2016
+---
+In some countries, like Switzerland, they sell government bonds with negative interest rates. So if you buy a bond over the years, you will lose money on it instead of gaining.
+
+07/23/2016
+---
+Wrigley's gum was the first product with a bar code to be scanned at a supermarket.
+
+07/24/2016
+---
+The name, "Moleskine", is a nickname that Chatwin uses in one of his most celebrated writings, The Songlines (1986).[6] In this book, Chatwin tells the story of his original supplier of notebooks, a Paris stationer who in 1986 informed him that the last notebook manufacturer, a small family-run firm in Tours, had discontinued production that year, after the death of the owner. "Le vrai Moleskine n’est plus" ("The real Moleskine is no more") is a phrase coined by Chatwin to be said by the owner of the stationery shop in Rue de l’Ancienne Comédie.
+
+07/25/2016
+---
+Baskerville is a trustworthy font. Experiments show that people are more likely to believe information set in Baskerville, versus text in Georgia, Computer Modern, Helvetica, Comic Sans or Trebuchet. So, why Baskerville? Cornell University professor David Dunning thinks Baskerville has a British sense of formality and solemnity that enhances its credibility.
+
+07/26/2016
+---
+Bill Clinton was the first Governor in the state of Arkansas to be elected(1979-81), defeated(1980), then elected again(1983-92).
+
+07/25/2016
+---
+For optimal reading speed on the web, keep fonts at 10 points and above. Arial, Verdana, Georgia and Times New Roman all do equally well as far as reading speed goes.
+
+07/26/2016
+---
+King had such a serious drug and alcohol addictions in the 80s, that he says that he doesn't remember writing Cujo at all.
+
+07/27/2016
+---
+While many Chinese-influenced noodle dishes that have entered the Thai culinary repertoire are eaten with chopsticks, traditional Thai dishes -– almost always eaten with long-grain rice -– require a spoon and a fork.
+
+07/28/2016
+---
+Ronald Reagan was once divorced.
+
+07/29/2016
+---
+Seven months before the Kennedy assassination, Lee Harvey Oswald allegedly fired into the home of an ultra-right wing Army general named Edwin Walker. The bullet, which missed Walker, was linked to Oswald’s ammunition after the Kennedy assassination.
+
+07/30/2016
+---
+A watershed is a turning point, or historic moment. The day you got your braces off might have been a watershed moment in your life. Watershed is a geographical term, originally. The area that drains into a single river is the watershed for that river.
+
+07/31/2016
+---
+The correct way to use shellac for a great wood finish. [link](http://bcove.me/hn3bek8c)

@@ -17,3 +17,5 @@ Sturgill Simpson - A Sailor's Guide to Earth
 David Bowie - Black Star
 Whitney - Light Upon the Lake
 The Lumineers - Cleopatra
+Micheal Kiwanuka - Love & Hate
+Blood Orange - Freetown Sound

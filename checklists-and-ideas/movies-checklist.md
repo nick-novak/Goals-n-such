@@ -32,17 +32,18 @@ Movies
 - [ ] I Saw the Light -- 2016
 - [ ] Billy Jack -- 1971
 - [x] Ex Machina -- 2015
-- [ ] Spotlight -- 2015
+- [x] Spotlight -- 2015
 - [ ] The Big Short -- 2015
 - [x] Mad Max: Fury Road -- 2015
 - [x] Snow Piercer -- 2013
 - [x] The Warriors -- 1979
 - [x] Magnolia -- 1999
+- [x] The Intimidation Game -- 2015
 
 Documentaries
 ---
 - [ ] The Ties That Bind -- 2015
-- [ ] Fed Up --2014
+- [x] Fed Up --2014
 - [x] Big Easy Express - 2012
 - [ ] Forks over Knifes -- 2011
 - [ ] Detropia -- 2012
