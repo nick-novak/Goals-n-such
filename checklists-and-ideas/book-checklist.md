@@ -34,7 +34,6 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Dune -- Frank Herbert :headphones:
 
 ## May 2016
-- [x] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
 - [x] Hunger Makes Me A Modern Girl - Carrie Brownstein :headphones:
 - [x] Beatlebone -- Kevin Barry :blue_book:
 
@@ -49,12 +48,16 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] A Feast for Crows -- George R. R. Martin :headphones:
 
 ## August 2016
-- [ ] 11/22/63 - Stephen King :blue_book:
-- [ ] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan :headphones:
+- [x] 11/22/63 - Stephen King :blue_book:
+- [x] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan :headphones:
+- [ ] The Buddha Walks into a Bar… -- Lodro Rinzler :blue_book:
+
+## September 2016
+- [ ] American Gods -- Neil Gaiman :headphones:
+- [ ] Station Eleven -- Emily St. John Mandel :blue_book:
 
 To-Read
 ---
-- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] Show Your Work! -- Austin Kleon
@@ -66,20 +69,25 @@ To-Read
 - [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
 - [ ] On Web Typography -- Jason Santa Maria
 - [ ] You're My Favorite Client -- Mike Monteiro
+- [ ] Persepolis: The Story of a Childhood -- Marjane Satrapi
 
 To-Read 2017
 ---
+- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Haymaker -- Adam Schuitema
 - [ ] The Alchemist -- Paulo Coelho
 - [ ] The Phantom Tollbooth -- Norton Juster
-- [ ] Persepolis: The Story of a Childhood -- Marjane Satrapi
 - [ ] The Art Of Happiness: A Handbook For Living --  Dalai Lama and Howard Cutler
 - [ ] The Seven Spiritual Laws of Success: A Pocketbook Guide to Fulfilling Your Dreams -- Deepak Chopra M.D
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
 - [ ] Lean UX -- Jeff Gothelf
 - [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] You Can't Win -- Jack Black
-- [ ] American Gods -- Neil Gaiman
 - [ ] Jim Henson: The Biography -- Brian Jay Jones
-- [ ] Station Eleven -- Emily St. John Mandel
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
+- [ ] The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph -- Ryan Holiday
+- [ ] A Visit from the Goon Squad -- Jennifer Egan
+- [ ] Catch 22 -- Joseph Heller
+- [ ] Blankets - Craig Thompson
+- [ ] Fun Home: A Family Tragicomic - Alison Bechdel
+- [ ] Ghost World - Daniel Clowes

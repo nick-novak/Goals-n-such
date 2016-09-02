@@ -1,4 +1,4 @@
-##Top Ten
+##Top Ten Albums
 1.
 2.
 3.
@@ -19,3 +19,7 @@ Whitney - Light Upon the Lake
 The Lumineers - Cleopatra
 Micheal Kiwanuka - Love & Hate
 Blood Orange - Freetown Sound
+Nels Cline - Lovers
+White Denim - Stiff
+Car Seat Headrest - Teens of Denial
+Da La Soul - and the Anonymous Nobody…

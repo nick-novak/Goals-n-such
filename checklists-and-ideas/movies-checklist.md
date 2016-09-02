@@ -33,7 +33,7 @@ Movies
 - [ ] Billy Jack -- 1971
 - [x] Ex Machina -- 2015
 - [x] Spotlight -- 2015
-- [ ] The Big Short -- 2015
+- [x] The Big Short -- 2015
 - [x] Mad Max: Fury Road -- 2015
 - [x] Snow Piercer -- 2013
 - [x] The Warriors -- 1979
@@ -49,3 +49,4 @@ Documentaries
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [x] Indie Game -- 2012
+- [x] The History of The Eagles
