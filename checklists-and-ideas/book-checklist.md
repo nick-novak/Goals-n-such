@@ -88,6 +88,8 @@ To-Read 2017
 - [ ] The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph -- Ryan Holiday
 - [ ] A Visit from the Goon Squad -- Jennifer Egan
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Blankets - Craig Thompson
-- [ ] Fun Home: A Family Tragicomic - Alison Bechdel
-- [ ] Ghost World - Daniel Clowes
+- [ ] Blankets -- Craig Thompson
+- [ ] Fun Home: A Family Tragicomic -- Alison Bechdel
+- [ ] Ghost World -- Daniel Clowes
+- [ ] Your Song Changed My Life -- Bob Boilen
+- [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer

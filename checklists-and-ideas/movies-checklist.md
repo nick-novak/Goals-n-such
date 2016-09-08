@@ -39,6 +39,7 @@ Movies
 - [x] The Warriors -- 1979
 - [x] Magnolia -- 1999
 - [x] The Intimidation Game -- 2015
+- [x] Brooklyn -- 2015
 
 Documentaries
 ---

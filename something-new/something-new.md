@@ -17,3 +17,5 @@
 [July](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/july.md)
 
 [August](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/august.md)
+
+[September](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/september.md)

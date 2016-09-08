@@ -23,3 +23,5 @@ Nels Cline - Lovers
 White Denim - Stiff
 Car Seat Headrest - Teens of Denial
 Da La Soul - and the Anonymous Nobody…
+Paul Simon - Stranger to Stranger
+Angel Olsen - MY WOMEN
