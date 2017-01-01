@@ -4,15 +4,12 @@ Personal Goals
 I wanted to keep my goals in an easily accessibly place.
 
 
-# Goals for 2016
----
-1. Learn. Learn and keep on learning. [Something New](https://github.com/nick-novak/Goals-n-such/blob/master/something-new/something-new.md)
-2. Start my blog
-3. Use Github more
-4. Walk/workout everyday
-5. Build more things
-6. Break ~~3 million~~ 4 million steps this year
-7. Build something with D3 [resource](https://github.com/mbostock/d3/wiki/Tutorials)
+# Goals for 2017
+1. Learn. Learn and keep on learning.
+2. Write more
+3. Walk/workout everyday (run 250 miles)
+4. Start monetizing my hobbies.
+5. Learn to become more of a Front End Designer who develops.
 
 
 ### Ideas and Checklist. Check them and contribute if you wish. :)

@@ -38,7 +38,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Beatlebone -- Kevin Barry :blue_book:
 
 ## June 2016
-- [ ] Mobile First -- Luke Wroblewski :blue_book:
+- [x] Mobile First -- Luke Wroblewski :blue_book:
 - [x] The Amazing Adventures of Kavalier & Clay :headphones:
 - [x] The Crowd, The Critic, and the Muse -- Michael Gungor :blue_book:
 
@@ -50,11 +50,28 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## August 2016
 - [x] 11/22/63 - Stephen King :blue_book:
 - [x] A Place of My Own: The Architecture of Daydreams -- Micheal Pollan :headphones:
-- [ ] The Buddha Walks into a Bar… -- Lodro Rinzler :blue_book:
+- [x] The Buddha Walks into a Bar… -- Lodro Rinzler :blue_book:
 
 ## September 2016
-- [ ] American Gods -- Neil Gaiman :headphones:
-- [ ] Station Eleven -- Emily St. John Mandel :blue_book:
+- [x] American Gods -- Neil Gaiman :headphones:
+- [x] Station Eleven -- Emily St. John Mandel :blue_book:
+- [x] Persepolis: The Story of a Childhood -- Marjane Satrapi :blue_book:
+
+## October 2016
+- [ ] Born to Run - Bruce Springsteen :blue_book:
+- [x] Tom Sawyer -- Mark Twain :headphones:
+
+## November 2016
+- [ ] Ender's Game -- Orson Scott Card :headphones:
+- [x] Harry Potter and the Sorcerer's Stone -- JK Rowling :blue_book:
+
+## December 2016
+- [x] Harry Potter and the Chamber of Secrets -- JK Rowling :blue_book:
+- [x] Harry Potter and the Prisoner of Azkaban -- JK Rowling :blue_book:
+- [ ] Harry Potter and the Goblet of Fire -- JK Rowling :blue_book:
+
+## January 2017
+- [ ] The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution -- Walter Isaacson :headphones:
 
 To-Read
 ---
@@ -62,34 +79,21 @@ To-Read
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] Show Your Work! -- Austin Kleon
 - [ ] Timeline -- Michael Crichton
-- [ ] I, Me, Mine -- George Harrison
-- [ ] Ender's Game -- Orson Scott Card
-- [ ] How to Win Friends and Influence People -- Dale Carnegie
-- [ ] The Cuckoo's Egg -- Clifford Stoll
-- [ ] The Five Keys to Mindful Communication -- Susan Gillis Chapman
-- [ ] On Web Typography -- Jason Santa Maria
 - [ ] You're My Favorite Client -- Mike Monteiro
-- [ ] Persepolis: The Story of a Childhood -- Marjane Satrapi
-
-To-Read 2017
----
+- [ ] How to Win Friends and Influence People -- Dale Carnegie
+- [ ] I, Me, Mine -- George Harrison
 - [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Haymaker -- Adam Schuitema
 - [ ] The Alchemist -- Paulo Coelho
 - [ ] The Phantom Tollbooth -- Norton Juster
-- [ ] The Art Of Happiness: A Handbook For Living --  Dalai Lama and Howard Cutler
-- [ ] The Seven Spiritual Laws of Success: A Pocketbook Guide to Fulfilling Your Dreams -- Deepak Chopra M.D
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
-- [ ] Lean UX -- Jeff Gothelf
-- [ ] Weaving the Web -- Tim Berners-Lee
 - [ ] You Can't Win -- Jack Black
-- [ ] Jim Henson: The Biography -- Brian Jay Jones
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
 - [ ] The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph -- Ryan Holiday
 - [ ] A Visit from the Goon Squad -- Jennifer Egan
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Blankets -- Craig Thompson
-- [ ] Fun Home: A Family Tragicomic -- Alison Bechdel
-- [ ] Ghost World -- Daniel Clowes
 - [ ] Your Song Changed My Life -- Bob Boilen
 - [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer
+- [ ] Every Song Ever: Twenty Ways to Listen in an Age of Musical Plenty - Ben Ratliff
+- [ ] Layout Essentials: 100 Design Principles for Using Grids - Beth Tondreau
+- [ ] Meggs' History of Graphic Design - Phillip B. Meggs

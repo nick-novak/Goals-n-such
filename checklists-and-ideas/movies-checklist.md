@@ -28,7 +28,7 @@ Movies
 - [ ] The Muppet Movie *revisit* -- 1979
 - [ ] The Great Muppet Caper -- 1981
 - [x] The Muppets -- 2011
-- [ ] The Revenant -- 2015
+- [x] The Revenant -- 2015
 - [ ] I Saw the Light -- 2016
 - [ ] Billy Jack -- 1971
 - [x] Ex Machina -- 2015
@@ -40,6 +40,7 @@ Movies
 - [x] Magnolia -- 1999
 - [x] The Intimidation Game -- 2015
 - [x] Brooklyn -- 2015
+- [x] The Great Dictator -- 1940
 
 Documentaries
 ---
@@ -50,4 +51,4 @@ Documentaries
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [x] Indie Game -- 2012
-- [x] The History of The Eagles
+- [x] The History of The Eagles -- 2013
