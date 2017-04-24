@@ -15,6 +15,7 @@ Detroit/Ann Arbor
 - [ ] Dragonmead Microbrewery
 - [ ] Griffin Claw Brewing *revisit*
 - [ ] Arbor Brewing Company
+- [x] Brew Detroit
 
 Grand Rapids/ Kalamazoo
 ---
@@ -31,4 +32,3 @@ Up North
 - [ ] Petoskey Brewing
 - [ ] Beards Brewery
 - [ ] Right Brain Brewery
-

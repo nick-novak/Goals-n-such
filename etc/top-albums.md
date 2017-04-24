@@ -1,4 +1,19 @@
-##Top Ten Albums
+##Top Ten Albums 2017
+The XX -- I See You
+Cloud Nothings - Life Without Sound
+Delicate Steve - This is Steve
+Ryan Adams - Prisoner
+Chicano Batman - Freedom Is Free
+The Shins - Heart Worms
+Tennis - Yours Conditionally
+Jay Som - Everybody Works
+Grandaddy - Last Place
+Real Estate - In Mind
+Valerie June - The Order of Time
+Father John Misty - Pure Comedy
+Future Islands - The Far Field 
+
+##Top Ten Albums 2016
 1. Car Seat Headrest - Teens of Denial
 2. Whitney - Light Upon the Lake
 3. Frank Ocean - Blonde

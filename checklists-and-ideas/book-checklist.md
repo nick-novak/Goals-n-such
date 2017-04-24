@@ -1,3 +1,4 @@
+Pdont 1!t
 # Books I've Read & Want to Read
 ## Collection of Audiobooks, books & ebooks I intend to read.
 
@@ -7,6 +8,8 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 (:blue_book: == Actual book with paper pages)
 (:iphone: == Kindle)
 (:headphones: == AudioBook)
+
+#2016
 
 ## January 2016
 - [x] Gumption -- Nick Offerman :headphones:
@@ -39,7 +42,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## June 2016
 - [x] Mobile First -- Luke Wroblewski :blue_book:
-- [x] The Amazing Adventures of Kavalier & Clay :headphones:
+- [x] The Amazing Adventures of Kavalier & Clay -- Micheal Chabon :headphones:
 - [x] The Crowd, The Critic, and the Muse -- Michael Gungor :blue_book:
 
 ## July 2016
@@ -62,19 +65,39 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Tom Sawyer -- Mark Twain :headphones:
 
 ## November 2016
-- [ ] Ender's Game -- Orson Scott Card :headphones:
 - [x] Harry Potter and the Sorcerer's Stone -- JK Rowling :blue_book:
 
 ## December 2016
 - [x] Harry Potter and the Chamber of Secrets -- JK Rowling :blue_book:
 - [x] Harry Potter and the Prisoner of Azkaban -- JK Rowling :blue_book:
-- [ ] Harry Potter and the Goblet of Fire -- JK Rowling :blue_book:
+- [x] Harry Potter and the Goblet of Fire -- JK Rowling :blue_book:
+
+#2017
 
 ## January 2017
-- [ ] The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution -- Walter Isaacson :headphones:
+- [x] The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution -- Walter Isaacson :headphones:
+- [x] Harry Potter and the Order of the Phoenix -- JK Rowling :blue_book:
+- [x] The Andromeda Strain -- Micheal Crichton :headphones:
+
+## February 2017
+- [x] Harry Potter and the Half Blood Prince -- JK Rowling :blue_book:
+- [x] All the Light We Cannot See -- Anthony Doerr :headphones:
+- [x] Designing for Performance -- Laura Callender Hogan :blue_book:
+- [x] Harry Potter and the Deathly Hollows -- JK Rowling :blue_book:
+
+## March 2017
+- [ ] The Handmaid's Tale -- Margaret Atwood :headphones:
+- [ ] Practical SVG -- Chris Coyier :blue_book:
+
+## April 2017
+- [x] Your Song Changed My Life -- Bob Boilen :blue_book:
+- [ ] A Visit from the Goon Squad -- Jennifer Egan :blue_book:
+
 
 To-Read
 ---
+- [ ] The Sellout - Paul Beatty
+- [ ] Lincoln in the Bardo -- George Saunders
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
 - [ ] Show Your Work! -- Austin Kleon
@@ -87,13 +110,14 @@ To-Read
 - [ ] The Alchemist -- Paulo Coelho
 - [ ] The Phantom Tollbooth -- Norton Juster
 - [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
-- [ ] You Can't Win -- Jack Black
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
-- [ ] The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph -- Ryan Holiday
-- [ ] A Visit from the Goon Squad -- Jennifer Egan
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Your Song Changed My Life -- Bob Boilen
 - [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer
 - [ ] Every Song Ever: Twenty Ways to Listen in an Age of Musical Plenty - Ben Ratliff
 - [ ] Layout Essentials: 100 Design Principles for Using Grids - Beth Tondreau
 - [ ] Meggs' History of Graphic Design - Phillip B. Meggs
+- [ ] The Yogi Book -- Yogi Berra
+- [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
+- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer
+- [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
+- [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr

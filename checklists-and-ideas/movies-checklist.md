@@ -2,13 +2,11 @@
 
 Feel free to add to the list below under suggestions. :)
 
-Movies
+##2017 List
 ---
-- [x] Field of Dreams -- 1989
 - [ ] Citizen Kane -- 1941
 - [ ] Joy -- 2015
 - [ ] Bridge of Spies -- 2015
-- [x] Paths of Glory -- 1957
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
 - [ ] 12 Angry Men -- 1957
@@ -21,16 +19,33 @@ Movies
 	- [ ] An Unexpected Journey -- 2012
 	- [ ] The Desolation of Smaug -- 2013
 	- [ ] The Battle of the Five Armies -- 2014
-- [x] Django Unchained -- 2012
 - [ ] North by Northwest -- 1959
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
 - [ ] The Muppet Movie *revisit* -- 1979
 - [ ] The Great Muppet Caper -- 1981
-- [x] The Muppets -- 2011
-- [x] The Revenant -- 2015
 - [ ] I Saw the Light -- 2016
 - [ ] Billy Jack -- 1971
+- [ ] Arrival -- 2016
+- [ ] Kubo and the Two Strings -- 2016
+- [ ] La La Land -- 2016
+
+Documentaries
+---
+- [ ] The Ties That Bind -- 2015
+- [ ] Forks over Knifes -- 2011
+- [ ] Detropia -- 2012
+- [ ] The U.S. vs John Lennon -- 2006
+
+
+
+##2016 List
+---
+- [x] Field of Dreams -- 1989
+- [x] Paths of Glory -- 1957
+- [x] Django Unchained -- 2012
+- [x] The Muppets -- 2011
+- [x] The Revenant -- 2015
 - [x] Ex Machina -- 2015
 - [x] Spotlight -- 2015
 - [x] The Big Short -- 2015
@@ -41,14 +56,13 @@ Movies
 - [x] The Intimidation Game -- 2015
 - [x] Brooklyn -- 2015
 - [x] The Great Dictator -- 1940
+- [x] Fantastic Beasts and Where to Find Them -- 2016
+- [x] Rouge One -- 2016
+
 
 Documentaries
 ---
-- [ ] The Ties That Bind -- 2015
 - [x] Fed Up --2014
 - [x] Big Easy Express - 2012
-- [ ] Forks over Knifes -- 2011
-- [ ] Detropia -- 2012
-- [ ] The U.S. vs John Lennon -- 2006
 - [x] Indie Game -- 2012
 - [x] The History of The Eagles -- 2013
