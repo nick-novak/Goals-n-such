@@ -86,13 +86,23 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Harry Potter and the Deathly Hollows -- JK Rowling :blue_book:
 
 ## March 2017
-- [ ] The Handmaid's Tale -- Margaret Atwood :headphones:
-- [ ] Practical SVG -- Chris Coyier :blue_book:
+- [x] The Handmaid's Tale -- Margaret Atwood :headphones:
+- [x] Practical SVG -- Chris Coyier :blue_book:
 
 ## April 2017
 - [x] Your Song Changed My Life -- Bob Boilen :blue_book:
-- [ ] A Visit from the Goon Squad -- Jennifer Egan :blue_book:
+- [x] A Visit from the Goon Squad -- Jennifer Egan :blue_book:
+- [x] Nudge -- Richard H. Thaler & Cass R. Sunstein :headphones:
 
+## May 2017
+
+## June 2017
+- [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer :headphones:
+- [ ] Damn Good Advice -- George Lois :blue_book:
+
+## July 2017
+- [ ] The Alchemist -- Paulo Coelho :blue_book:
+- [ ] The Phantom Tollbooth -- Norton Juster :blue_book:
 
 To-Read
 ---
@@ -105,19 +115,12 @@ To-Read
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
-- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper, Christopher Noessel, Robert Reimann and David Cronin
 - [ ] Haymaker -- Adam Schuitema
-- [ ] The Alchemist -- Paulo Coelho
-- [ ] The Phantom Tollbooth -- Norton Juster
-- [ ] Nudge -- Richard H. Thaler & Cass R. Sunstein
 - [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer
 - [ ] Every Song Ever: Twenty Ways to Listen in an Age of Musical Plenty - Ben Ratliff
-- [ ] Layout Essentials: 100 Design Principles for Using Grids - Beth Tondreau
-- [ ] Meggs' History of Graphic Design - Phillip B. Meggs
-- [ ] The Yogi Book -- Yogi Berra
 - [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
 - [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer
 - [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
 - [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
+- [ ] Stories of Your Life and Others - Ted Chiang

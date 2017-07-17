@@ -9,9 +9,14 @@ Tennis - Yours Conditionally
 Jay Som - Everybody Works
 Grandaddy - Last Place
 Real Estate - In Mind
+Thundercat - Drunk
 Valerie June - The Order of Time
 Father John Misty - Pure Comedy
-Future Islands - The Far Field 
+Future Islands - The Far Field
+Violents & Monica Martin - Awake and Pretty Much Sober
+Slowdive - Slowdive
+Fleet Foxes - Crack up
+Phoenix - Ti Amo
 
 ##Top Ten Albums 2016
 1. Car Seat Headrest - Teens of Denial

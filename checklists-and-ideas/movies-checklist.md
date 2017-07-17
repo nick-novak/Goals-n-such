@@ -5,7 +5,7 @@ Feel free to add to the list below under suggestions. :)
 ##2017 List
 ---
 - [ ] Citizen Kane -- 1941
-- [ ] Joy -- 2015
+- [x] Joy -- 2015
 - [ ] Bridge of Spies -- 2015
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
@@ -13,7 +13,6 @@ Feel free to add to the list below under suggestions. :)
 - [ ] Network -- 1976
 - [ ] Se7en -- 1995
 - [ ] Léon: The Professional -- 1994
-- [ ] Spirited Away - 2001
 - [ ] Howl's Moving Castle -- 2004
 - [ ] The Hobbit series
 	- [ ] An Unexpected Journey -- 2012
@@ -26,9 +25,14 @@ Feel free to add to the list below under suggestions. :)
 - [ ] The Great Muppet Caper -- 1981
 - [ ] I Saw the Light -- 2016
 - [ ] Billy Jack -- 1971
-- [ ] Arrival -- 2016
-- [ ] Kubo and the Two Strings -- 2016
-- [ ] La La Land -- 2016
+- [x] Arrival -- 2016
+- [x] Kubo and the Two Strings -- 2016
+- [x] La La Land -- 2016
+- [x] Spirited Away - 2001
+- [x] Being There - 1979
+- [x] The Color of Money - 1986
+- [ ] Mo' Better Blues - 1990
+
 
 Documentaries
 ---
@@ -36,6 +40,8 @@ Documentaries
 - [ ] Forks over Knifes -- 2011
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
+- [ ] Peter Green: Man of the World -- 2009
+- [ ] Dogtown and Z boys -- 2001
 
 
 
@@ -58,7 +64,6 @@ Documentaries
 - [x] The Great Dictator -- 1940
 - [x] Fantastic Beasts and Where to Find Them -- 2016
 - [x] Rouge One -- 2016
-
 
 Documentaries
 ---
