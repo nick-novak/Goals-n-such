@@ -24,7 +24,6 @@ Feel free to add to the list below under suggestions. :)
 - [ ] The Muppet Movie *revisit* -- 1979
 - [ ] The Great Muppet Caper -- 1981
 - [ ] I Saw the Light -- 2016
-- [ ] Billy Jack -- 1971
 - [x] Arrival -- 2016
 - [x] Kubo and the Two Strings -- 2016
 - [x] La La Land -- 2016

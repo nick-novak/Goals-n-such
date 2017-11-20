@@ -61,7 +61,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Persepolis: The Story of a Childhood -- Marjane Satrapi :blue_book:
 
 ## October 2016
-- [ ] Born to Run - Bruce Springsteen :blue_book:
+- [x] Born to Run - Bruce Springsteen :blue_book:
 - [x] Tom Sawyer -- Mark Twain :headphones:
 
 ## November 2016
@@ -97,30 +97,42 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## May 2017
 
 ## June 2017
-- [ ] Extremely Loud and Incredibly Close -- Jonathon Safran Foer :headphones:
-- [ ] Damn Good Advice -- George Lois :blue_book:
+- [x] Extremely Loud and Incredibly Close -- Jonathon Safran Foer :headphones:
+- [x] Damn Good Advice -- George Lois :blue_book:
 
 ## July 2017
-- [ ] The Alchemist -- Paulo Coelho :blue_book:
-- [ ] The Phantom Tollbooth -- Norton Juster :blue_book:
+- [x] The Alchemist -- Paulo Coelho :blue_book:
+- [x] The Phantom Tollbooth -- Norton Juster :blue_book:
+
+## August 2017
+- [x] Timeline -- Michael Crichton :blue_book:
+- [x] Hillbilly Elegy: A Memoir of a Family and Culture in Crisis -- J. D. Vance :headphones:
+
+## September 2017
+- [x] Al Franken, Giant of the Senate -- Al Franken
+- [x] Astrophysics for People in a Hurry -- Neil deGrasse Tyson
+- [x] Lincoln in the Bardo -- George Saunders
+
+## October 2017
+- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer
+- [x] Annihilation -- Jeff VanderMeer
+
+## November 2017
+- [ ] It -- Stephen King
 
 To-Read
 ---
-- [ ] The Sellout - Paul Beatty
-- [ ] Lincoln in the Bardo -- George Saunders
+- [ ] Artemis: A Novel -- Andy Weir
+- [ ] The Sellout -- Paul Beatty
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
-- [ ] Show Your Work! -- Austin Kleon
-- [ ] Timeline -- Michael Crichton
 - [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
-- [ ] Haymaker -- Adam Schuitema
-- [ ] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
 - [ ] Catch 22 -- Joseph Heller
 - [ ] Every Song Ever: Twenty Ways to Listen in an Age of Musical Plenty - Ben Ratliff
 - [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
-- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer
 - [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
 - [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
-- [ ] Stories of Your Life and Others - Ted Chiang
+- [ ] To Kill a Mockingbird -- Harper Lee
+- [ ] Go Set a Watchman -- Harper Lee
