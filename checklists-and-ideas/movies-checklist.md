@@ -2,10 +2,9 @@
 
 Feel free to add to the list below under suggestions. :)
 
-##2017 List
+##2018 List
 ---
 - [ ] Citizen Kane -- 1941
-- [x] Joy -- 2015
 - [ ] Bridge of Spies -- 2015
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
@@ -24,25 +23,56 @@ Feel free to add to the list below under suggestions. :)
 - [ ] The Muppet Movie *revisit* -- 1979
 - [ ] The Great Muppet Caper -- 1981
 - [ ] I Saw the Light -- 2016
-- [x] Arrival -- 2016
-- [x] Kubo and the Two Strings -- 2016
-- [x] La La Land -- 2016
-- [x] Spirited Away - 2001
-- [x] Being There - 1979
-- [x] The Color of Money - 1986
-- [ ] Mo' Better Blues - 1990
+- [ ] Mo' Better Blues -- 1990
+- [ ] Highlander -- 1986
+- [ ] IT -- 2017
+- [ ] Dunkirk -- 2017
+- [ ] LadyBird -- 2017
+- [ ] The Natural -- 1984
+- [ ] Rocky -- 1976
+- [ ] Lawerence of Arabia -- 1962
+- [ ] Five Easy Pieces -- 1970
+- [ ] Cape Fear -- 1991
 
 
 Documentaries
 ---
 - [ ] The Ties That Bind -- 2015
-- [ ] Forks over Knifes -- 2011
+- [x] Forks over Knifes -- 2011
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
 - [ ] Dogtown and Z boys -- 2001
 
 
+
+##2017 List
+---
+- [x] Arrival -- 2016
+- [x] Kubo and the Two Strings -- 2016
+- [x] La La Land -- 2016
+- [x] Spirited Away -- 2001
+- [x] Being There -- 1979
+- [x] The Color of Money -- 1986
+- [x] Lion -- 2016
+- [x] Joy -- 2015
+- [x] Captain Fantastic -- 2016
+- [x] Moana -- 2016
+- [x] Gangs of New York -- 2002
+- [x] Being There -- 1979
+- [x] Gran Torino -- 2008
+- [x] Beauty and the Beast -- 2017
+- [x] Nightcrawler -- 2014
+- [x] Coraline -- 2009
+- [x] The Secret Life of Pets -- 2016
+- [x] Million Dollar Baby -- 2004
+- [x] Chaplin -- 1992
+- [x] Chef -- 2014
+
+Documentaries
+---
+- [x] Forks over Knifes -- 2011
+- [x] Searching for Sugar Man -- 2012
 
 ##2016 List
 ---
@@ -55,7 +85,7 @@ Documentaries
 - [x] Spotlight -- 2015
 - [x] The Big Short -- 2015
 - [x] Mad Max: Fury Road -- 2015
-- [x] Snow Piercer -- 2013
+- [x] Snowpiercer -- 2013
 - [x] The Warriors -- 1979
 - [x] Magnolia -- 1999
 - [x] The Intimidation Game -- 2015
@@ -63,6 +93,7 @@ Documentaries
 - [x] The Great Dictator -- 1940
 - [x] Fantastic Beasts and Where to Find Them -- 2016
 - [x] Rouge One -- 2016
+- [x] The Jungle Book -- 2016
 
 Documentaries
 ---

@@ -1,28 +1,27 @@
-# A Checklist of Michigan's finest brewing. I would like to visit most of them, but I will stay loyal to my local [watering hole](http://libertystreetbeer.com/).
+# A Checklist of Michigan's finest brewing. I would like to visit most of them, but I will stay loyal to my local [watering hole](https://www.witchshatbrewing.com/).
 
 (:star: == outstanding)
 
 Detroit/Ann Arbor
 ---
 - [ ] Canton Brew Works
-- [x] New Atwater Brewery *Visted 1/2/2016*
+- [x] New Atwater Brewery
 - [ ] Motor City Brewing Works
 - [ ] Detroit City Distillery
-- [x] Two James Distillery *Visted 1/2/2016*
-- [ ] Jolly Pumpkin
+- [x] Two James Distillery
+- [x] Jolly Pumpkin
 - [ ] Traffic Jam & Snug
 - [ ] B. Nektar Meadery
 - [ ] Dragonmead Microbrewery
-- [ ] Griffin Claw Brewing *revisit*
-- [ ] Arbor Brewing Company
+- [x] Griffin Claw Brewing
+- [x] Arbor Brewing Company
 - [x] Brew Detroit
 
 Grand Rapids/ Kalamazoo
 ---
-- [ ] Brewery Vivant
-- [ ] Perrin Brewing Company
-- [ ] Bells Brewery
-- [ ] Bell's Eccentric Cafe
+- [x] Brewery Vivant
+- [x] Perrin Brewing Company
+- [x] Bell's Eccentric Cafe :star:
 - [ ] Latitude 42 Brewing Company
 - [ ] Saugatuck Brewing Company
 
@@ -31,4 +30,5 @@ Up North
 - [ ] Short's Brewing Company
 - [ ] Petoskey Brewing
 - [ ] Beards Brewery
-- [ ] Right Brain Brewery
+- [x] Right Brain Brewery
+- [x] Storm Cloud :star:

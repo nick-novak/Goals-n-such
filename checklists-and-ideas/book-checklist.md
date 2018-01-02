@@ -109,16 +109,16 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Hillbilly Elegy: A Memoir of a Family and Culture in Crisis -- J. D. Vance :headphones:
 
 ## September 2017
-- [x] Al Franken, Giant of the Senate -- Al Franken
-- [x] Astrophysics for People in a Hurry -- Neil deGrasse Tyson
-- [x] Lincoln in the Bardo -- George Saunders
+- [x] Al Franken, Giant of the Senate -- Al Franken :headphones:
+- [x] Astrophysics for People in a Hurry -- Neil deGrasse Tyson :blue_book:
+- [x] Lincoln in the Bardo -- George Saunders :blue_book:
 
 ## October 2017
-- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer
-- [x] Annihilation -- Jeff VanderMeer
+- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer :blue_book:
+- [x] Annihilation -- Jeff VanderMeer :blue_book:
 
 ## November 2017
-- [ ] It -- Stephen King
+- [ ] It -- Stephen King :blue_book:
 
 To-Read
 ---
@@ -136,3 +136,5 @@ To-Read
 - [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
 - [ ] To Kill a Mockingbird -- Harper Lee
 - [ ] Go Set a Watchman -- Harper Lee
+- [ ] Oh the Glory of it All -- Sean Wilsey
+- [ ] Understanding Comics: The Invisible Art -- Scott McCloud

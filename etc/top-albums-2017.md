@@ -18,38 +18,49 @@ Violents & Monica Martin -- Awake and Pretty Much Sober
 Slowdive -- Slowdive
 Fleet Foxes -- Crack up
 Phoenix -- Ti Amo
+Big Thief -- Capacity
 Jeff Tweedy -- Together at Last
 Diet Cig -- I Swear I'm Good At This
 Washed Out -- Mister Mellow
 Jason Isbell and the 400 Unit -- The Nashville Sound
 Broken Social Scene -- Hug of Thunder
 Perfume Genius -- No Shape
+Kevin Morby -- City Music
 The War on Drugs -- A Deeper Understanding
 Grizzly Bear -- Painted Ruins
 Rostam -- Half-Light
+Arcade Fire -- Everything Now
 Steve Martin and The Steep Canyon Rangers -- "The Long-Awaited Album"
 The National -- Sleep Well Beast
+Alvvays -- Antisocialites
+Japanese Breakfast -- Soft Sounds from Another Planet
+Courtney Barnett and Kurt Vile -- Lotta Sea Lice
+Margo Price -- All American Made
+Cigarettes After Sex -- Cigarettes After Sex
+King Krule -- The Ooz
 
-##Top Ten Albums 2016
-1. Car Seat Headrest -- Teens of Denial
-2. Whitney -- Light Upon the Lake
-3. Frank Ocean -- Blonde
-4. Sturgill Simpson -- A Sailor's Guide to Earth
-5. Blood Orange -- Freetown Sound
-6. Radiohead -- A Moon Shaped Pool
-7. Vulfpeck -- The Beautiful Game
-8. The Head and the Heart -- Signs of Light
-9. The Lemon Twigs -- Do Hollywood
-10. Bon Iver – 22 A Million
+
+##Top Ten Albums 2017
+1. Courtney Barnett and Kurt Vile -- Lotta Sea Lice
+2. The National -- Sleep Well Beast
+3. The War on Drugs -- A Deeper Understanding
+4. Fleet Foxes -- Crack up
+5. Arcade Fire -- Everything Now
+6. Rostam -- Half-Light
+7. Ryan Adams -- Prisoner
+8. Kevin Morby -- City Music
+9. Phoenix -- Ti Amo
+10. Alvvays -- Antisocialites
 
 
 ##Honorable Mentions
 ---
-David Bowie -- Black Star
-Wilco -- Smilco
-Margo Price -- Midwest Farmer's Daughter
-Diiv -- Is The Is Are
-Nels Cline -- Lovers
-Frankie Cosmos -- Next Thing
-Bob Weir -- Blue Mountain
-Paul Simon -- Stranger to Stranger
+Delicate Steve -- This is Steve
+Tennis -- Yours Conditionally
+Jay Som -- Everybody Works
+Future Islands -- The Far Field
+Mac Demarco -- This Old Dog
+Chicano Batman -- Freedom Is Free
+Japanese Breakfast -- Soft Sounds from Another Planet
+Grizzly Bear -- Painted Ruins
+Jason Isbell and the 400 Unit -- The Nashville Sound

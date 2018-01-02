@@ -11,7 +11,6 @@
 [ ] - Why Georgia -- John Mayer
 [ ] - Icky Thump
 [ ] - Freaking Out the Neighborhood -- Mac Demarco
-[ ] - Don't Want to Fight No More -- Alabama Shakes
 [ ] - Music for a found Harmonium -- Penguin Cafe Orchestra
 [ ] - She Talks to Angels -- The Black Crows
 [ ] - 59Th Street Bridge Song(feeling Groovy) -- Simon and Garfunkel
