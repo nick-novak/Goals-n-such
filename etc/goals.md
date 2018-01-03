@@ -2,7 +2,6 @@
 
 -- Learn More
   -- ReactJS
-  -- a little Swift/Mobile
   -- How to build a WP template with Sage
   -- Juggle
   -- Study more UX/UI design
