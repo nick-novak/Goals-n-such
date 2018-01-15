@@ -3,17 +3,34 @@ Personal Goals
 
 I wanted to keep my goals in an easily accessibly place.
 
-
 # Goals for 2017
-1. Learn. Learn and keep on learning.
-2. Write more
-3. Walk/workout (run 200 miles this year)
-4. Start monetizing my hobbies.
-5. Work more with React and ES6.
-6. Learn to become more of a Front End Designer who develops.
-7. Practice the hell out of finger picking.
-8. Build some furniture.
+-- Learn More
+  -- ReactJS
+  -- Study more UX/UI design
+  -- more ES6
+  -- Juggle
+  -- investing
 
+-- Read more
+  -- 20 book challenge
+
+-- Write more
+  -- record some music
+  -- start blogging
+
+-- Invest in my house
+  -- Finish Bathroom Remodel
+  -- Remodel molding in house
+
+-- Get some business at [work](https://perich.com)
+-- Build new personal site
+-- increase 401K contributions
+-- Get a raise
+-- Finish Firebird guitar I have been working on
+-- Start working on new guitar build(tele)
+-- Buy some Guitar effects pedals
+-- Take more notes
+-- Become more involved in communities
 
 ### Ideas and Checklist. Check them and contribute if you wish. :)
 ---

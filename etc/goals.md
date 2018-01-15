@@ -6,6 +6,7 @@
   -- Juggle
   -- Study more UX/UI design
   -- more ES6
+  -- investing
 
 -- Read more
   -- 20 book challenge
@@ -15,7 +16,7 @@
   -- start blogging
 
 -- Finish Firebird guitar I have been working on
--- Start working on new guitar build
+-- Start working on new guitar build(tele)
 -- Build new personal site
 -- increase 401K contributions
 -- Get a raise
