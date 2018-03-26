@@ -2,7 +2,6 @@
 
 -- Learn More
   -- ReactJS
-  -- How to build a WP template with Sage
   -- Juggle
   -- Study more UX/UI design
   -- more ES6
@@ -13,11 +12,11 @@
 
 -- Write more
   -- record some music
-  -- start blogging
+  -- start blogging(or writing)
 
 -- Finish Firebird guitar I have been working on
 -- Start working on new guitar build(tele)
--- Build new personal site
+-- [x] Build new personal site
 -- increase 401K contributions
 -- Get a raise
 -- Buy some Guitar effects pedals

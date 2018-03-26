@@ -114,19 +114,29 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Lincoln in the Bardo -- George Saunders :blue_book:
 
 ## October 2017
-- [ ] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer :blue_book:
+- [x] Design for Real Life -- Sara Wachter-Boettcher & Eric Meyer :blue_book:
 - [x] Annihilation -- Jeff VanderMeer :blue_book:
 
 ## November 2017
-- [ ] It -- Stephen King :blue_book:
+- [x] It -- Stephen King :blue_book:
+
+#2018
+
+## January 2018
+- [ ] Life -- Keith Richards :blue_book:
+
+## February 2018
+- [x] Adulthood Is a Myth -- Sarah Andersen :blue_book:
+- [ ] Artemis: A Novel -- Andy Weir :headphones:
+
+## March 2018
+- [ ] The Fender Book : A Complete History of Fender Electric Guitars -- Tony Bacon and Paul Day :blue_book:
 
 To-Read
 ---
-- [ ] Artemis: A Novel -- Andy Weir
 - [ ] The Sellout -- Paul Beatty
 - [ ] Shady Characters -- Keith Houston
 - [ ] Player Piano -- Kurt Vonnegut
-- [ ] You're My Favorite Client -- Mike Monteiro
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Catch 22 -- Joseph Heller
@@ -138,3 +148,5 @@ To-Read
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Oh the Glory of it All -- Sean Wilsey
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
+- [ ] Between the World and Me -- Ta-Nehisi Coates
+- [ ] Zen Guitar -- Philip Toshio Sudo

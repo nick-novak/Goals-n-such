@@ -1,6 +1,6 @@
 # A Checklist of my Must-See-Movies (Old & New).
 
-Feel free to add to the list below under suggestions. :)
+List of all movie i wish to watch/rewatch/have watched for the year.
 
 ##2018 List
 ---
@@ -13,27 +13,37 @@ Feel free to add to the list below under suggestions. :)
 - [ ] Se7en -- 1995
 - [ ] Léon: The Professional -- 1994
 - [ ] Howl's Moving Castle -- 2004
-- [ ] The Hobbit series
-	- [ ] An Unexpected Journey -- 2012
-	- [ ] The Desolation of Smaug -- 2013
-	- [ ] The Battle of the Five Armies -- 2014
+- [x] The Hobbit series
+	- [x] An Unexpected Journey -- 2012
+	- [x] The Desolation of Smaug -- 2013
+	- [x] The Battle of the Five Armies -- 2014
 - [ ] North by Northwest -- 1959
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
-- [ ] The Muppet Movie *revisit* -- 1979
+- [ ] The Muppet Movie -- 1979
 - [ ] The Great Muppet Caper -- 1981
 - [ ] I Saw the Light -- 2016
 - [ ] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
-- [ ] IT -- 2017
-- [ ] Dunkirk -- 2017
-- [ ] LadyBird -- 2017
+- [x] IT -- 2017
+- [x] Dunkirk -- 2017
+- [x] LadyBird -- 2017
 - [ ] The Natural -- 1984
 - [ ] Rocky -- 1976
 - [ ] Lawerence of Arabia -- 1962
 - [ ] Five Easy Pieces -- 1970
 - [ ] Cape Fear -- 1991
-
+- [x] LOTR Trilogy
+	- [x] The Fellow of the Ring -- 2001
+	- [x] The Two Towers -- 2002
+	- [x] Return of the King -- 2003
+- [ ] Fast Times at Ridgemont High -- 1982
+- [x] WonderWoman -- 2017
+- [ ] Black Panther -- 2018
+- [x] Room -- 2015
+- [x] Searching for Sugarman -- 2012
+- [ ] Isle of Dogs -- 2018
+- [x] Logan Lucky -- 2017
 
 Documentaries
 ---
@@ -43,6 +53,8 @@ Documentaries
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
 - [ ] Dogtown and Z boys -- 2001
+- [x] Long Strange Trip -- 2017
+
 
 
 
