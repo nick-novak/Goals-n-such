@@ -10,7 +10,7 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [ ] Barry Lyndon -- 1975
 - [ ] 12 Angry Men -- 1957
 - [ ] Network -- 1976
-- [ ] Se7en -- 1995
+- [x] Se7en -- 1995
 - [ ] Léon: The Professional -- 1994
 - [ ] Howl's Moving Castle -- 2004
 - [x] The Hobbit series
@@ -39,11 +39,20 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 	- [x] Return of the King -- 2003
 - [ ] Fast Times at Ridgemont High -- 1982
 - [x] WonderWoman -- 2017
-- [ ] Black Panther -- 2018
+- [x] Black Panther -- 2018
 - [x] Room -- 2015
 - [x] Searching for Sugarman -- 2012
 - [ ] Isle of Dogs -- 2018
 - [x] Logan Lucky -- 2017
+- [x] The Greatest Showman -- 2017
+- [ ] Crossroads -- 1986
+- [ ] Shape of Water -- 2017
+- [ ] Call Me By My Name -- 2017
+- [ ] Detachment -- 2012
+- [x] Coco -- 2017
+- [x] Waitress -- 2007
+- [x] Sour Grapes -- 2016
+- [x] Rent -- 2005
 
 Documentaries
 ---

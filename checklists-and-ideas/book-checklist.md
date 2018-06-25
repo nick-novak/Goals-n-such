@@ -123,20 +123,26 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 #2018
 
 ## January 2018
-- [ ] Life -- Keith Richards :blue_book:
+- [x] Life -- Keith Richards :blue_book:
 
 ## February 2018
 - [x] Adulthood Is a Myth -- Sarah Andersen :blue_book:
-- [ ] Artemis: A Novel -- Andy Weir :headphones:
+- [x] Artemis: A Novel -- Andy Weir :headphones:
 
 ## March 2018
 - [ ] The Fender Book : A Complete History of Fender Electric Guitars -- Tony Bacon and Paul Day :blue_book:
 
+## April 2018
+- [x] Meet Me in the Bathroom -- Lizzy Goodman :headphones:
+
+## June 2018
+- [ ] Player Piano -- Kurt Vonnegut :blue_book:
+- [ ] Between the World and Me -- Ta-Nehisi Coates :headphones:
+
+
 To-Read
 ---
-- [ ] The Sellout -- Paul Beatty
 - [ ] Shady Characters -- Keith Houston
-- [ ] Player Piano -- Kurt Vonnegut
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Catch 22 -- Joseph Heller
@@ -146,7 +152,9 @@ To-Read
 - [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
 - [ ] To Kill a Mockingbird -- Harper Lee
 - [ ] Go Set a Watchman -- Harper Lee
-- [ ] Oh the Glory of it All -- Sean Wilsey
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
-- [ ] Between the World and Me -- Ta-Nehisi Coates
 - [ ] Zen Guitar -- Philip Toshio Sudo
+- [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
+- [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
+- [ ] Zen and the Art of Happiness -- Chris Prentiss
+- [ ] The Zen Teachings of Jesus -- Kenneth S. Leong

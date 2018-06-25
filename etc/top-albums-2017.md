@@ -45,16 +45,17 @@ King Krule -- The Ooz
 2. The National -- Sleep Well Beast
 3. The War on Drugs -- A Deeper Understanding
 4. Fleet Foxes -- Crack up
-5. Arcade Fire -- Everything Now
-6. Rostam -- Half-Light
-7. Ryan Adams -- Prisoner
-8. Kevin Morby -- City Music
-9. Phoenix -- Ti Amo
-10. Alvvays -- Antisocialites
+5. Alvvays -- Antisocialites
+6. Kevin Morby -- City Music
+7. Jason Isbell and the 400 Unit -- The Nashville Sound
+8. Arcade Fire -- Everything Now
+9. Rostam -- Half-Light
+10. Phoenix -- Ti Amo
 
 
 ##Honorable Mentions
 ---
+Ryan Adams -- Prisoner
 Delicate Steve -- This is Steve
 Tennis -- Yours Conditionally
 Jay Som -- Everybody Works
@@ -63,4 +64,3 @@ Mac Demarco -- This Old Dog
 Chicano Batman -- Freedom Is Free
 Japanese Breakfast -- Soft Sounds from Another Planet
 Grizzly Bear -- Painted Ruins
-Jason Isbell and the 400 Unit -- The Nashville Sound
