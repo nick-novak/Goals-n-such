@@ -24,3 +24,10 @@ Rolling Blackouts Coastal Fever -- Hope Downs
 Dawes -- Passwords
 Ry Cooder -- The Prodigal Son
 Carolina Rose -- LONER
+Jim James -- Uniform Distortion
+
+##Top Ten Albums 2017
+Dawes -- Passwords
+Yo La Tengo -- There's a Riot Going On
+Father John Misty -- God’s Favorite Customer
+Khrungbin -- Con Todo El Mundo

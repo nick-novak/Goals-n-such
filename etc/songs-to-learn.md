@@ -1,7 +1,6 @@
 ##Song to learn on Guitar
 
 [ ] - Carolina on my mind --James Taylor
-[ ] - The Wait -- Tobias Jesso Jr.
 [ ] - Never Going Back Again -- Fleetwood Mac
 [x] - These Days -- Jackson Browne version
 [x] - Mess is Mine -- Vance Joy
@@ -16,8 +15,11 @@
 [x] - Ripple -- The Grateful Dead
 [x] - Had to Cry Today -- Blind Faith
 [ ] - Impossible Germany -- Wilco *looper*
-[ ] - History of my life -- Blake Mills
 [ ] - opening lick from chattahoochee
+[ ] - Thirteen -- Big Star
+[ ] - Sultons of Swing -- Dire Straits
+[ ] - All your Favorite Bands -- Dawes
+[ ] - Kettles -- Arcade Fire
 
 John Mayer
 [ ] - Waiting on the World to Change

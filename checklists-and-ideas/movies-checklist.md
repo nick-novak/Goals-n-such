@@ -53,6 +53,7 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Waitress -- 2007
 - [x] Sour Grapes -- 2016
 - [x] Rent -- 2005
+- [x] The Florida Project -- 2017
 
 Documentaries
 ---

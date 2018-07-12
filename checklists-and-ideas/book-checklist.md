@@ -136,9 +136,12 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Meet Me in the Bathroom -- Lizzy Goodman :headphones:
 
 ## June 2018
-- [ ] Player Piano -- Kurt Vonnegut :blue_book:
-- [ ] Between the World and Me -- Ta-Nehisi Coates :headphones:
+- [x] Player Piano -- Kurt Vonnegut :blue_book:
+- [x] Between the World and Me -- Ta-Nehisi Coates :headphones:
 
+## July 2018
+- [ ] Siddhartha -- Herman Hesse :blue_book:
+- [ ] Born a Crime: Stories From a South African Childhood -- Trevor Noah :headphones:
 
 To-Read
 ---
@@ -146,7 +149,6 @@ To-Read
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Every Song Ever: Twenty Ways to Listen in an Age of Musical Plenty - Ben Ratliff
 - [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
 - [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
 - [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
@@ -158,3 +160,5 @@ To-Read
 - [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
 - [ ] Zen and the Art of Happiness -- Chris Prentiss
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
+- [ ] Accessibility for Everyone -- Laura Kalbag
+- [ ] Junky -- William S. Burroughs
