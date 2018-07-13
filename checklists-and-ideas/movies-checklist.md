@@ -28,7 +28,7 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] IT -- 2017
 - [x] Dunkirk -- 2017
 - [x] LadyBird -- 2017
-- [ ] The Natural -- 1984
+- [x] The Natural -- 1984
 - [ ] Rocky -- 1976
 - [ ] Lawerence of Arabia -- 1962
 - [ ] Five Easy Pieces -- 1970
@@ -54,6 +54,8 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Sour Grapes -- 2016
 - [x] Rent -- 2005
 - [x] The Florida Project -- 2017
+- [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
+- [ ] The Right Stuff -- 1983
 
 Documentaries
 ---
