@@ -56,6 +56,8 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] The Florida Project -- 2017
 - [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
 - [ ] The Right Stuff -- 1983
+- [x] The Godfather -- 1972
+- [ ] The Godfather part 2 -- 1974
 
 Documentaries
 ---

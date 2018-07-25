@@ -12,10 +12,11 @@ Detroit/Ann Arbor
 - [x] Jolly Pumpkin
 - [ ] Traffic Jam & Snug
 - [ ] B. Nektar Meadery
-- [ ] Dragonmead Microbrewery
+- [x] Dragonmead Microbrewery
 - [x] Griffin Claw Brewing
 - [x] Arbor Brewing Company
 - [x] Brew Detroit
+- [x] Kuhnhenn Brewery
 
 Grand Rapids/ Kalamazoo
 ---

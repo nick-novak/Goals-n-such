@@ -26,7 +26,7 @@ Ry Cooder -- The Prodigal Son
 Carolina Rose -- LONER
 Jim James -- Uniform Distortion
 
-##Top Ten Albums 2017
+##Top Ten Albums 2018
 Dawes -- Passwords
 Yo La Tengo -- There's a Riot Going On
 Father John Misty -- God’s Favorite Customer
