@@ -46,18 +46,20 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Logan Lucky -- 2017
 - [x] The Greatest Showman -- 2017
 - [ ] Crossroads -- 1986
-- [ ] Shape of Water -- 2017
+- [x] Shape of Water -- 2017
 - [ ] Call Me By My Name -- 2017
 - [ ] Detachment -- 2012
 - [x] Coco -- 2017
 - [x] Waitress -- 2007
-- [x] Sour Grapes -- 2016
 - [x] Rent -- 2005
 - [x] The Florida Project -- 2017
 - [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
 - [ ] The Right Stuff -- 1983
+- [x] When Harry Met Sally -- 1989
 - [x] The Godfather -- 1972
-- [ ] The Godfather part 2 -- 1974
+- [x] The Godfather part 2 -- 1974
+- [x] Dallas Buyers Club -- 2013
+- [x] The Big Sick -- 2017
 
 Documentaries
 ---
@@ -68,6 +70,7 @@ Documentaries
 - [ ] Peter Green: Man of the World -- 2009
 - [ ] Dogtown and Z boys -- 2001
 - [x] Long Strange Trip -- 2017
+- [x] Sour Grapes -- 2016
 
 
 

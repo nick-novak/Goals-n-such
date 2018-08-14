@@ -18,11 +18,14 @@
 [ ] - opening lick from chattahoochee
 [ ] - Thirteen -- Big Star
 [ ] - Sultons of Swing -- Dire Straits
-[ ] - All your Favorite Bands -- Dawes
 [ ] - Kettles -- Arcade Fire
+[ ] - Take Five -- Dave Brubeck
+
 
 John Mayer
 [ ] - Waiting on the World to Change
 [ ] - Stop this Train
+[ ] - Queen of California
 [ ] - Age of Worry
 [x] - Slow Dancing in a Burning Room *looper*
+[ ] - Lick at end of Body is a Wonderland

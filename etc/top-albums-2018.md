@@ -25,6 +25,7 @@ Dawes -- Passwords
 Ry Cooder -- The Prodigal Son
 Carolina Rose -- LONER
 Jim James -- Uniform Distortion
+Damien Jurado -- The Horizon Just Laughed
 
 ##Top Ten Albums 2018
 Dawes -- Passwords

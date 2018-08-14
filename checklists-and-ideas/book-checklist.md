@@ -140,8 +140,14 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Between the World and Me -- Ta-Nehisi Coates :headphones:
 
 ## July 2018
-- [ ] Siddhartha -- Herman Hesse :blue_book:
-- [ ] Born a Crime: Stories From a South African Childhood -- Trevor Noah :headphones:
+- [x] Siddhartha -- Herman Hesse :blue_book:
+- [x] Born a Crime: Stories From a South African Childhood -- Trevor Noah :headphones:
+- [ ] Accessibility for Everyone -- Laura Kalbag :blue_book:
+
+## August 2018
+- [ ] Low Crimes and Misdemeanors: Confessions of a Tulsa Boy -- Jeff Duncan :blue_book:
+
+
 
 To-Read
 ---
@@ -160,5 +166,4 @@ To-Read
 - [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
 - [ ] Zen and the Art of Happiness -- Chris Prentiss
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
-- [ ] Accessibility for Everyone -- Laura Kalbag
 - [ ] Junky -- William S. Burroughs
