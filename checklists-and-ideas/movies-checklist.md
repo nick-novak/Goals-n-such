@@ -53,13 +53,13 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Waitress -- 2007
 - [x] Rent -- 2005
 - [x] The Florida Project -- 2017
-- [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
 - [ ] The Right Stuff -- 1983
 - [x] When Harry Met Sally -- 1989
 - [x] The Godfather -- 1972
 - [x] The Godfather part 2 -- 1974
 - [x] Dallas Buyers Club -- 2013
 - [x] The Big Sick -- 2017
+- [x] The End of Tour -- 2015
 
 Documentaries
 ---
@@ -71,6 +71,9 @@ Documentaries
 - [ ] Dogtown and Z boys -- 2001
 - [x] Long Strange Trip -- 2017
 - [x] Sour Grapes -- 2016
+- [x] Eric Clapton: Life in 12 Bars -- 2018
+- [x] Lynyrd Skynyrd: If I Leave Here Tomorrow -- 2018
+- [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
 
 
 

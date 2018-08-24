@@ -26,9 +26,15 @@ Ry Cooder -- The Prodigal Son
 Carolina Rose -- LONER
 Jim James -- Uniform Distortion
 Damien Jurado -- The Horizon Just Laughed
+Phantastic Ferniture -- Self-titled
+Hop Along -- Bark Your Head Off, Dog
+Death Cab for Cutie -- Thank You for Today
+Interpol -- Marauder
 
 ##Top Ten Albums 2018
+Khrungbin -- Con Todo El Mundo
 Dawes -- Passwords
 Yo La Tengo -- There's a Riot Going On
 Father John Misty -- God’s Favorite Customer
-Khrungbin -- Con Todo El Mundo
+Death Cab for Cutie -- Thank You for Today
+Carolina Rose -- LONER

@@ -1,13 +1,11 @@
 ##Song to learn on Guitar
 
-[ ] - Carolina on my mind --James Taylor
 [ ] - Never Going Back Again -- Fleetwood Mac
 [x] - These Days -- Jackson Browne version
 [x] - Mess is Mine -- Vance Joy
 [x] - Little Lou, Ugly Jack, Prophet John(solo) -- Belle & Sebastian
 [x] - Brazil -- Declan McKenna
 [ ] - Tattler -- Ry Cooder
-[ ] - Freaking Out the Neighborhood -- Mac Demarco
 [ ] - She Talks to Angels -- The Black Crows
 [ ] - Hallelujah -- Jeff Buckley version(electric, high reverb)
 [x] - Help on the way -- The Grateful Dead
@@ -17,13 +15,13 @@
 [ ] - Impossible Germany -- Wilco *looper*
 [ ] - opening lick from chattahoochee
 [ ] - Thirteen -- Big Star
-[ ] - Sultons of Swing -- Dire Straits
 [ ] - Kettles -- Arcade Fire
 [ ] - Take Five -- Dave Brubeck
+[ ] - Future People -- Alabama Shakes *looper*
+[x] - Wicked Game -- Chris Isaak
 
 
 John Mayer
-[ ] - Waiting on the World to Change
 [ ] - Stop this Train
 [ ] - Queen of California
 [ ] - Age of Worry
