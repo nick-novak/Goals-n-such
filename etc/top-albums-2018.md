@@ -1,5 +1,4 @@
-##Top Ten Albums 2018
-
+##Top Albums 2018
 Porches -- The House
 MGMT - Little Dark Age
 Tune-Yards -- I Can Feel You Creep Into My Private Life
@@ -30,6 +29,8 @@ Phantastic Ferniture -- Self-titled
 Hop Along -- Bark Your Head Off, Dog
 Death Cab for Cutie -- Thank You for Today
 Interpol -- Marauder
+Snail Mail -- Lush
+Anna Burch -- Quit the Curse
 
 ##Top Ten Albums 2018
 Khrungbin -- Con Todo El Mundo
@@ -38,3 +39,4 @@ Yo La Tengo -- There's a Riot Going On
 Father John Misty -- God’s Favorite Customer
 Death Cab for Cutie -- Thank You for Today
 Carolina Rose -- LONER
+Courtney Barnett -- Tell Me How You Really Feel

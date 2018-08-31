@@ -38,6 +38,7 @@ Courtney Barnett and Kurt Vile -- Lotta Sea Lice
 Margo Price -- All American Made
 Cigarettes After Sex -- Cigarettes After Sex
 King Krule -- The Ooz
+Bedouine -- Self Titled
 
 
 ##Top Ten Albums 2017
