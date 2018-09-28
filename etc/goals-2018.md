@@ -1,12 +1,12 @@
 # Goals for 2018
 - Learn More
   - ReactJS
-  - D3
+  - [x] D3
   - Study more UX/UI design
-  - accessibility
-  - more ES6
+  - [x] Accessibility
+  - More ES6
   - Juggle
-  - investing
+  - [x] Investing
 
 - Read more
   - 20 book challenge

@@ -31,6 +31,10 @@ Death Cab for Cutie -- Thank You for Today
 Interpol -- Marauder
 Snail Mail -- Lush
 Anna Burch -- Quit the Curse
+Paul McCartney -- Egyptian Station
+Mitski -- Be the Cowboy
+Richard Swift -- The Hex
+Tom Petty -- An American Treasure
 
 ##Top Ten Albums 2018
 Khrungbin -- Con Todo El Mundo

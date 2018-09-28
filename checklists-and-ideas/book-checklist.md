@@ -13,8 +13,8 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## January 2016
 - [x] Gumption -- Nick Offerman :headphones:
-- [ ] The New Hardboiled Web Design -- Andy Clarke :blue_book:
-- [ ] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
+- [x] The New Hardboiled Web Design -- Andy Clarke :blue_book:
+- [x] Eloquent JavaScript -- Marijn Haverbeke :blue_book:
 - [x] Steal like an Artist -- Austin Kleon :blue_book:
 - [x] Botany of Desire -- Micheal Pollan :headphones:
 - [x] Fidelity -- Wendell Berry :blue_book:
@@ -32,7 +32,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] The Power of Habit -- Charles Duhigg :headphones:
 
 ## April 2016
-- [ ] The Design of Everyday Things -- Don Norman :blue_book:
+- [x] The Design of Everyday Things -- Don Norman :blue_book:
 - [x] Responsive Design: Principles and Patterns -- Ethan Marcotte :blue_book:
 - [x] Dune -- Frank Herbert :headphones:
 
@@ -130,7 +130,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Artemis: A Novel -- Andy Weir :headphones:
 
 ## March 2018
-- [ ] The Fender Book : A Complete History of Fender Electric Guitars -- Tony Bacon and Paul Day :blue_book:
+- [x] The Fender Book : A Complete History of Fender Electric Guitars -- Tony Bacon and Paul Day :blue_book:
 
 ## April 2018
 - [x] Meet Me in the Bathroom -- Lizzy Goodman :headphones:
@@ -145,9 +145,12 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [ ] Accessibility for Everyone -- Laura Kalbag :blue_book:
 
 ## August 2018
-- [ ] Low Crimes and Misdemeanors: Confessions of a Tulsa Boy -- Jeff Duncan :blue_book:
+- [x] Low Crimes and Misdemeanors: Confessions of a Tulsa Boy -- Jeff Duncan :blue_book:
 
-
+## September 2018
+- [ ] Writing Better Lyrics -- Pat Pattison :blue_book:
+- [ ] Big Sur -- Jack Kerouac :blue_book:
+- [ ] Call of the Wild -- Jack London :headphones:
 
 To-Read
 ---
@@ -157,7 +160,6 @@ To-Read
 - [ ] Catch 22 -- Joseph Heller
 - [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
 - [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
-- [ ] Trouble Boys: The True Story of the Replacements -- Bob Mehr
 - [ ] To Kill a Mockingbird -- Harper Lee
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud

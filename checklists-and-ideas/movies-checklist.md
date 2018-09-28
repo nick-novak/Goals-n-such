@@ -53,18 +53,20 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Waitress -- 2007
 - [x] Rent -- 2005
 - [x] The Florida Project -- 2017
-- [ ] The Right Stuff -- 1983
+- [x] The Right Stuff -- 1983
 - [x] When Harry Met Sally -- 1989
 - [x] The Godfather -- 1972
 - [x] The Godfather part 2 -- 1974
 - [x] Dallas Buyers Club -- 2013
 - [x] The Big Sick -- 2017
 - [x] The End of Tour -- 2015
+- [x] The Spectacular Now -- 2013
+- [x] Crazy Rich Asians -- 2018
+- [x] Meet the Robinsons -- 2007
 
 Documentaries
 ---
 - [ ] The Ties That Bind -- 2015
-- [x] Forks over Knifes -- 2011
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
@@ -74,6 +76,7 @@ Documentaries
 - [x] Eric Clapton: Life in 12 Bars -- 2018
 - [x] Lynyrd Skynyrd: If I Leave Here Tomorrow -- 2018
 - [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
+- [ ] Lost Songs: The Basement Tapes Continued -- 2017
 
 
 
