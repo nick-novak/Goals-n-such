@@ -3,7 +3,6 @@
 List of all movie i wish to watch/rewatch/have watched for the year.
 
 ## 2018 List
----
 - [ ] Citizen Kane -- 1941
 - [ ] Bridge of Spies -- 2015
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
@@ -65,7 +64,6 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Meet the Robinsons -- 2007
 
 ## Documentaries
----
 - [ ] The Ties That Bind -- 2015
 - [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
