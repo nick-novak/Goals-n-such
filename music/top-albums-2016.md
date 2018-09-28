@@ -1,4 +1,5 @@
-##Top Ten Albums 2016
+## Top Ten Albums 2016
+---
 1. Car Seat Headrest -- Teens of Denial
 2. Whitney -- Light Upon the Lake
 3. Frank Ocean -- Blonde
@@ -11,7 +12,7 @@
 10. Bon Iver – 22 A Million
 
 
-##Honorable Mentions
+## Honorable Mentions
 ---
 David Bowie -- Black Star  
 Wilco -- Smilco  

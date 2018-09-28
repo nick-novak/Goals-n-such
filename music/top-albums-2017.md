@@ -1,4 +1,5 @@
-##Top Ten Albums 2017
+## Top Ten Albums 2017
+---
 1. Courtney Barnett and Kurt Vile -- Lotta Sea Lice
 2. The National -- Sleep Well Beast
 3. The War on Drugs -- A Deeper Understanding
@@ -11,7 +12,7 @@
 10. Phoenix -- Ti Amo
 
 
-##Honorable Mentions
+## Honorable Mentions
 ---
 Ryan Adams -- Prisoner  
 Delicate Steve -- This is Steve  
@@ -24,7 +25,8 @@ Japanese Breakfast -- Soft Sounds from Another Planet
 Grizzly Bear -- Painted Ruins  
 
 
-##Every Album I Enjoyed this year
+## Every Album I Enjoyed this year
+---
 The XX -- I See You  
 Cloud Nothings -- Life Without Sound  
 Delicate Steve -- This is Steve  

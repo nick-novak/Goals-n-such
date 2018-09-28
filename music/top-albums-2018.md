@@ -1,4 +1,5 @@
-##Top Ten Albums 2018
+## Top Ten Albums 2018
+---
 Khrungbin -- Con Todo El Mundo  
 Dawes -- Passwords  
 Yo La Tengo -- There's a Riot Going On  
@@ -8,7 +9,8 @@ Carolina Rose -- LONER
 Courtney Barnett -- Tell Me How You Really Feel  
 
 
-##Every Album I Enjoyed this year
+## Every Album I Enjoyed this year
+---
 Porches -- The House  
 MGMT - Little Dark Age  
 Tune-Yards -- I Can Feel You Creep Into My Private Life  
