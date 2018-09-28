@@ -13,11 +13,11 @@
 
 ##Honorable Mentions
 ---
-David Bowie -- Black Star
-Wilco -- Smilco
-Margo Price -- Midwest Farmer's Daughter
-Diiv -- Is The Is Are
-Nels Cline -- Lovers
-Frankie Cosmos -- Next Thing
-Bob Weir -- Blue Mountain
-Paul Simon -- Stranger to Stranger
+David Bowie -- Black Star  
+Wilco -- Smilco  
+Margo Price -- Midwest Farmer's Daughter  
+Diiv -- Is The Is Are  
+Nels Cline -- Lovers  
+Frankie Cosmos -- Next Thing  
+Bob Weir -- Blue Mountain  
+Paul Simon -- Stranger to Stranger  

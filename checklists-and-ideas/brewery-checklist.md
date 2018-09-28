@@ -17,6 +17,7 @@ Detroit/Ann Arbor
 - [x] Arbor Brewing Company
 - [x] Brew Detroit
 - [x] Kuhnhenn Brewery
+- [x] Homes Brewery
 
 Grand Rapids/ Kalamazoo
 ---
