@@ -2,8 +2,7 @@
 
 (:star: == outstanding)
 
-Detroit/Ann Arbor
----
+## Detroit/Ann Arbor
 - [ ] Canton Brew Works
 - [x] New Atwater Brewery
 - [ ] Motor City Brewing Works
@@ -19,16 +18,14 @@ Detroit/Ann Arbor
 - [x] Kuhnhenn Brewery
 - [x] Homes Brewery
 
-Grand Rapids/ Kalamazoo
----
+## Grand Rapids/ Kalamazoo
 - [x] Brewery Vivant
 - [x] Perrin Brewing Company
 - [x] Bell's Eccentric Cafe :star:
 - [ ] Latitude 42 Brewing Company
 - [ ] Saugatuck Brewing Company
 
-Up North
----
+## Up North
 - [ ] Short's Brewing Company
 - [ ] Petoskey Brewing
 - [ ] Beards Brewery

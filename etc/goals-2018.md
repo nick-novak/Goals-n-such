@@ -14,7 +14,7 @@
 - Write more  
   - write/record some music  
 
---Invest in my house  
+- Invest in my house  
   - [x] Finish Bathroom Remodel  
   - Remodel molding in house  
 

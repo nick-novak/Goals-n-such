@@ -1,5 +1,4 @@
 ## Top Ten Albums 2016
----
 1. Car Seat Headrest -- Teens of Denial
 2. Whitney -- Light Upon the Lake
 3. Frank Ocean -- Blonde
@@ -13,7 +12,6 @@
 
 
 ## Honorable Mentions
----
 David Bowie -- Black Star  
 Wilco -- Smilco  
 Margo Price -- Midwest Farmer's Daughter  

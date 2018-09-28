@@ -2,7 +2,7 @@
 
 List of all movie i wish to watch/rewatch/have watched for the year.
 
-##2018 List
+## 2018 List
 ---
 - [ ] Citizen Kane -- 1941
 - [ ] Bridge of Spies -- 2015
@@ -64,7 +64,7 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Crazy Rich Asians -- 2018
 - [x] Meet the Robinsons -- 2007
 
-Documentaries
+## Documentaries
 ---
 - [ ] The Ties That Bind -- 2015
 - [ ] Detropia -- 2012
@@ -77,3 +77,6 @@ Documentaries
 - [x] Lynyrd Skynyrd: If I Leave Here Tomorrow -- 2018
 - [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
 - [ ] Lost Songs: The Basement Tapes Continued -- 2017
+- [ ] Under Great White Northern Lights -- 2009
+- [ ] Gimme Shelter -- 1970
+

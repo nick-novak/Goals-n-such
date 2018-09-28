@@ -1,5 +1,4 @@
-##2016 List
----
+## 2016 List
 - [x] Field of Dreams -- 1989
 - [x] Paths of Glory -- 1957
 - [x] Django Unchained -- 2012
@@ -19,8 +18,7 @@
 - [x] Rouge One -- 2016
 - [x] The Jungle Book -- 2016
 
-Documentaries
----
+## Documentaries
 - [x] Fed Up --2014
 - [x] Big Easy Express - 2012
 - [x] Indie Game -- 2012

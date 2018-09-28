@@ -1,5 +1,4 @@
-##2017 List
----
+## 2017 List
 - [x] Arrival -- 2016
 - [x] Kubo and the Two Strings -- 2016
 - [x] La La Land -- 2016
@@ -21,7 +20,6 @@
 - [x] Chaplin -- 1992
 - [x] Chef -- 2014
 
-Documentaries
----
+## Documentaries
 - [x] Forks over Knifes -- 2011
 - [x] Searching for Sugar Man -- 2012

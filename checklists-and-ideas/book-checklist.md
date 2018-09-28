@@ -1,4 +1,3 @@
-Pdont 1!t
 # Books I've Read & Want to Read
 ## Collection of Audiobooks, books & ebooks I intend to read.
 
@@ -154,6 +153,7 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 To-Read
 ---
+- [ ] Animal Farm -- George Orwell
 - [ ] Shady Characters -- Keith Houston
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
