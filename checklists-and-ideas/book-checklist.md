@@ -141,26 +141,30 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 ## July 2018
 - [x] Siddhartha -- Herman Hesse :blue_book:
 - [x] Born a Crime: Stories From a South African Childhood -- Trevor Noah :headphones:
-- [ ] Accessibility for Everyone -- Laura Kalbag :blue_book:
+- [x] Accessibility for Everyone -- Laura Kalbag :blue_book:
 
 ## August 2018
 - [x] Low Crimes and Misdemeanors: Confessions of a Tulsa Boy -- Jeff Duncan :blue_book:
 
 ## September 2018
 - [ ] Writing Better Lyrics -- Pat Pattison :blue_book:
-- [ ] Big Sur -- Jack Kerouac :blue_book:
-- [ ] Call of the Wild -- Jack London :headphones:
+- [x] Big Sur -- Jack Kerouac :blue_book:
+- [x] Call of the Wild -- Jack London :headphones:
+
+## October
+- [x] To Kill a Mockingbird -- Harper Lee :headphones:
+- [ ] Petty: The Biography -- Warren Zanes :blue_book:
+
+## November
+- [x] Animal Farm -- George Orwell :headphones:
 
 To-Read
 ---
-- [ ] Animal Farm -- George Orwell
 - [ ] Shady Characters -- Keith Houston
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Catch 22 -- Joseph Heller
-- [ ] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
 - [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
-- [ ] To Kill a Mockingbird -- Harper Lee
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
 - [ ] Zen Guitar -- Philip Toshio Sudo
@@ -169,3 +173,6 @@ To-Read
 - [ ] Zen and the Art of Happiness -- Chris Prentiss
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
 - [ ] Junky -- William S. Burroughs
+- [ ] The Poisonwood Bible -- Barbara Kingsolver
+- [ ] Love Is a Mix Tape -- Rob Sheffield
+- [ ] Jeff Tweedy -- let's go so we can get back

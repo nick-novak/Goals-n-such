@@ -4,7 +4,7 @@
 [x] - Mess is Mine -- Vance Joy  
 [x] - Little Lou, Ugly Jack, Prophet John(solo) -- Belle & Sebastian  
 [x] - Brazil -- Declan McKenna  
-[ ] - Tattler -- Ry Cooder  
+[x] - Tattler -- Ry Cooder  
 [ ] - Hallelujah -- Jeff Buckley version(electric, high reverb)  
 [x] - Help on the way -- The Grateful Dead  
 [ ] - Salsbury Hill -- Peter Gabriel  
@@ -13,11 +13,15 @@
 [x] - Slow Dancing in a Burning Room -- John Mayer *looper*  
 [ ] - Impossible Germany -- Wilco *looper*  
 [ ] - Thirteen -- Big Star  
-[ ] - Kettles -- Arcade Fire  
-[ ] - Take Five -- Dave Brubeck  
+[x] - Kettles -- Arcade Fire  
+[x] - Take Five -- Dave Brubeck  
 [ ] - Future People -- Alabama Shakes *looper*  
 [x] - Wicked Game -- Chris Isaak  
 [x] - Sultans of Swing -- Dire Straits  
 [x] - Hold on -- Tom Waits  
 [ ] - Dern Kala -- Khrungbin  
-[ ] - How Far We've Come -- Dawes  
+[ ] - Buckets of Rain -- Bob Dylan  
+[ ] - Walls -- Tom Petty and The HeartBeakers  
+[ ] - Soul no 5 riff -- Caroline Rose
+[x] - Rihanna -- Fleetwood Mac
+[ ] - Johnny B Goode -- Chuck Berry

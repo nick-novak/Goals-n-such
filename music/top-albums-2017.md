@@ -43,6 +43,7 @@ Violents & Monica Martin -- Awake and Pretty Much Sober
 Slowdive -- Slowdive  
 Fleet Foxes -- Crack up  
 Phoenix -- Ti Amo  
+Phoebe Bridgers -- Stranger in the Alps
 Big Thief -- Capacity  
 Jeff Tweedy -- Together at Last  
 Diet Cig -- I Swear I'm Good At This  

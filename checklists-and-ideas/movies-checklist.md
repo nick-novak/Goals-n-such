@@ -1,6 +1,6 @@
 # A Checklist of my Must-See-Movies (Old & New).
 
-List of all movie i wish to watch/rewatch/have watched for the year.
+List of all movie I wish to watch/rewatch/have watched for the year.
 
 ## 2018 List
 - [ ] Citizen Kane -- 1941
@@ -16,12 +16,11 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 	- [x] An Unexpected Journey -- 2012
 	- [x] The Desolation of Smaug -- 2013
 	- [x] The Battle of the Five Armies -- 2014
-- [ ] North by Northwest -- 1959
+- [x] North by Northwest -- 1959
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
 - [ ] The Muppet Movie -- 1979
 - [ ] The Great Muppet Caper -- 1981
-- [ ] I Saw the Light -- 2016
 - [ ] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
 - [x] IT -- 2017
@@ -41,10 +40,10 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] Black Panther -- 2018
 - [x] Room -- 2015
 - [x] Searching for Sugarman -- 2012
-- [ ] Isle of Dogs -- 2018
+- [x] Isle of Dogs -- 2018
 - [x] Logan Lucky -- 2017
 - [x] The Greatest Showman -- 2017
-- [ ] Crossroads -- 1986
+- [x] Crossroads -- 1986
 - [x] Shape of Water -- 2017
 - [ ] Call Me By My Name -- 2017
 - [ ] Detachment -- 2012
@@ -62,19 +61,29 @@ List of all movie i wish to watch/rewatch/have watched for the year.
 - [x] The Spectacular Now -- 2013
 - [x] Crazy Rich Asians -- 2018
 - [x] Meet the Robinsons -- 2007
+- [ ] A Star is Born -- 2018
+- [ ] First Man -- 2018
+- [x] The Shining -- 1980
+- [ ] Bohemian Rhapsody -- 2018
+- [ ] The Ballad of Buster Scruggs -- 2018
 
 ## Documentaries
 - [ ] The Ties That Bind -- 2015
-- [ ] Detropia -- 2012
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
-- [ ] Dogtown and Z boys -- 2001
 - [x] Long Strange Trip -- 2017
 - [x] Sour Grapes -- 2016
+- [x] Charles Bradley: Soul of America -- 2012
 - [x] Eric Clapton: Life in 12 Bars -- 2018
 - [x] Lynyrd Skynyrd: If I Leave Here Tomorrow -- 2018
-- [ ] Be Here To Love Me: A Film About Townes Van Zandt -- 2004
-- [ ] Lost Songs: The Basement Tapes Continued -- 2017
-- [ ] Under Great White Northern Lights -- 2009
+- [x] Lost Songs: The Basement Tapes Continued -- 2017
+- [x] Under Great White Northern Lights -- 2009
 - [ ] Gimme Shelter -- 1970
+- [x] 20 Feet from Stardom -- 2013
+- [x] Stop Making Sense -- 1984
+- [ ] U2: Rattle and Hum’ -- 1988
+- [ ] Radiohead - Meeting People is Easy -- 1998
+- [ ] The Devil and Daniel Johnston -- 2005
+- [ ] Message to Love: The Isle of Wight Festival -- 1997
+
 

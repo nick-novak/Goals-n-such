@@ -1,0 +1,36 @@
+## House To-Do
+- [x] Fix doorbell
+- [ ] Fix door handle (frontDoor)
+- [x] Get keys for deadbolts
+- [x] fence in the rest of the yard
+- [ ] Power wash
+- [ ] Scrap and repaint exterior
+- [ ] Replace caulk exterior
+- [ ] Replace front porch column
+- [x] Remove cedar trees
+    - [x] Remove cedar stumps
+- [x] Remove pine trees
+    - [ ] Remove pine stumps
+- [X] Remove pool
+- [x] Fix yard where pool was
+- [ ] Remove electrical pole
+- [x] contact fireplace company and see if there is a why for better insulation.
+- [ ] Fix insulation in attic (see inspection)
+- [ ] Replace both spigots
+    - [x] 1
+    - [ ] 2
+- [ ] Add windows and better lighting to garage
+- [x] remodel bathroom
+- [x] Change out toilet and update molding in downstairs bathroom
+- [ ] redo molding in entire house
+    - Repaint
+    - [x]Fix stairs
+    - Replace multi-pieced ones with full ones(or at least cut them correctly)
+- [x] contact flooring company and see if they have our floor in stock.(they don’t)
+- [ ] build and install b-n-b shutters
+- [x] consult and install smoke detectors
+- [x] install WiFi enhancer
+- [x] get another apple tree to pollinate the other one
+- [ ] Get new windows for Florida room
+- [ ] Get a chest freezer
+- [ ] replace chimney cap. Current one is rusty and staining the house.
