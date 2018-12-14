@@ -3,7 +3,6 @@
 - [ ] Fix door handle (frontDoor)
 - [x] Get keys for deadbolts
 - [x] fence in the rest of the yard
-- [ ] Power wash
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
 - [ ] Replace front porch column
@@ -23,14 +22,25 @@
 - [x] remodel bathroom
 - [x] Change out toilet and update molding in downstairs bathroom
 - [ ] redo molding in entire house
-    - Repaint
-    - [x]Fix stairs
-    - Replace multi-pieced ones with full ones(or at least cut them correctly)
+    - [x] hallways
+    - [x] Fix stairs
+    - [x] master bedroom
+    - [ ] Guest Room
+    - [ ] Yoga room
+    - [x] front Room
+    - [ ] kitchen
+    - [ ] living Room
+    - [ ] basement
 - [x] contact flooring company and see if they have our floor in stock.(they don’t)
 - [ ] build and install b-n-b shutters
 - [x] consult and install smoke detectors
 - [x] install WiFi enhancer
 - [x] get another apple tree to pollinate the other one
 - [ ] Get new windows for Florida room
-- [ ] Get a chest freezer
+- [x] Get a chest freezer
 - [ ] replace chimney cap. Current one is rusty and staining the house.
+- [ ] add gutter covers to keep leaves out
+- [ ] finish sump pump concrete/pea gravel and add cover
+- [ ] seal areas in basement to prevent bug/spider infestation
+- [ ] finish egress window
+- [ ] remove carpet in guest room and yoga room

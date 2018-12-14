@@ -1,16 +1,25 @@
 ## Top Ten Albums 2018
-Khrungbin -- Con Todo El Mundo  
-Dawes -- Passwords  
-Yo La Tengo -- There's a Riot Going On    
-Death Cab for Cutie -- Thank You for Today  
-Carolina Rose -- LONER  
-Courtney Barnett -- Tell Me How You Really Feel
-Richard Swift -- The Hex   
-Kurt Vile -- Bottle it in  
-Arctic Monkeys -- Tranquility Hotel and Casino  
-Big Red Machine -- Self-titled  
-John Prine -- Tree of Forgiveness  
 
+1. Richard Swift -- The Hex
+2. Carolina Rose -- LONER
+3. Dawes -- Passwords  
+4. Kurt Vile -- Bottle it in    
+5. Khrungbin -- Con Todo El Mundo
+6. Kasey Musgraves -- Golden Hour
+7. Big Red Machine -- Self-titled  
+8. John Prine -- Tree of Forgiveness
+9. Haley Heynderickx -- I Need to Start a Garden   
+10. Jeff Tweedy -- WARM  
+
+## Honorable Mentions
+Yo La Tengo -- There's a Riot Going On  
+Kasey Musgraves -- Golden Hour
+Brandi Carlile -- By the Way, I Forgive You  
+Mitski -- Be the Cowboy  
+Stephen Malkmus and the Jicks -- Sparkle Hard  
+Ry Cooder -- The Prodigal Son  
+Soccer Mommy -- Clean  
+Hop Along -- Bark Your Head Off, Dog  
 
 ## Every Album I Enjoyed this year
 Porches -- The House  
@@ -57,4 +66,5 @@ Kurt Vile -- Bottle it in
 Amanda Shires -- To the Sunset   
 Cordovas -- The Santa Fe Channel  
 Brandi Carlile -- By the Way, I Forgive You  
-Haley Heynderickx -- I Need to Start a Garden
+Haley Heynderickx -- I Need to Start a Garden  
+Jeff Tweedy -- WARM  

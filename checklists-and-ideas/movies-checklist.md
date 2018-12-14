@@ -64,8 +64,13 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] A Star is Born -- 2018
 - [ ] First Man -- 2018
 - [x] The Shining -- 1980
-- [ ] Bohemian Rhapsody -- 2018
-- [ ] The Ballad of Buster Scruggs -- 2018
+- [x] Bohemian Rhapsody -- 2018
+- [x] The Ballad of Buster Scruggs -- 2018
+- [ ] At Eternity's Gate -- 2018
+- [ ] Ready Player One -- 2018
+- [ ] All the President's Men -- 1976
+- [x] Life of Brian -- 1979
+- [x] O Brother, Where Art Thou? -- 2000
 
 ## Documentaries
 - [ ] The Ties That Bind -- 2015

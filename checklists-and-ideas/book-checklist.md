@@ -153,10 +153,15 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 
 ## October
 - [x] To Kill a Mockingbird -- Harper Lee :headphones:
-- [ ] Petty: The Biography -- Warren Zanes :blue_book:
+- [x] Petty: The Biography -- Warren Zanes :blue_book:
 
 ## November
 - [x] Animal Farm -- George Orwell :headphones:
+- [x] I Wear the Black Hat: Grappling with Villains (Real and Imagined) -- Chuck Klosterman :headphones:
+- [x] Lets go (so we can get back) -- Jeff Tweedy :blue_book:
+
+## December
+- [ ] Slaughterhouse Five -- Kurt Vonnegut :blue_book:
 
 To-Read
 ---
@@ -170,9 +175,8 @@ To-Read
 - [ ] Zen Guitar -- Philip Toshio Sudo
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
 - [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
-- [ ] Zen and the Art of Happiness -- Chris Prentiss
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
 - [ ] Junky -- William S. Burroughs
 - [ ] The Poisonwood Bible -- Barbara Kingsolver
 - [ ] Love Is a Mix Tape -- Rob Sheffield
-- [ ] Jeff Tweedy -- let's go so we can get back
+- [ ] Educated -- Tara Westover
