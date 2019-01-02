@@ -25,3 +25,4 @@
 [ ] - Soul no 5 riff -- Caroline Rose
 [x] - Rihanna -- Fleetwood Mac
 [ ] - Johnny B Goode -- Chuck Berry
+[ ] - Clay Pigeons -- John Prine

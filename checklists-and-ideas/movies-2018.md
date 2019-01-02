@@ -1,0 +1,55 @@
+## 2018 List
+- [x] Se7en -- 1995
+- [x] The Hobbit series
+	- [x] An Unexpected Journey -- 2012
+	- [x] The Desolation of Smaug -- 2013
+	- [x] The Battle of the Five Armies -- 2014
+- [x] North by Northwest -- 1959
+- [x] IT -- 2017
+- [x] Dunkirk -- 2017
+- [x] LadyBird -- 2017
+- [x] The Natural -- 1984
+- [x] Cape Fear -- 1991
+- [x] LOTR Trilogy
+	- [x] The Fellow of the Ring -- 2001
+	- [x] The Two Towers -- 2002
+	- [x] Return of the King -- 2003
+- [x] WonderWoman -- 2017
+- [x] Black Panther -- 2018
+- [x] Room -- 2015
+- [x] Searching for Sugarman -- 2012
+- [x] Isle of Dogs -- 2018
+- [x] Logan Lucky -- 2017
+- [x] The Greatest Showman -- 2017
+- [x] Crossroads -- 1986
+- [x] Shape of Water -- 2017
+- [x] Coco -- 2017
+- [x] Waitress -- 2007
+- [x] Rent -- 2005
+- [x] The Florida Project -- 2017
+- [x] The Right Stuff -- 1983
+- [x] When Harry Met Sally -- 1989
+- [x] The Godfather -- 1972
+- [x] The Godfather part 2 -- 1974
+- [x] Dallas Buyers Club -- 2013
+- [x] The Big Sick -- 2017
+- [x] The End of Tour -- 2015
+- [x] The Spectacular Now -- 2013
+- [x] Crazy Rich Asians -- 2018
+- [x] Meet the Robinsons -- 2007
+- [x] The Shining -- 1980
+- [x] Bohemian Rhapsody -- 2018
+- [x] The Ballad of Buster Scruggs -- 2018
+- [x] Life of Brian -- 1979
+- [x] O Brother, Where Art Thou? -- 2000
+
+## Documentaries
+- [x] Long Strange Trip -- 2017
+- [x] Sour Grapes -- 2016
+- [x] Charles Bradley: Soul of America -- 2012
+- [x] Eric Clapton: Life in 12 Bars -- 2018
+- [x] Lynyrd Skynyrd: If I Leave Here Tomorrow -- 2018
+- [x] Lost Songs: The Basement Tapes Continued -- 2017
+- [x] Under Great White Northern Lights -- 2009
+- [x] 20 Feet from Stardom -- 2013
+- [x] Stop Making Sense -- 1984

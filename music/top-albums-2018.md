@@ -1,19 +1,17 @@
-## Top Ten Albums 2018
+## Top Albums in 2018 (in no particular order)
 
-1. Richard Swift -- The Hex
-2. Carolina Rose -- LONER
-3. Dawes -- Passwords  
-4. Kurt Vile -- Bottle it in    
-5. Khrungbin -- Con Todo El Mundo
-6. Kasey Musgraves -- Golden Hour
-7. Big Red Machine -- Self-titled  
-8. John Prine -- Tree of Forgiveness
-9. Haley Heynderickx -- I Need to Start a Garden   
-10. Jeff Tweedy -- WARM  
-
-## Honorable Mentions
+## Top Choices
+Richard Swift -- The Hex  
+Carolina Rose -- LONER  
+Dawes -- Passwords  
+Kurt Vile -- Bottle it in  
+Khrungbin -- Con Todo El Mundo  
+Kasey Musgraves -- Golden Hour  
+Big Red Machine -- Self-titled  
+John Prine -- Tree of Forgiveness  
+Haley Heynderickx -- I Need to Start a Garden   
+Jeff Tweedy -- WARM  
 Yo La Tengo -- There's a Riot Going On  
-Kasey Musgraves -- Golden Hour
 Brandi Carlile -- By the Way, I Forgive You  
 Mitski -- Be the Cowboy  
 Stephen Malkmus and the Jicks -- Sparkle Hard  

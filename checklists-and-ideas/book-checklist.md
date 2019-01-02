@@ -1,11 +1,9 @@
 # Books I've Read & Want to Read
 ## Collection of Audiobooks, books & ebooks I intend to read.
 
-
-Feel free to add to the list. :) Also, check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) account.
+Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) account.
 
 (:blue_book: == Actual book with paper pages)
-(:iphone: == Kindle)
 (:headphones: == AudioBook)
 
 #2016
@@ -151,17 +149,21 @@ Feel free to add to the list. :) Also, check out my [GoodReads](https://www.good
 - [x] Big Sur -- Jack Kerouac :blue_book:
 - [x] Call of the Wild -- Jack London :headphones:
 
-## October
+## October 2018
 - [x] To Kill a Mockingbird -- Harper Lee :headphones:
 - [x] Petty: The Biography -- Warren Zanes :blue_book:
 
-## November
+## November 2018
 - [x] Animal Farm -- George Orwell :headphones:
 - [x] I Wear the Black Hat: Grappling with Villains (Real and Imagined) -- Chuck Klosterman :headphones:
 - [x] Lets go (so we can get back) -- Jeff Tweedy :blue_book:
 
-## December
-- [ ] Slaughterhouse Five -- Kurt Vonnegut :blue_book:
+## December 2018
+- [x] Slaughterhouse Five -- Kurt Vonnegut :blue_book:
+
+## January 2019
+- [ ] Junky -- William S. Burroughs :headphones:
+- [ ] The Stand -- Stephen King :blue_book:
 
 To-Read
 ---
@@ -176,7 +178,7 @@ To-Read
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
 - [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
-- [ ] Junky -- William S. Burroughs
 - [ ] The Poisonwood Bible -- Barbara Kingsolver
 - [ ] Love Is a Mix Tape -- Rob Sheffield
 - [ ] Educated -- Tara Westover
+- [ ] How Music Works -- David Bryne
