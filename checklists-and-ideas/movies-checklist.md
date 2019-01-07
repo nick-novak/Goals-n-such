@@ -28,6 +28,7 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] At Eternity's Gate -- 2018
 - [ ] Ready Player One -- 2018
 - [ ] All the President's Men -- 1976
+- [X] Birdbox -- 2018
 
 ## Documentaries
 - [ ] The Ties That Bind -- 2015
@@ -38,3 +39,4 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] Radiohead - Meeting People is Easy -- 1998
 - [ ] The Devil and Daniel Johnston -- 2005
 - [ ] Message to Love: The Isle of Wight Festival -- 1997
+- [ ] The Secret to a Happy Ending (Drive-By Truckers Doc) -- 2011
