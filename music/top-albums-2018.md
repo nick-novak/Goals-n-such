@@ -65,4 +65,5 @@ Amanda Shires -- To the Sunset
 Cordovas -- The Santa Fe Channel  
 Brandi Carlile -- By the Way, I Forgive You  
 Haley Heynderickx -- I Need to Start a Garden  
-Jeff Tweedy -- WARM  
+Jeff Tweedy -- WARM
+Colter Wall -- Songs of the Plains   

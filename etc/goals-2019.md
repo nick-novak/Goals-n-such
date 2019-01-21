@@ -3,7 +3,8 @@
   - ReactJS  
   - Study more UX/UI design  
   - Juggle  
-  - GraphQL  
+  - GraphQL
+  - ThreeJS   
   - ES6  
 - Code less in JQuery and more in vanilla JS
 - Read  
@@ -16,4 +17,4 @@
 - Buy some Guitar effects pedals
 - Become more involved in communities  
 - Build a lap-steel guitar
-- End of Year weight target: 180lbs 
+- End of Year weight target: 180lbs

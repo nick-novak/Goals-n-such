@@ -29,6 +29,9 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] Ready Player One -- 2018
 - [ ] All the President's Men -- 1976
 - [X] Birdbox -- 2018
+- [x] Monty Python and The Holy Grail -- 1975
+- [x] Hot Fuzz -- 2007
+- [x] Solo -- 2018
 
 ## Documentaries
 - [ ] The Ties That Bind -- 2015

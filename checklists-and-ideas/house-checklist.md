@@ -1,46 +1,32 @@
 ## House To-Do
-- [x] Fix doorbell
 - [ ] Fix door handle (frontDoor)
-- [x] Get keys for deadbolts
-- [x] fence in the rest of the yard
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
 - [ ] Replace front porch column
-- [x] Remove cedar trees
-    - [x] Remove cedar stumps
-- [x] Remove pine trees
-    - [ ] Remove pine stumps
-- [X] Remove pool
-- [x] Fix yard where pool was
+- [ ] Remove pine stumps
 - [ ] Remove electrical pole
-- [x] contact fireplace company and see if there is a why for better insulation.
 - [ ] Fix insulation in attic (see inspection)
+- [ ] Insulate attic stairs
 - [ ] Replace both spigots
     - [x] 1
     - [ ] 2
 - [ ] Add windows and better lighting to garage
-- [x] remodel bathroom
-- [x] Change out toilet and update molding in downstairs bathroom
-- [ ] redo molding in entire house
-    - [x] hallways
-    - [x] Fix stairs
-    - [x] master bedroom
+- [ ] Redo molding in entire house
     - [ ] Guest Room
     - [ ] Yoga room
-    - [x] front Room
     - [ ] kitchen
     - [ ] living Room
     - [ ] basement
-- [x] contact flooring company and see if they have our floor in stock.(they don’t)
-- [ ] build and install b-n-b shutters
-- [x] consult and install smoke detectors
-- [x] install WiFi enhancer
-- [x] get another apple tree to pollinate the other one
+    - [ ] stairs leading to basement
+- [ ] Build and install b-n-b shutters
 - [ ] Get new windows for Florida room
-- [x] Get a chest freezer
-- [ ] replace chimney cap. Current one is rusty and staining the house.
-- [ ] add gutter covers to keep leaves out
-- [ ] finish sump pump concrete/pea gravel and add cover
-- [ ] seal areas in basement to prevent bug/spider infestation
-- [ ] finish egress window
-- [ ] remove carpet in guest room and yoga room
+- [ ] Replace chimney cap. Current one is rusty and staining the house.
+- [ ] Add gutter covers to keep leaves out
+- [ ] Finish sump pump concrete/pea gravel and add cover
+- [ ] Seal areas in basement to prevent bug/spider infestation
+- [ ] Finish egress window
+- [ ] Remove carpet in guest room and yoga room
+- [ ] Consult and replace sockets with GFCI sockets
+- [ ] Dig and install french drain from sump pump and downspout
+- [ ] Install bathroom fan
+- [ ] Install bedroom ceiling fan

@@ -162,8 +162,9 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] Slaughterhouse Five -- Kurt Vonnegut :blue_book:
 
 ## January 2019
-- [ ] Junky -- William S. Burroughs :headphones:
+- [x] Junky -- William S. Burroughs :headphones:
 - [ ] The Stand -- Stephen King :blue_book:
+- [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner :blue_book:
 
 To-Read
 ---
@@ -183,3 +184,4 @@ To-Read
 - [ ] Educated -- Tara Westover
 - [ ] How Music Works -- David Bryne
 - [ ] The Victorian Internet -- Tom Standage
+- [ ] High Performance Websites -- Steve Sauders
