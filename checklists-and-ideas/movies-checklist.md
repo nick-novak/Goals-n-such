@@ -1,9 +1,9 @@
 # A Checklist of my Must-See-Movies (Old & New).
 
-List of all movie I wish to watch/rewatch/have watched for the year.
+List of all movies I wish to watch/rewatch/have watched for the year.
 
 ## 2018 List
-- [ ] Citizen Kane -- 1941
+- [x] Citizen Kane -- 1941
 - [ ] Bridge of Spies -- 2015
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
@@ -30,8 +30,14 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] All the President's Men -- 1976
 - [X] Birdbox -- 2018
 - [x] Monty Python and The Holy Grail -- 1975
+- [x] Throw Momma from the Train -- 1987
 - [x] Hot Fuzz -- 2007
 - [x] Solo -- 2018
+- [x] A Quiet Place -- 2018
+- [x] The Incredibles 2 -- 2018
+- [x] It's a Mad Mad Mad Mad World -- 1963
+- [ ] The Homesman -- 2014
+- [ ] BlacKKKlansman -- 2018
 
 ## Documentaries
 - [ ] The Ties That Bind -- 2015
@@ -42,4 +48,4 @@ List of all movie I wish to watch/rewatch/have watched for the year.
 - [ ] Radiohead - Meeting People is Easy -- 1998
 - [ ] The Devil and Daniel Johnston -- 2005
 - [ ] Message to Love: The Isle of Wight Festival -- 1997
-- [ ] The Secret to a Happy Ending (Drive-By Truckers Doc) -- 2011
+- [x] Won't You Be My Neighbor? -- 2018

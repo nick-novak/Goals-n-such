@@ -30,3 +30,5 @@
 - [ ] Dig and install french drain from sump pump and downspout
 - [ ] Install bathroom fan
 - [ ] Install bedroom ceiling fan
+- [ ] Consult and do any finish work, mostly painting touchups
+- [ ] Replace front window panes

@@ -1,4 +1,4 @@
-# Goals for 2018
+# Goals for 2019
 - Learn More  
   - ReactJS  
   - Study more UX/UI design  
@@ -10,7 +10,6 @@
 - Read  
   - 12 book challenge  
 - write some music  
-- Improve Penmanship  
 - Invest in my house  
 - Work on new guitar build(custom or tele)  
 - Buy a new Guitar amp  
@@ -18,3 +17,4 @@
 - Become more involved in communities  
 - Build a lap-steel guitar
 - End of Year weight target: 180lbs
+- Get Old 401K over to the new one

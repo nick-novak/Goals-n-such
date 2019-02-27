@@ -12,17 +12,15 @@
 [x] - Had to Cry Today -- Blind Faith  
 [x] - Slow Dancing in a Burning Room -- John Mayer *looper*  
 [ ] - Impossible Germany -- Wilco *looper*  
-[ ] - Thirteen -- Big Star  
 [x] - Kettles -- Arcade Fire  
 [x] - Take Five -- Dave Brubeck  
-[ ] - Future People -- Alabama Shakes *looper*  
 [x] - Wicked Game -- Chris Isaak  
 [x] - Sultans of Swing -- Dire Straits  
 [x] - Hold on -- Tom Waits  
 [ ] - Dern Kala -- Khrungbin  
 [ ] - Buckets of Rain -- Bob Dylan  
 [ ] - Walls -- Tom Petty and The HeartBeakers  
-[ ] - Soul no 5 riff -- Caroline Rose
-[x] - Rihanna -- Fleetwood Mac
+[ ] - Soul no 5 riff -- Caroline Rose  
 [ ] - Johnny B Goode -- Chuck Berry
-[ ] - Clay Pigeons -- John Prine
+[ ] - Clay Pigeons -- John Prine  
+[x] - Wind Cries Mary -- Jimi Hendrix  

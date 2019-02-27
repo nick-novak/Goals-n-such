@@ -164,7 +164,6 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 ## January 2019
 - [x] Junky -- William S. Burroughs :headphones:
 - [ ] The Stand -- Stephen King :blue_book:
-- [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner :blue_book:
 
 To-Read
 ---
@@ -184,4 +183,4 @@ To-Read
 - [ ] Educated -- Tara Westover
 - [ ] How Music Works -- David Bryne
 - [ ] The Victorian Internet -- Tom Standage
-- [ ] High Performance Websites -- Steve Sauders
+- [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
