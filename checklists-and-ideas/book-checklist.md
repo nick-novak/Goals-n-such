@@ -163,7 +163,16 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## January 2019
 - [x] Junky -- William S. Burroughs :headphones:
-- [ ] The Stand -- Stephen King :blue_book:
+- [x] The Stand -- Stephen King :blue_book:
+
+## February 2019
+- [ ] Guitar Zero -- Gary F. Marcus :blue_book:
+
+## March 2019
+- [x] Prey -- Micheal Crichton :blue_book:
+
+## April 2019
+- [ ] The Shining -- Stephen King :blue_book:
 
 To-Read
 ---
@@ -184,3 +193,4 @@ To-Read
 - [ ] How Music Works -- David Bryne
 - [ ] The Victorian Internet -- Tom Standage
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
+- [ ] Cryptonomicon - Neal Stephenson

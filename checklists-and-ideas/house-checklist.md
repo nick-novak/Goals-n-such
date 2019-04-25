@@ -11,6 +11,7 @@
     - [x] 1
     - [ ] 2
 - [ ] Add windows and better lighting to garage
+- [ ] Install hardwood in guest and yoga rooms
 - [ ] Redo molding in entire house
     - [ ] Guest Room
     - [ ] Yoga room
@@ -25,10 +26,13 @@
 - [ ] Finish sump pump concrete/pea gravel and add cover
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
-- [ ] Remove carpet in guest room and yoga room
 - [ ] Consult and replace sockets with GFCI sockets
 - [ ] Dig and install french drain from sump pump and downspout
 - [ ] Install bathroom fan
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
 - [ ] Replace front window panes
+- [ ] Move doggie door to wall *do before winter 2020*
+- [ ] Finish the shower caulking around tile and Paint Molding at the top.
+- [ ] Get maple tree in front yard trimmed
+- [ ] Replace Mailbox

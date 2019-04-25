@@ -3,3 +3,9 @@
 
 "Good art provides people with a vocabulary about things they can't articulate.""
 –- Mos Def
+
+"Once you replace negative thoughts with positive ones, you'll start having positive results.”
+-- Willie Nelson
+
+"If you don’t stick to your values when they are being tested, they’re not values... they’re hobbies."
+-– Jon Stewart

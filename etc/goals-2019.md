@@ -13,7 +13,7 @@
 - Invest in my house  
 - Work on new guitar build(custom or tele)  
 - Buy a new Guitar amp  
-- Buy some Guitar effects pedals
+- [x] Buy some Guitar effects pedals
 - Become more involved in communities  
 - Build a lap-steel guitar
 - End of Year weight target: 180lbs

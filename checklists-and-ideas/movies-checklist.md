@@ -21,12 +21,11 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Lawerence of Arabia -- 1962
 - [ ] Five Easy Pieces -- 1970
 - [ ] Fast Times at Ridgemont High -- 1982
-- [ ] Call Me By My Name -- 2017
-- [ ] Detachment -- 2012
-- [ ] A Star is Born -- 2018
-- [ ] First Man -- 2018
+- [ ] Call Me By Your Name -- 2017
+- [x] A Star is Born -- 2018
+- [x] First Man -- 2018
 - [ ] At Eternity's Gate -- 2018
-- [ ] Ready Player One -- 2018
+- [x] Ready Player One -- 2018
 - [ ] All the President's Men -- 1976
 - [X] Birdbox -- 2018
 - [x] Monty Python and The Holy Grail -- 1975
@@ -37,15 +36,24 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] The Incredibles 2 -- 2018
 - [x] It's a Mad Mad Mad Mad World -- 1963
 - [ ] The Homesman -- 2014
-- [ ] BlacKKKlansman -- 2018
+- [x] BlacKKKlansman -- 2018
+- [ ] Blaze -- 2018
+- [x] Green Book -- 2018
+- [ ] Us -- 2019
+- [ ] Vice -- 2018
+- [x] Fantastic Beasts: The Crimes of Grindelwald -- 2018
 
 ## Documentaries
-- [ ] The Ties That Bind -- 2015
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
 - [ ] Gimme Shelter -- 1970
 - [ ] U2: Rattle and Hum’ -- 1988
 - [ ] Radiohead - Meeting People is Easy -- 1998
 - [ ] The Devil and Daniel Johnston -- 2005
-- [ ] Message to Love: The Isle of Wight Festival -- 1997
+- [x] Message to Love: The Isle of Wight Festival -- 1997
 - [x] Won't You Be My Neighbor? -- 2018
+- [ ] The Inventor: Out For Blood In Silicon Valley -- 2019
+- [x] Free Solo -- 2018
+- [x] Sound city -- 2013
+- [ ] Apollo 11 -- 2019
+- [x] Man on Wire -- 2008

@@ -9,6 +9,7 @@ Khrungbin -- Con Todo El Mundo
 Kasey Musgraves -- Golden Hour  
 Big Red Machine -- Self-titled  
 John Prine -- Tree of Forgiveness  
+Colter Wall -- Songs of the Plains
 Haley Heynderickx -- I Need to Start a Garden   
 Jeff Tweedy -- WARM  
 Yo La Tengo -- There's a Riot Going On  
