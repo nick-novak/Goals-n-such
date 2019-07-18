@@ -9,3 +9,6 @@
 
 "If you don’t stick to your values when they are being tested, they’re not values... they’re hobbies."
 -– Jon Stewart
+
+“To live for some future goal is shallow, It’s the sides of the mountain that sustain life, not the top … The only Zen you find on the top of the mountains is the Zen you bring up there.”
+-- Robert Pirsig

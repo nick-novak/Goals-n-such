@@ -166,13 +166,17 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] The Stand -- Stephen King :blue_book:
 
 ## February 2019
-- [ ] Guitar Zero -- Gary F. Marcus :blue_book:
+- [x] Guitar Zero -- Gary F. Marcus :blue_book:
 
 ## March 2019
 - [x] Prey -- Micheal Crichton :blue_book:
 
 ## April 2019
-- [ ] The Shining -- Stephen King :blue_book:
+- [x] The Shining -- Stephen King :blue_book:
+
+## June 2019
+- [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
+
 
 To-Read
 ---
@@ -180,7 +184,6 @@ To-Read
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Catch 22 -- Joseph Heller
-- [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
 - [ ] Zen Guitar -- Philip Toshio Sudo
@@ -193,4 +196,7 @@ To-Read
 - [ ] How Music Works -- David Bryne
 - [ ] The Victorian Internet -- Tom Standage
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
-- [ ] Cryptonomicon - Neal Stephenson
+- [ ] Cryptonomicon -- Neal Stephenson
+- [ ] Sapiens: A Brief History of Humankind Hardcover –- Yuval Noah Harari
+- [ ] Infinite Jest -- David Foster Wallace
+- [ ] The Great Gatsby -- F. Scott Fitzgerald

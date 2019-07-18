@@ -17,17 +17,17 @@
 [x] - Wicked Game -- Chris Isaak  
 [x] - Sultans of Swing -- Dire Straits  
 [x] - Hold on -- Tom Waits  
-[ ] - Dern Kala -- Khrungbin  
 [ ] - Buckets of Rain -- Bob Dylan  
 [ ] - Soul no 5 riff -- Caroline Rose  
 [ ] - Johnny B Goode -- Chuck Berry
 [x] - Clay Pigeons -- John Prine  
 [x] - Wind Cries Mary -- Jimi Hendrix  
-[x] - Tennessee Whiskey -- Chris Stapleton
-[ ] - Saginaw, Michigan -- Lefty Frizzel
-[ ] - Forget About Georgia -- Lukas Nelson
-[ ] - Neon Moon -- Brooks and Dunn
-[ ] - streets have no name *just to get delay techniques down(dotted 8ths)*
-[ ] - Silver Lining -- Rilo Kiley *with Jill*
-[ ] - Fruits of my Labor -- Lucinda Williams *blake mills style*
-[ ] - If I'm Unworthy -- Blake Mills
+[x] - Tennessee Whiskey -- Chris Stapleton  
+[ ] - Saginaw, Michigan -- Lefty Frizzel  
+[ ] - Forget About Georgia -- Lukas Nelson  
+[ ] - Neon Moon -- Brooks and Dunn  
+[ ] - streets have no name *just to get delay techniques down(dotted 8ths)*  
+[x] - Silver Lining -- Rilo Kiley *with Jill*  
+[x] - Fruits of my Labor -- Lucinda Williams  
+[x] - Million Dollar Bill -- Dawes  
+[x] - A Little Bit of Everything -- Dawes  

@@ -2,7 +2,7 @@
 - [ ] Fix door handle (frontDoor)
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
-- [ ] Replace front porch column
+- [x] Replace front porch column
 - [ ] Remove pine stumps
 - [ ] Remove electrical pole
 - [ ] Fix insulation in attic (see inspection)
@@ -27,12 +27,12 @@
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
-- [ ] Dig and install french drain from sump pump and downspout
+- [ ] Dig and install french drain from sump pump and downspout(s)
 - [ ] Install bathroom fan
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
 - [ ] Replace front window panes
-- [ ] Move doggie door to wall *do before winter 2020*
+- [ ] Move doggie door to wall *do before winter 2019/2020*
 - [ ] Finish the shower caulking around tile and Paint Molding at the top.
-- [ ] Get maple tree in front yard trimmed
+- [x] Get maple tree in front yard trimmed
 - [ ] Replace Mailbox

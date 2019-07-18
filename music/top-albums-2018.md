@@ -1,12 +1,12 @@
 ## Top Albums in 2018 (in no particular order)
 
 ## Top Choices
+Kasey Musgraves -- Golden Hour 
 Richard Swift -- The Hex  
 Carolina Rose -- LONER  
 Dawes -- Passwords  
 Kurt Vile -- Bottle it in  
-Khrungbin -- Con Todo El Mundo  
-Kasey Musgraves -- Golden Hour  
+Khrungbin -- Con Todo El Mundo   
 Big Red Machine -- Self-titled  
 John Prine -- Tree of Forgiveness  
 Colter Wall -- Songs of the Plains

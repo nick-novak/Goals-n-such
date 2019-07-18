@@ -4,7 +4,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 
 ## 2018 List
 - [x] Citizen Kane -- 1941
-- [ ] Bridge of Spies -- 2015
+- [x] Bridge of Spies -- 2015
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
 - [ ] 12 Angry Men -- 1957
@@ -15,18 +15,17 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] The Apartment -- 1960
 - [ ] The Muppet Movie -- 1979
 - [ ] The Great Muppet Caper -- 1981
-- [ ] Mo' Better Blues -- 1990
+- [x] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
 - [ ] Rocky -- 1976
 - [ ] Lawerence of Arabia -- 1962
 - [ ] Five Easy Pieces -- 1970
 - [ ] Fast Times at Ridgemont High -- 1982
-- [ ] Call Me By Your Name -- 2017
 - [x] A Star is Born -- 2018
 - [x] First Man -- 2018
 - [ ] At Eternity's Gate -- 2018
 - [x] Ready Player One -- 2018
-- [ ] All the President's Men -- 1976
+- [x] All the President's Men -- 1976
 - [X] Birdbox -- 2018
 - [x] Monty Python and The Holy Grail -- 1975
 - [x] Throw Momma from the Train -- 1987
@@ -37,11 +36,16 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] It's a Mad Mad Mad Mad World -- 1963
 - [ ] The Homesman -- 2014
 - [x] BlacKKKlansman -- 2018
-- [ ] Blaze -- 2018
+- [x] Blaze -- 2018
 - [x] Green Book -- 2018
 - [ ] Us -- 2019
-- [ ] Vice -- 2018
+- [x] Vice -- 2018
 - [x] Fantastic Beasts: The Crimes of Grindelwald -- 2018
+- [ ] Bolden -- 2019
+- [ ] The Lost Boys -- 1987
+- [x] Rocketman -- 2019
+- [x] Hidden Figures -- 2017
+- [x] Chaddyshack -- 1980
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006
@@ -57,3 +61,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Sound city -- 2013
 - [ ] Apollo 11 -- 2019
 - [x] Man on Wire -- 2008
+- [ ] They Shall Not Grow Old -- 2019
+- [ ] The Cold Blue -- 2019
+- [ ] Rolling Thunder Revue: A Bob Dylan Story -- 2019
+- [ ] Buck -- 2012
