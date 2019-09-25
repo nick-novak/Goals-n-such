@@ -7,6 +7,8 @@ Vampire Weekend -- Father of the Bride
 Big Thief -- U.F.O.F.
 The National -- I am Easy to Find
 Bruce Springsteen -- Western Stars
+Orville Peck -- Pony
+Yola -- Walk Through Fire
 
 ## Every Album I Enjoyed this year
 Deerhunter -- Why Hasn't Everything Already Disappeared
@@ -27,7 +29,13 @@ Sam Cohen -- The Future's Still Ringing In My Ears
 Aldous Harding -- Designer
 Hayes Carll -- What it is
 Bedouine -- Bird Songs of a Killjoy
+Orville Peck -- Pony
 Bruce Springsteen -- Western Stars
+Stella Donnelly -- Beware of the Dogs
+Willie Nelson -- Ride Me Back Home
+Yola -- Walk Through Fire
+Caamp -- By & By
+Leo "Bud" Welch -- The Angels in Heaven Done Signed My Name
 
 
 ## Top Albums I've discovered (in no particular order)

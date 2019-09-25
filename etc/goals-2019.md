@@ -11,8 +11,8 @@
   - 12 book challenge  
 - write some music  
 - Invest in my house  
-- Work on new guitar build(custom or tele)  
-- Buy a new Guitar amp  
+- [x] Work on new guitar build(custom or tele)  
+- [x] Buy a new Guitar amp  
 - [x] Buy some Guitar effects pedals
 - Become more involved in communities  
 - Build a lap-steel guitar

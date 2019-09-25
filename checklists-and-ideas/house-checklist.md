@@ -1,5 +1,5 @@
 ## House To-Do
-- [ ] Fix door handle (frontDoor)
+- [x] Fix door handle (frontDoor)
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
 - [x] Replace front porch column
@@ -19,11 +19,13 @@
     - [ ] living Room
     - [ ] basement
     - [ ] stairs leading to basement
-- [ ] Build and install b-n-b shutters
+- [ ] New shutters
 - [ ] Get new windows for Florida room
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
-- [ ] Add gutter covers to keep leaves out
+- [ ] Add gutter covers to keep leaves out/second floor only
 - [ ] Finish sump pump concrete/pea gravel and add cover
+    - [ ] move check valve to see if it fixes issues
+    - [ ] if check vale doesn't work, higher powered motor needed.
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
@@ -32,7 +34,7 @@
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
 - [ ] Replace front window panes
-- [ ] Move doggie door to wall *do before winter 2019/2020*
+- [ ] Come up with better insulation for doggie door *do before winter 2019/2020*
 - [ ] Finish the shower caulking around tile and Paint Molding at the top.
 - [x] Get maple tree in front yard trimmed
 - [ ] Replace Mailbox

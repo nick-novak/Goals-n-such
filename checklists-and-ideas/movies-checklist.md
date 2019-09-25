@@ -41,11 +41,23 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Us -- 2019
 - [x] Vice -- 2018
 - [x] Fantastic Beasts: The Crimes of Grindelwald -- 2018
-- [ ] Bolden -- 2019
 - [ ] The Lost Boys -- 1987
 - [x] Rocketman -- 2019
 - [x] Hidden Figures -- 2017
 - [x] Chaddyshack -- 1980
+- [x] Yesterday -- 2019
+- [ ] Blinded by the Light -- 2019
+- [ ] Star Wars: Rise of Skywalker -- 2019
+- [ ] A Beautiful Day in the Neighborhood -- 2019
+- [x] Mary Poppins returns -- 2018
+- [x] Chariots of Fire -- 1981
+- [ ] Crazy Heart -- 2009
+- [x] Gattaca -- 1997
+- [x] The Emperors New Groove -- 2000
+- [x] Spider-Man: Into the Spider-Verse -- 2018
+- [ ] The Labyrinth -- 1986
+- [x] 13 going on 30 -- 2004
+
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006
@@ -59,9 +71,12 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] The Inventor: Out For Blood In Silicon Valley -- 2019
 - [x] Free Solo -- 2018
 - [x] Sound city -- 2013
-- [ ] Apollo 11 -- 2019
+- [x] Apollo 11 -- 2019
 - [x] Man on Wire -- 2008
 - [ ] They Shall Not Grow Old -- 2019
 - [ ] The Cold Blue -- 2019
-- [ ] Rolling Thunder Revue: A Bob Dylan Story -- 2019
+- [x] Rolling Thunder Revue: A Bob Dylan Story -- 2019
 - [ ] Buck -- 2012
+- [ ] Hitsville: The Making of Motown -- 2019
+- [x] Eric Clapton: Life in 12 Bars -- 2018
+- [ ] Ken Burn's Country Music -- 2019

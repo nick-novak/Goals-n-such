@@ -175,15 +175,22 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] The Shining -- Stephen King :blue_book:
 
 ## June 2019
-- [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
+- [x] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig :blue_book:
 
+## July 2019
+- [x] Doctor Sleep -- Stephen King :blue_book:
+
+## August
+- [x] The Birth of Loud -- Ian S. Port :blue_book:
+
+## September
+- [ ] Catch 22 -- Joseph Heller :blue_book:
 
 To-Read
 ---
 - [ ] Shady Characters -- Keith Houston
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
-- [ ] Catch 22 -- Joseph Heller
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
 - [ ] Zen Guitar -- Philip Toshio Sudo
@@ -200,3 +207,6 @@ To-Read
 - [ ] Sapiens: A Brief History of Humankind Hardcover –- Yuval Noah Harari
 - [ ] Infinite Jest -- David Foster Wallace
 - [ ] The Great Gatsby -- F. Scott Fitzgerald
+- [ ] All the Pretty Horses -- Cormac McCarthy
+- [ ] It's a Long Story: My Life -- Willie Nelson
+- [ ] What Work Is -- Philip Levine
