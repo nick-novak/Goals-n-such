@@ -1,0 +1,22 @@
+# Goals for 2019
+- Learn More  
+  - ReactJS  
+  - Juggle  
+  - GraphQL
+  - ThreeJS   
+  - ES6
+
+- Build a Bass guitar(kit)
+- Finish up guitars and lap steel
+- Make my table saw safer
+  - gripper push stick
+  - better rip fence
+  - install a safety switch
+- learn more Guitar
+- Read  
+  - 12 book challenge  
+- write some music  
+- Invest in my house  
+- Run More
+  - do 3[ ][ ][ ] 5k runs
+  - Run a 10k on your own

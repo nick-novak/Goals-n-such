@@ -13,7 +13,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Howl's Moving Castle -- 2004
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
-- [ ] The Muppet Movie -- 1979
+- [x] The Muppet Movie -- 1979
 - [ ] The Great Muppet Caper -- 1981
 - [x] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
@@ -57,6 +57,12 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Spider-Man: Into the Spider-Verse -- 2018
 - [ ] The Labyrinth -- 1986
 - [x] 13 going on 30 -- 2004
+- [x] Good Night and Good Luck -- 2005
+- [x] Big -- 1988
+- [x] Hot Rod -- 2007
+- [x] Star Wars: Episode VI – Return of the Jedi -- 1983
+- [x] Star Wars: Episode I – The Phantom Menace -- 1999
+- [ ] Jeremiah Johnson - 1972
 
 
 ## Documentaries
@@ -73,10 +79,13 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Sound city -- 2013
 - [x] Apollo 11 -- 2019
 - [x] Man on Wire -- 2008
-- [ ] They Shall Not Grow Old -- 2019
+- [x] They Shall Not Grow Old -- 2019
 - [ ] The Cold Blue -- 2019
 - [x] Rolling Thunder Revue: A Bob Dylan Story -- 2019
 - [ ] Buck -- 2012
 - [ ] Hitsville: The Making of Motown -- 2019
+- [ ] Ken Burns National Parks -- 2009
 - [x] Eric Clapton: Life in 12 Bars -- 2018
-- [ ] Ken Burn's Country Music -- 2019
+- [x] Ken Burn's Country Music -- 2019
+- [x] Echo in the Canyon -- 2018
+- [ ] The Gift: The Journey of Johnny Cash -- 2019

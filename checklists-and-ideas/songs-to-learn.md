@@ -27,7 +27,8 @@
 [ ] - Forget About Georgia -- Lukas Nelson  
 [ ] - Neon Moon -- Brooks and Dunn  
 [ ] - streets have no name *just to get delay techniques down(dotted 8ths)*  
-[x] - Silver Lining -- Rilo Kiley *with Jill*  
 [x] - Fruits of my Labor -- Lucinda Williams  
 [x] - Million Dollar Bill -- Dawes  
-[x] - A Little Bit of Everything -- Dawes  
+[x] - A Little Bit of Everything -- Dawes
+[ ] - Under the Bridge -- Red Hot Chili Peppers
+[ ] - Ten Cent Pistol -- The Black Keys

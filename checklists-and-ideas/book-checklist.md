@@ -184,7 +184,14 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] The Birth of Loud -- Ian S. Port :blue_book:
 
 ## September
-- [ ] Catch 22 -- Joseph Heller :blue_book:
+- [x] The Art of Racing in the Rain -- Garth Stein :blue_book:
+
+## October
+- [ ] Beautiful Music --  Michael Zadoorian :blue_book:
+- [x] What Work is Poems -- Philip Levine :blue_book:
+
+## November
+- [ ] Everytings Eventual -- Stephen King :blue_book:
 
 To-Read
 ---
@@ -197,7 +204,6 @@ To-Read
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
 - [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
-- [ ] The Poisonwood Bible -- Barbara Kingsolver
 - [ ] Love Is a Mix Tape -- Rob Sheffield
 - [ ] Educated -- Tara Westover
 - [ ] How Music Works -- David Bryne
@@ -209,4 +215,4 @@ To-Read
 - [ ] The Great Gatsby -- F. Scott Fitzgerald
 - [ ] All the Pretty Horses -- Cormac McCarthy
 - [ ] It's a Long Story: My Life -- Willie Nelson
-- [ ] What Work Is -- Philip Levine
+- [ ] Grid Systems in Graphic Design -- Josef Müller-Brockmann

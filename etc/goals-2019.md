@@ -1,20 +1,20 @@
 # Goals for 2019
 - Learn More  
   - ReactJS  
-  - Study more UX/UI design  
+  - [x] Study more UX/UI design  
   - Juggle  
   - GraphQL
-  - ThreeJS   
+  - [x] ThreeJS   
   - ES6  
-- Code less in JQuery and more in vanilla JS
+- [x] Code less in JQuery and more in vanilla JS
 - Read  
   - 12 book challenge  
 - write some music  
-- Invest in my house  
+- [x]Invest in my house  
 - [x] Work on new guitar build(custom or tele)  
 - [x] Buy a new Guitar amp  
 - [x] Buy some Guitar effects pedals
-- Become more involved in communities  
-- Build a lap-steel guitar
+- [x] Become more involved in communities  
+- [x] Build a lap-steel guitar
 - End of Year weight target: 180lbs
 - Get Old 401K over to the new one

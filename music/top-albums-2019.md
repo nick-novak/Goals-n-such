@@ -9,6 +9,8 @@ The National -- I am Easy to Find
 Bruce Springsteen -- Western Stars
 Orville Peck -- Pony
 Yola -- Walk Through Fire
+Robert Ellis -- Texas Piano Man
+Brittany Howard - Jaime
 
 ## Every Album I Enjoyed this year
 Deerhunter -- Why Hasn't Everything Already Disappeared
@@ -23,8 +25,10 @@ Julian Lage -- Love Hurts
 Mac DeMarco -- Here Comes The Cowboy
 Vampire Weekend -- Father of the Bride
 Local Native -- Violet Street
+Big Thief -- U.F.O.F.
 The Head and The Heart -- Living Mirage
 The National -- I am Easy to Find
+Bon Iver -- i, i
 Sam Cohen -- The Future's Still Ringing In My Ears
 Aldous Harding -- Designer
 Hayes Carll -- What it is
@@ -36,10 +40,18 @@ Willie Nelson -- Ride Me Back Home
 Yola -- Walk Through Fire
 Caamp -- By & By
 Leo "Bud" Welch -- The Angels in Heaven Done Signed My Name
+Paul Cauthen -- Room 41
+Robert Ellis -- Texas Piano Man
+Tyler Childers -- Country Squire
+Big Thief -- Two Hands
+Weyes Blood -- Titanic Rising
+Purple Mountains -- Self-titled
+Brittany Howard - Jaime
 
 
 ## Top Albums I've discovered (in no particular order)
-Springtime Carnivore -- Self-titled -- 2014
-Pinback -- Summer in Abaddon -- 2004
-Liz Cooper & the Stampede -- Window Flowers -- 2018
-Courtney Marie Andrews -- May Your Kindness Remain -- 2018
+Springtime Carnivore -- Self-titled - 2014
+Pinback -- Summer in Abaddon - 2004
+Liz Cooper & the Stampede -- Window Flowers - 2018
+Courtney Marie Andrews -- May Your Kindness Remain - 2018
+Nitty Gritty Dirt Band -- May The Circle Be Unbroken - 1974

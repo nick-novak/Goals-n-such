@@ -10,6 +10,8 @@
 - [ ] Replace both spigots
     - [x] 1
     - [ ] 2
+- [ ] Replace Furnace/AC unit
+- [ ] Replace driveway
 - [ ] Add windows and better lighting to garage
 - [ ] Install hardwood in guest and yoga rooms
 - [ ] Redo molding in entire house
@@ -24,12 +26,12 @@
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers to keep leaves out/second floor only
 - [ ] Finish sump pump concrete/pea gravel and add cover
-    - [ ] move check valve to see if it fixes issues
-    - [ ] if check vale doesn't work, higher powered motor needed.
+    - [x] move check valve to see if it fixes issues
+    - [x] if check vale doesn't work, higher powered motor needed.
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
-- [ ] Dig and install french drain from sump pump and downspout(s)
+- [x] Dig and install french drain from sump pump and downspout(s)
 - [ ] Install bathroom fan
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
