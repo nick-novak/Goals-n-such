@@ -13,7 +13,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Howl's Moving Castle -- 2004
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
-- [x] The Muppet Movie -- 1979
+- [x] The Muppet Movie -- 1979 *rewatch*
 - [ ] The Great Muppet Caper -- 1981
 - [x] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
@@ -46,22 +46,22 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Hidden Figures -- 2017
 - [x] Chaddyshack -- 1980
 - [x] Yesterday -- 2019
-- [ ] Blinded by the Light -- 2019
+- [x] Blinded by the Light -- 2019
 - [ ] Star Wars: Rise of Skywalker -- 2019
 - [ ] A Beautiful Day in the Neighborhood -- 2019
 - [x] Mary Poppins returns -- 2018
 - [x] Chariots of Fire -- 1981
 - [ ] Crazy Heart -- 2009
-- [x] Gattaca -- 1997
-- [x] The Emperors New Groove -- 2000
+- [x] Gattaca -- 1997 *rewatch*
+- [x] The Emperors New Groove -- 2000 *rewatch*
 - [x] Spider-Man: Into the Spider-Verse -- 2018
 - [ ] The Labyrinth -- 1986
 - [x] 13 going on 30 -- 2004
 - [x] Good Night and Good Luck -- 2005
 - [x] Big -- 1988
-- [x] Hot Rod -- 2007
-- [x] Star Wars: Episode VI – Return of the Jedi -- 1983
-- [x] Star Wars: Episode I – The Phantom Menace -- 1999
+- [x] Hot Rod -- 2007 *rewatch*
+- [x] Star Wars: Episode VI – Return of the Jedi -- 1983 *rewatch*
+- [x] Star Wars: Episode I – The Phantom Menace -- 1999 *rewatch*
 - [ ] Jeremiah Johnson - 1972
 
 
@@ -78,14 +78,14 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Free Solo -- 2018
 - [x] Sound city -- 2013
 - [x] Apollo 11 -- 2019
-- [x] Man on Wire -- 2008
+- [x] Man on Wire -- 2008 *rewatch*
 - [x] They Shall Not Grow Old -- 2019
 - [ ] The Cold Blue -- 2019
 - [x] Rolling Thunder Revue: A Bob Dylan Story -- 2019
 - [ ] Buck -- 2012
 - [ ] Hitsville: The Making of Motown -- 2019
 - [ ] Ken Burns National Parks -- 2009
-- [x] Eric Clapton: Life in 12 Bars -- 2018
+- [x] Eric Clapton: Life in 12 Bars -- 2018 *rewatch*
 - [x] Ken Burn's Country Music -- 2019
 - [x] Echo in the Canyon -- 2018
 - [ ] The Gift: The Journey of Johnny Cash -- 2019

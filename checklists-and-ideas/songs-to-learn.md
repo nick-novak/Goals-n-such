@@ -32,3 +32,4 @@
 [x] - A Little Bit of Everything -- Dawes
 [ ] - Under the Bridge -- Red Hot Chili Peppers
 [ ] - Ten Cent Pistol -- The Black Keys
+[ ] - Operator -- Jim Croce

@@ -47,6 +47,7 @@ Big Thief -- Two Hands
 Weyes Blood -- Titanic Rising
 Purple Mountains -- Self-titled
 Brittany Howard - Jaime
+Ian Noe -- Between the Country
 
 
 ## Top Albums I've discovered (in no particular order)
