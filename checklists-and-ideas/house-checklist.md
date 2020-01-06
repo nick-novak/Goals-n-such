@@ -1,16 +1,14 @@
 ## House To-Do
-- [x] Fix door handle (frontDoor)
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
-- [x] Replace front porch column
 - [ ] Remove pine stumps
 - [ ] Remove electrical pole
 - [ ] Fix insulation in attic (see inspection)
+- [ ] replace attic stairs
 - [ ] Insulate attic stairs
 - [ ] Replace both spigots
     - [x] 1
     - [ ] 2
-- [ ] Replace Furnace/AC unit
 - [ ] Replace driveway
 - [ ] Add windows and better lighting to garage
 - [ ] Install hardwood in guest and yoga rooms
@@ -26,17 +24,13 @@
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers to keep leaves out/second floor only
 - [ ] Finish sump pump concrete/pea gravel and add cover
-    - [x] move check valve to see if it fixes issues
-    - [x] if check vale doesn't work, higher powered motor needed.
+- [ ] Redo plumbing for sump pump
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
-- [x] Dig and install french drain from sump pump and downspout(s)
 - [ ] Install bathroom fan
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
 - [ ] Replace front window panes
-- [ ] Come up with better insulation for doggie door *do before winter 2019/2020*
 - [ ] Finish the shower caulking around tile and Paint Molding at the top.
-- [x] Get maple tree in front yard trimmed
 - [ ] Replace Mailbox

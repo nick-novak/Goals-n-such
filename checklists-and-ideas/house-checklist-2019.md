@@ -1,0 +1,13 @@
+## House To-Do
+- [x] Fix door handle (frontDoor)
+- [x] Replace front porch column
+- [ ] Replace both spigots
+    - [x] 1
+    - [ ] 2
+- [x] Replace Furnace/AC unit
+- [ ] Finish sump pump concrete/pea gravel and add cover
+    - [x] move check valve to see if it fixes issues
+    - [x] if check vale doesn't work, higher powered motor needed.
+- [x] Dig and install french drain from sump pump and downspout(s)
+- [x] Come up with better insulation for doggie door *do before winter 2019/2020*
+- [x] Get maple tree in front yard trimmed

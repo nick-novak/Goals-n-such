@@ -12,3 +12,6 @@
 
 “To live for some future goal is shallow, It’s the sides of the mountain that sustain life, not the top … The only Zen you find on the top of the mountains is the Zen you bring up there.”
 -- Robert Pirsig
+
+"There are two stories we are good at telling ourselves: one is that the world is ending; the other is that everything will be fine. As followers of the Middle Way, we would do well to remind ourselves that the future is likely to be played out somewhere between these two narratives. Some tragic endings are inevitable, and we will have to learn how to live with the accompanying guilt, pain, and loss. At the same time, we still may be able to prevent the worst of it – for both humans and nonhuman species. That is to say, with a little luck and a lot of work, we might preserve humanity’s place in the cycle of samsara, with a new perspective on suffering and our relationship to this precious earth."
+-- Kai Brach

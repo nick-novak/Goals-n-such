@@ -1,0 +1,52 @@
+## 2019 List
+- [x] Citizen Kane -- 1941
+- [x] Bridge of Spies -- 2015
+- [x] The Muppet Movie -- 1979 *rewatch*
+- [x] Mo' Better Blues -- 1990
+- [x] A Star is Born -- 2018
+- [x] First Man -- 2018
+- [x] Ready Player One -- 2018
+- [x] All the President's Men -- 1976
+- [X] Birdbox -- 2018
+- [x] Monty Python and The Holy Grail -- 1975
+- [x] Throw Momma from the Train -- 1987
+- [x] Hot Fuzz -- 2007
+- [x] Solo -- 2018
+- [x] A Quiet Place -- 2018
+- [x] The Incredibles 2 -- 2018
+- [x] It's a Mad Mad Mad Mad World -- 1963
+- [x] BlacKKKlansman -- 2018
+- [x] Blaze -- 2018
+- [x] Green Book -- 2018
+- [x] Vice -- 2018
+- [x] Fantastic Beasts: The Crimes of Grindelwald -- 2018
+- [x] Rocketman -- 2019
+- [x] Hidden Figures -- 2017
+- [x] Chaddyshack -- 1980
+- [x] Yesterday -- 2019
+- [x] Blinded by the Light -- 2019
+- [x] Star Wars: Rise of Skywalker -- 2019
+- [x] Mary Poppins returns -- 2018
+- [x] Chariots of Fire -- 1981
+- [x] Gattaca -- 1997 *rewatch*
+- [x] The Emperors New Groove -- 2000 *rewatch*
+- [x] Spider-Man: Into the Spider-Verse -- 2018
+- [x] 13 going on 30 -- 2004
+- [x] Good Night and Good Luck -- 2005
+- [x] Big -- 1988
+- [x] Hot Rod -- 2007 *rewatch*
+- [x] Star Wars: Episode VI – Return of the Jedi -- 1983 *rewatch*
+- [x] Star Wars: Episode I – The Phantom Menace -- 1999 *rewatch*
+
+## Documentaries
+- [x] Message to Love: The Isle of Wight Festival -- 1997
+- [x] Won't You Be My Neighbor? -- 2018
+- [x] Free Solo -- 2018
+- [x] Sound city -- 2013
+- [x] Apollo 11 -- 2019
+- [x] Man on Wire -- 2008 *rewatch*
+- [x] They Shall Not Grow Old -- 2019
+- [x] Rolling Thunder Revue: A Bob Dylan Story -- 2019
+- [x] Eric Clapton: Life in 12 Bars -- 2018 *rewatch*
+- [x] Ken Burn's Country Music -- 2019
+- [x] Echo in the Canyon -- 2018

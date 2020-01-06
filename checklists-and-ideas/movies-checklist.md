@@ -2,9 +2,7 @@
 
 List of all movies I wish to watch/rewatch/have watched for the year.
 
-## 2018 List
-- [x] Citizen Kane -- 1941
-- [x] Bridge of Spies -- 2015
+## 2020 List
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
 - [ ] 12 Angry Men -- 1957
@@ -13,56 +11,23 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Howl's Moving Castle -- 2004
 - [ ] Vertigo -- 1958
 - [ ] The Apartment -- 1960
-- [x] The Muppet Movie -- 1979 *rewatch*
 - [ ] The Great Muppet Caper -- 1981
-- [x] Mo' Better Blues -- 1990
 - [ ] Highlander -- 1986
 - [ ] Rocky -- 1976
 - [ ] Lawerence of Arabia -- 1962
 - [ ] Five Easy Pieces -- 1970
 - [ ] Fast Times at Ridgemont High -- 1982
-- [x] A Star is Born -- 2018
-- [x] First Man -- 2018
 - [ ] At Eternity's Gate -- 2018
-- [x] Ready Player One -- 2018
-- [x] All the President's Men -- 1976
-- [X] Birdbox -- 2018
-- [x] Monty Python and The Holy Grail -- 1975
-- [x] Throw Momma from the Train -- 1987
-- [x] Hot Fuzz -- 2007
-- [x] Solo -- 2018
-- [x] A Quiet Place -- 2018
-- [x] The Incredibles 2 -- 2018
-- [x] It's a Mad Mad Mad Mad World -- 1963
 - [ ] The Homesman -- 2014
-- [x] BlacKKKlansman -- 2018
-- [x] Blaze -- 2018
-- [x] Green Book -- 2018
 - [ ] Us -- 2019
-- [x] Vice -- 2018
-- [x] Fantastic Beasts: The Crimes of Grindelwald -- 2018
 - [ ] The Lost Boys -- 1987
-- [x] Rocketman -- 2019
-- [x] Hidden Figures -- 2017
-- [x] Chaddyshack -- 1980
-- [x] Yesterday -- 2019
-- [x] Blinded by the Light -- 2019
 - [ ] Star Wars: Rise of Skywalker -- 2019
 - [ ] A Beautiful Day in the Neighborhood -- 2019
-- [x] Mary Poppins returns -- 2018
-- [x] Chariots of Fire -- 1981
 - [ ] Crazy Heart -- 2009
-- [x] Gattaca -- 1997 *rewatch*
-- [x] The Emperors New Groove -- 2000 *rewatch*
-- [x] Spider-Man: Into the Spider-Verse -- 2018
 - [ ] The Labyrinth -- 1986
-- [x] 13 going on 30 -- 2004
-- [x] Good Night and Good Luck -- 2005
-- [x] Big -- 1988
-- [x] Hot Rod -- 2007 *rewatch*
-- [x] Star Wars: Episode VI – Return of the Jedi -- 1983 *rewatch*
-- [x] Star Wars: Episode I – The Phantom Menace -- 1999 *rewatch*
 - [ ] Jeremiah Johnson - 1972
+- [x] Star Wars: Episode II – Attack of the Clones -- 2002 *rewatch*
+- [x] Star Wars: Episode III – Revenge of the Sith -- 2005 *rewatch*
 
 
 ## Documentaries
@@ -72,20 +37,9 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] U2: Rattle and Hum’ -- 1988
 - [ ] Radiohead - Meeting People is Easy -- 1998
 - [ ] The Devil and Daniel Johnston -- 2005
-- [x] Message to Love: The Isle of Wight Festival -- 1997
-- [x] Won't You Be My Neighbor? -- 2018
 - [ ] The Inventor: Out For Blood In Silicon Valley -- 2019
-- [x] Free Solo -- 2018
-- [x] Sound city -- 2013
-- [x] Apollo 11 -- 2019
-- [x] Man on Wire -- 2008 *rewatch*
-- [x] They Shall Not Grow Old -- 2019
 - [ ] The Cold Blue -- 2019
-- [x] Rolling Thunder Revue: A Bob Dylan Story -- 2019
 - [ ] Buck -- 2012
 - [ ] Hitsville: The Making of Motown -- 2019
 - [ ] Ken Burns National Parks -- 2009
-- [x] Eric Clapton: Life in 12 Bars -- 2018 *rewatch*
-- [x] Ken Burn's Country Music -- 2019
-- [x] Echo in the Canyon -- 2018
 - [ ] The Gift: The Journey of Johnny Cash -- 2019
