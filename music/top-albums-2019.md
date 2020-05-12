@@ -11,6 +11,7 @@ Orville Peck -- Pony
 Yola -- Walk Through Fire
 Robert Ellis -- Texas Piano Man
 Brittany Howard - Jaime
+Black Pumas -- Self-titled
 
 ## Every Album I Enjoyed this year
 Deerhunter -- Why Hasn't Everything Already Disappeared
@@ -48,6 +49,7 @@ Weyes Blood -- Titanic Rising
 Purple Mountains -- Self-titled
 Brittany Howard - Jaime
 Ian Noe -- Between the Country
+Black Pumas -- Self-titled
 
 
 ## Top Albums I've discovered (in no particular order)
@@ -56,3 +58,5 @@ Pinback -- Summer in Abaddon - 2004
 Liz Cooper & the Stampede -- Window Flowers - 2018
 Courtney Marie Andrews -- May Your Kindness Remain - 2018
 Nitty Gritty Dirt Band -- May The Circle Be Unbroken - 1974
+Keith Whitley -- Don't Close Your Eyes
+Merle Haggard -- If I Could Only Fly

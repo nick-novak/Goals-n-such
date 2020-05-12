@@ -1,18 +1,25 @@
 # Goals for 2019
 - Learn More  
   - ReactJS  
-  - Svelte?
+  - Tailwind
   - Front-End testing
   - Juggle
   - GraphQL
   - ThreeJS
   - ES6
-  - Greensock and animations
-  - Read more articles
-
+  - [x] Greensock and animations
+  - Font Variables
+  - Post CSS
+  - Automated SauceLabs testing
+- Read more articles
 - Speak at Word Camp
-- Build a Bass guitar(kit)
-- Finish up guitar and lap steel
+- Build a Bass guitar
+- [x] Finish up guitar
+- [x] lap steel
+- Buy some Guitar effects pedals
+  - New power supply
+  - Tuner
+  - EMI reducing power strip
 - Make my table saw safer
   - build a sled
   - gripper push stick
@@ -23,7 +30,11 @@
   - 12 book challenge  
 - write some music  
 - Invest in my house  
+- Build Stuff for the house
+  - [ ] table
+  - [ ] spice rack
 - Get Old 401K over to the new one
+- Refinance Student Loans
 - Run More
   - do 3 - 5k runs
     [ ]

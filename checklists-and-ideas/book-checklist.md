@@ -180,18 +180,36 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 ## July 2019
 - [x] Doctor Sleep -- Stephen King :blue_book:
 
-## August
+## August 2019
 - [x] The Birth of Loud -- Ian S. Port :blue_book:
 
-## September
+## September 2019
 - [x] The Art of Racing in the Rain -- Garth Stein :blue_book:
 
-## October
-- [ ] Beautiful Music --  Michael Zadoorian :blue_book:
+## October 2019
 - [x] What Work is Poems -- Philip Levine :blue_book:
 
-## November
-- [ ] Everytings Eventual -- Stephen King :blue_book:
+## November 2019
+- [x] Everythings Eventual -- Stephen King :blue_book:
+
+## January 2020
+- [x] It's a Long Story: My Life -- Willie Nelson
+- [ ] Expressive Design Systems -- Yesenia Perez-Cruz
+
+## February 2020
+- [x] The Devil in the White City -- Erik Larson
+
+## March 2020
+- [x] Beautiful Music --  Michael Zadoorian :blue_book:
+
+## April 2020
+- [x] Marley & Me --  John Grogan :blue_book:
+- [x] Uncommon Type -- Tom Hanks :blue_book:
+
+## April 2020
+- [ ] Bowie -- Marc Spitz :blue_book:
+- [ ] Frontend Architecture for Design Systems -- Micah Godbolt :blue_book:
+
 
 To-Read
 ---
@@ -202,7 +220,6 @@ To-Read
 - [ ] Understanding Comics: The Invisible Art -- Scott McCloud
 - [ ] Zen Guitar -- Philip Toshio Sudo
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
-- [ ] Strat in the Attic: Thrilling Stories of Guitar Archaeology -- Deke Dickerson
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
 - [ ] Love Is a Mix Tape -- Rob Sheffield
 - [ ] Educated -- Tara Westover
@@ -214,5 +231,9 @@ To-Read
 - [ ] Infinite Jest -- David Foster Wallace
 - [ ] The Great Gatsby -- F. Scott Fitzgerald
 - [ ] All the Pretty Horses -- Cormac McCarthy
-- [ ] It's a Long Story: My Life -- Willie Nelson
 - [ ] Grid Systems in Graphic Design -- Josef Müller-Brockmann
+- [ ] Twenty Thousand Roads: The Ballad of Gram Parsons and His Cosmic American Music -- David N. Meyer
+- [ ] Tales of the City -- Armistead Maupin
+- [ ] Walden -- Henry David Thoreau
+- [ ] Building Design Systems: Unify User Experiences through a Shared Design Language -- Taurie Davis & Sarrah Vesselov
+- [ ] Papillon -- Henri Charrière

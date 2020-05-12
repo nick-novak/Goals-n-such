@@ -13,7 +13,7 @@
 [x] - Slow Dancing in a Burning Room -- John Mayer *looper*  
 [ ] - Impossible Germany -- Wilco *looper*  
 [x] - Kettles -- Arcade Fire  
-[x] - Take Five -- Dave Brubeck  
+[ ] - Take Five -- Dave Brubeck  *Chet Atkins version*
 [x] - Wicked Game -- Chris Isaak  
 [x] - Sultans of Swing -- Dire Straits  
 [x] - Hold on -- Tom Waits  
@@ -33,3 +33,12 @@
 [ ] - Under the Bridge -- Red Hot Chili Peppers
 [ ] - Ten Cent Pistol -- The Black Keys
 [ ] - Operator -- Jim Croce
+[ ] - Merle Travis -- Cannonball Rag
+[ ] - Doc Watson -- Deep River Blues
+[x] - Thats how I got to Memphis -- Tom T. Hall
+Chet Atkins
+    [x] - Jam Man
+    [ ] - Wildwood Flower
+    [ ] - Sandman
+[ ] - Stop this Train -- John Mayer
+[ ] - Walk, Don't Run -- The Ventures
