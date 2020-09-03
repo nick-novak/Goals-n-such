@@ -2,9 +2,9 @@
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
 - [ ] Remove pine stumps
-- [ ] Remove electrical pole
+- [x] Remove electrical pole
 - [ ] Fix insulation in attic (see inspection)
-- [ ] replace attic stairs
+- [x] replace attic stairs(or fix up)
 - [ ] Insulate attic stairs
 - [ ] Replace both spigots
     - [x] 1
@@ -20,7 +20,6 @@
     - [ ] basement
     - [ ] stairs leading to basement
 - [ ] New shutters
-- [ ] Get new windows for Florida room
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers to keep leaves out/second floor only
 - [ ] Finish sump pump concrete/pea gravel and add cover
@@ -34,3 +33,6 @@
 - [ ] Replace front window panes
 - [ ] Finish the shower caulking around tile and Paint Molding at the top.
 - [ ] Replace Mailbox
+- [x] Replace screens in florida room
+- [ ] Maybe add in an attic fan
+- [ ] update address sign

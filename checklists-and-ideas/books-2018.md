@@ -49,4 +49,4 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 ## December 2018
 - [x] Slaughterhouse Five -- Kurt Vonnegut :blue_book:
 - [ ] Junky -- William S. Burroughs :headphones:
-- [ ] The Stand -- Stephen King :blue_book:
+- [x] The Stand -- Stephen King :blue_book:

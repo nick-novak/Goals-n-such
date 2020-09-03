@@ -26,7 +26,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] At Eternity's Gate -- 2018
 - [ ] Us -- 2019
 - [ ] The Lost Boys -- 1987
-- [ ] A Beautiful Day in the Neighborhood -- 2019
+- [x] A Beautiful Day in the Neighborhood -- 2019
 - [ ] Crazy Heart -- 2009
 - [ ] The Labyrinth -- 1986
 - [x] Jeremiah Johnson - 1972
@@ -58,7 +58,14 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Aladdin -- 2019
 - [x] Homeward Bound -- 1993
 - [x] Forest Gump -- 1994
-
+- [x] Misiion Impossible -- 1996
+- [x] The Last Crusade -- 1989
+- [x] Hamilton -- 2020
+- [x] In time -- 2011
+- [x] Roman Holiday -- 1953
+- [x] Dr. Sleep -- 2019
+- [x] About Time -- 2013
+- [ ] Tinker Tailor Soldier Spy -- 2011
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006
@@ -75,4 +82,4 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] The Gift: The Journey of Johnny Cash -- 2019
 - [x] American Factory -- 2019
 - [x] Bikram -- 2019
-- [ ] Happy People: A Year In The Taiga -- 2010
+- [x] 13th -- 2016

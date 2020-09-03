@@ -5,7 +5,13 @@ Bonny Light Horseman -- Self-titled
 Andy Shauf -- The Neon Skyline
 Tame Impala -- The Slow Rush
 Nathaniel Rateliff -- An It's Still Alright
-Marcus Kind -- Beautiful Stranger
+Marcus Kind -- El Dorado
 Bonny Light Horseman -- Self-titled
+Real Estate -- The Main Thing
+Jason Isbell and the 400 Unit -- Reunions
+Muzz -- Self-titled
+Hamilton Leithauser -- The Loves of Your Life
+
 
 ## Top Albums I've discovered (in no particular order)
+Allah-Las -- LAHS - 2019

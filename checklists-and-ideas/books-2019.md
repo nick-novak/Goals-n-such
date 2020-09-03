@@ -9,7 +9,6 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## January 2019
 - [x] Junky -- William S. Burroughs :headphones:
-- [x] The Stand -- Stephen King :blue_book:
 
 ## February 2019
 - [x] Guitar Zero -- Gary F. Marcus :blue_book:
@@ -33,8 +32,8 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] The Art of Racing in the Rain -- Garth Stein :blue_book:
 
 ## October
-- [ ] Beautiful Music --  Michael Zadoorian :blue_book:
+- [x] Beautiful Music --  Michael Zadoorian :blue_book:
 - [x] What Work is Poems -- Philip Levine :blue_book:
 
 ## November
-- [ ] Everytings Eventual -- Stephen King :blue_book:
+- [x] Everytings Eventual -- Stephen King :blue_book:
