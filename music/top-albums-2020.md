@@ -11,6 +11,10 @@ Real Estate -- The Main Thing
 Jason Isbell and the 400 Unit -- Reunions
 Muzz -- Self-titled
 Hamilton Leithauser -- The Loves of Your Life
+Adrianne Lenker -- songs
+Wesley Schultz -- Vignettes
+Taylor Swift -- Folklore
+Taylor Swift -- Evermore
 
 
 ## Top Albums I've discovered (in no particular order)

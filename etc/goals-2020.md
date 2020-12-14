@@ -6,12 +6,12 @@
   - Juggle
   - GraphQL
   - ThreeJS
-  - ES6
+  - [x] ES6
   - [x] Greensock and animations
-  - Font Variables
-  - Post CSS
+  - [x] Font Variables
+  - [x] Post CSS
   - Automated SauceLabs testing
-- Read more articles
+- [x] Read more articles
 - Speak at Word Camp
 - Build a Bass guitar
 - [x] Finish up guitar
@@ -20,24 +20,23 @@
   - New power supply
   - Tuner
   - EMI reducing power strip
-- Make my table saw safer
+~~ - Make my table saw safer
   - build a sled
   - gripper push stick
   - better rip fence
-  - install a safety switch
-- learn more Guitar
-- Read  
-  - 12 book challenge  
+  - install a safety switch ~~
+  [x] Sold my table saw
+- [x] learn more Guitar
+- [x]Read  
+  - [x] 12 book challenge  
 - write some music  
-- Invest in my house  
+- [x] Invest in my house
 - Build Stuff for the house
   - [ ] table
-  - [ ] spice rack
+  - [x] spice rack
 - Get Old 401K over to the new one
 - Refinance Student Loans
-- Run More
-  - do 3 - 5k runs
-    [ ]
-    [ ]
-    [ ]
-  - Run a 10k on your own
+- [x] Run More
+  - do 3 - 5k runs *Covid cancelled*
+  - [x] Made my average run a 5k or more
+  - [x]Run a 10k on your own
