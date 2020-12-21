@@ -73,6 +73,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Begin Again -- 2013
 - [x] Hillbilly Elegy -- 2020
 - [ ] Dead Man -- 1996
+- [x] Once -- 2007
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006

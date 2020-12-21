@@ -49,6 +49,7 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## December 2020
 - [ ] The design of everyday things -- Don Norman
+- [x] Kent State: Four Dead in Ohio
 
 To-Read
 ---

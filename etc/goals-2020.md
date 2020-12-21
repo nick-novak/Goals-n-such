@@ -1,4 +1,4 @@
-# Goals for 2019
+# Goals for 2020
 - Learn More  
   - ReactJS  
   - Tailwind
@@ -39,4 +39,4 @@
 - [x] Run More
   - do 3 - 5k runs *Covid cancelled*
   - [x] Made my average run a 5k or more
-  - [x]Run a 10k on your own
+  - [x] Run a 10k on your own

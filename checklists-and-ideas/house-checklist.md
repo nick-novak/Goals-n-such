@@ -1,7 +1,7 @@
 ## House To-Do
 - [ ] Scrap and repaint exterior
 - [ ] Replace caulk exterior
-- [ ] Remove pine stumps
+- [x] Remove pine stumps
 - [x] Remove electrical pole
 - [ ] Fix insulation in attic (see inspection)
 - [x] replace attic stairs(or fix up)
@@ -10,7 +10,7 @@
     - [x] 1
     - [ ] 2
 - [ ] Replace driveway
-- [ ] Add windows and better lighting to garage
+- [x] Add ~windows and~ better lighting to garage
 - [ ] Install hardwood in guest and yoga rooms
 - [ ] Redo molding in entire house
     - [ ] Guest Room
@@ -27,7 +27,7 @@
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
-- [ ] Install bathroom fan
+- [x] Install bathroom fan
 - [ ] Install bedroom ceiling fan
 - [ ] Consult and do any finish work, mostly painting touchups
 - [ ] Replace front window panes

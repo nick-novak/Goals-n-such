@@ -1,0 +1,26 @@
+# Goals for 2021
+- Learn More
+  - ReactJS
+  - Front-End testing
+  - Juggle
+  - Automated SauceLabs testing
+- Read more articles
+- Speak at Word Camp
+- Build a Bass guitar
+- Build a hollowbody guitar
+- Buy some Guitar effects pedals
+  - New power supply
+  - Tuner
+  - EMI reducing power strip
+- learn more Guitar
+- Read
+  - 12 book challenge
+- [x] Invest in my house
+- Build Stuff for the house
+  - [ ] table
+- Practive handcuting dovetails
+- Get Old 401K over to the new one
+- Refinance Student Loans
+- Keep Running
+  - do 3 - 5k runs
+		- Run a 10K
