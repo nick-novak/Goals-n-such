@@ -15,7 +15,15 @@ Adrianne Lenker -- songs
 Wesley Schultz -- Vignettes
 Taylor Swift -- Folklore
 Taylor Swift -- Evermore
-
+Thundercat -- It Is What It Is
+Haim -- Women in Music Part III
+Sturgill Simpson -- Cutting Grass Vol. I
+Sturgill Simpson -- Cutting Grass Vol. II
+Jeff Tweedy -- Love is the King
+The Killers -- Imploding the Mirage
+Adrianne Lenker -- Songs
+Courtney Marie Andrews -- Old FLowers
+Khruangbin -- Mordechai
 
 ## Top Albums I've discovered (in no particular order)
 Allah-Las -- LAHS - 2019

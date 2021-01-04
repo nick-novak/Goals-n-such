@@ -6,53 +6,13 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 (:blue_book: == Actual book with paper pages)
 (:headphones: == AudioBook)
 
-## January 2020
-- [x] It's a Long Story: My Life -- Willie Nelson :blue_book:
-- [x] Expressive Design Systems -- Yesenia Perez-Cruz :blue_book:
+## January 2021
 
-## February 2020
-- [x] The Devil in the White City -- Erik Larson :blue_book:
-
-## March 2020
-- [x] Beautiful Music --  Michael Zadoorian :blue_book:
-
-## April 2020
-- [x] Marley & Me --  John Grogan :blue_book:
-- [x] Uncommon Type -- Tom Hanks :blue_book:
-
-## April 2020
-- [ ] Bowie -- Marc Spitz :blue_book:
-- [ ] Frontend Architecture for Design Systems -- Micah Godbolt :blue_book:
-
-## June 2020
-- [x] The Dead Zone -- Stephen King :blue_book:
-
-## July 2020
-- [x] Me and White Supremacy -- Layla F. Saad :blue_book:
-- [x] Salems Lot -- Stephen Kind :blue_book:
-
-## August 2020
-- [x] The Umbrella Academy Volume 1: Apocalypse Suite -- Gerard Way and Gabriel Bá
-- [x] The Brief Wondrous Life of Oscar Wao -- Junot Diaz
-- [x] The Umbrella Academy Volume 2: Dallas -- Gerard Way and Gabriel Bá
-
-## September 2020
-- [x] The Umbrella Academy Volume 3: Hotel Oblivion -- Gerard Way and Gabriel Bá
-- [x] Handmade: Creative Focus in the Age of Distraction -- Gary Rogowski
-
-## October 2020
-- [x] Pirates Latitude -- Micheal Crinton
-
-## November 2020
-- [x] Papillon -- Henri Charrière
-- [ ] Do You Feel Like I Do -- Peter Frampton
-
-## December 2020
-- [ ] The design of everyday things -- Don Norman
-- [x] Kent State: Four Dead in Ohio
 
 To-Read
 ---
+- [ ] Be Prepared: Be Prepared -- Gary Greenberg & Jeannie Hayden
+- [ ] The Birth Partner 5th Edition: A Complete Guide to Childbirth for Dads, Partners, Doulas, and All Other Labor Companions -- Penny Simkin
 - [ ] Shady Characters -- Keith Houston
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison

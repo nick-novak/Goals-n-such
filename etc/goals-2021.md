@@ -15,12 +15,22 @@
 - learn more Guitar
 - Read
   - 12 book challenge
-- [x] Invest in my house
+- Invest in my house
 - Build Stuff for the house
   - [ ] table
+  - [ ] cabinets for kitchen
+  - [ ] new flooring upstairs
 - Practive handcuting dovetails
 - Get Old 401K over to the new one
 - Refinance Student Loans
 - Keep Running
   - do 3 - 5k runs
 		- Run a 10K
+
+## NN Woodwork
+- Get branding established
+- increase Sales
+- average $500+ per month
+- make over 10K in revenue
+- buy a new tablesaw
+- buy a buffing wheel
