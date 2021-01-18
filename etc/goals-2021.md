@@ -20,12 +20,14 @@
   - [ ] table
   - [ ] cabinets for kitchen
   - [ ] new flooring upstairs
-- Practive handcuting dovetails
 - Get Old 401K over to the new one
 - Refinance Student Loans
 - Keep Running
   - do 3 - 5k runs
 		- Run a 10K
+- Work on improving pennmenship
+- Practice handcutting dovetails by making 25 dovetails
+- Pay off parent plus loans
 
 ## NN Woodwork
 - Get branding established
