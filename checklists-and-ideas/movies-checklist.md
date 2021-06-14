@@ -2,14 +2,13 @@
 
 List of all movies I wish to watch/rewatch/have watched for the year.
 
-## 2020 List
+## 2021 List
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
-- [ ] 12 Angry Men -- 1957
+- [x] 12 Angry Men -- 1957
 - [ ] Network -- 1976
 - [ ] Léon: The Professional -- 1994
-- [ ] Vertigo -- 1958
-- [ ] Rocky
+- Rocky
   - [ ] Rocky II -- 1979
   - [ ] Rocky III -- 1982
   - [ ] Rocky IV -- 1985
@@ -18,18 +17,58 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Creed -- 2015
 - [ ] Five Easy Pieces -- 1970
 - [ ] Fast Times at Ridgemont High -- 1982
-- [ ] At Eternity's Gate -- 2018
-- [ ] The Lost Boys -- 1987
+- [x] The Lost Boys -- 1987
 - [ ] Crazy Heart -- 2009
 - [ ] Bullitt -- 1968
-- [ ] A Mighty Wind -- 2003
+- [x] A Mighty Wind -- 2003
 - [ ] The Postman -- 1997
-- [ ] Dead Man -- 1996
+- [x] Dead Man -- 1996
 - [x] Wonder Women 1984 -- 2020
 - [x] Searching for Bobbie Fisher - 1993
 - [x] Julie & Julia -- 2009
 - [x] Who Framed Roger Rabbit -- 1988
 - [x] Les Misérables -- 2012
+- [x] Saving Mr. Banks -- 2013
+- [x] Fantastic Mr. Fox -- 2009
+- [x] The Royal Tenenbaums -- 2001
+- [x] Darjeeling Limited -- 2007
+- [x] Moonrise Kingdom -- 2012
+- [x] Life Aquatic with Steve Zissou -- 2004
+- [x] The Grand Buddapest Hotel -- 2014
+- [x] The Dig -- 2021
+- [x] The Peanut Butter Falcon -- 2019
+- [x] I, Tonya -- 2017
+- [x] Judas and the Black Messiah -- 2021
+- [x] Scott Pilgrim vs The World -- 2010
+- [x] Best In Show -- 2000
+- [x] The U.S. vs Billie Holiday -- 2021
+- [x] My Big Fat Greek Wedding -- 2002
+- [x] Captain America: The First Avenger -- 2011
+- [x] Captain Marvel -- 2019
+- [x] Iron Man --2008
+- [x] Iron Man 2 -- 2010
+- [x] Stand By Me -- 1986
+- [x] Thor -- 2011
+- [x] Blues Brothers -- 1980
+- [x] Marvel's The Avengers -- 2012
+- [x] Iron Man 3 -- 2013
+- [x] Thor: The Dark World -- 2013
+- [x] Captian America: The Winter Soldier -- 2014
+- [x] Gardians of the Galaxy -- 2014
+- [x] Gardians of the Galaxy vol. 2  -- 2017
+- [x] Avengers: Age of Ultron -- 2015
+- [x] Ant-Man -- 2015
+- [ ] Captian America: Civil War -- 2016
+- [ ] Spiderman: Homecoming -- 2017
+- [ ] Doctor Strange -- 2016
+- [ ] Black Panther -- 2018
+- [ ] Thor: Ragnorak -- 2017
+- [ ] Avengers: Infinity War -- 2018
+- [ ] Ant-Man and the Wasp -- 2018
+- [ ] Avengers: Endgame -- 2019
+- [ ] Spiderman: Far From Home -- 2019
+
+
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006

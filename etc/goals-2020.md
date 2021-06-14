@@ -1,25 +1,12 @@
 # Goals for 2020
-- Learn More  
-  - ReactJS  
-  - Tailwind
-  - Front-End testing
-  - Juggle
-  - GraphQL
-  - ThreeJS
+- [x] Learn More  
   - [x] ES6
   - [x] Greensock and animations
   - [x] Font Variables
   - [x] Post CSS
-  - Automated SauceLabs testing
 - [x] Read more articles
-- Speak at Word Camp
-- Build a Bass guitar
 - [x] Finish up guitar
 - [x] lap steel
-- Buy some Guitar effects pedals
-  - New power supply
-  - Tuner
-  - EMI reducing power strip
 ~~ - Make my table saw safer
   - build a sled
   - gripper push stick
@@ -29,13 +16,9 @@
 - [x] learn more Guitar
 - [x]Read  
   - [x] 12 book challenge  
-- write some music  
 - [x] Invest in my house
 - Build Stuff for the house
-  - [ ] table
   - [x] spice rack
-- Get Old 401K over to the new one
-- Refinance Student Loans
 - [x] Run More
   - do 3 - 5k runs *Covid cancelled*
   - [x] Made my average run a 5k or more

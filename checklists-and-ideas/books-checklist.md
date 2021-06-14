@@ -7,7 +7,17 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 (:headphones: == AudioBook)
 
 ## January 2021
-- [ ] Neverwhere -- Neil Giaman
+- [x] Neverwhere -- Neil Giaman
+
+## February 2021
+- [x] The Unknown Craftsman: A Japanese Insight Into Beauty -- Soetsu Yanagi, Bernard Leach
+- [x] Daisy Jones & The Six -- Taylor Jenkins Reid
+
+## March 2021
+- [x] Sustainable Web Desing -- Tom Greenwood
+
+## April 2021
+- [ ] The Outsider -- Stephen King
 
 To-Read
 ---
@@ -36,9 +46,7 @@ To-Read
 - [ ] Walden -- Henry David Thoreau
 - [ ] Building Design Systems: Unify User Experiences through a Shared Design Language -- Taurie Davis & Sarrah Vesselov
 - [ ] David and Goliath: Underdogs, Misfits, and the Art of Battling Giants -- Malcom Gladwell
-- [ ] Daisy Jones & The Six -- Taylor Jenkins Reid
 - [ ] The Umbrella Academy Volume 4: Sparrow Academy -- Gerard Way and Gabriel Bá
 - [ ] A Craftsman’s Legacy: Why Working with Our Hands Gives Us Meaning -- Eric Gorges, Jon Sternfeld
-- [ ] The Unknown Craftsman: A Japanese Insight Into Beauty -- Soetsu Yanagi, Bernard Leach
 - [ ] One Summer: America, 1927 -- Bill Bryson
 - [ ] Sex, Economy, Freedom & Community: Eight Essays -- Wendell Berry

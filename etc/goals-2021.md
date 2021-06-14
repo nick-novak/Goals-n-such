@@ -3,7 +3,6 @@
   - ReactJS
   - Front-End testing
   - Juggle
-  - Automated SauceLabs testing
 - Read more articles
 - Speak at Word Camp
 - Build a Bass guitar
@@ -19,20 +18,18 @@
 - Build Stuff for the house
   - [ ] table
   - [ ] cabinets for kitchen
-  - [ ] new flooring upstairs
+  - [x] new flooring upstairs
 - Get Old 401K over to the new one
 - Refinance Student Loans
 - Keep Running
   - do 3 - 5k runs
 		- Run a 10K
 - Work on improving pennmenship
-- Practice handcutting dovetails by making 25 dovetails
+- Practice handcutting dovetails
 - Pay off parent plus loans
 
 ## NN Woodwork
 - Get branding established
 - increase Sales
-- average $500+ per month
-- make over 10K in revenue
 - buy a new tablesaw
-- buy a buffing wheel
+- [x] buy a buffing wheel

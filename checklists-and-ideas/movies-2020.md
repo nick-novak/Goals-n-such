@@ -3,6 +3,7 @@
 List of all movies I wish to watch/rewatch/have watched for the year.
 
 ## 2020 List
+- [x] Vertigo -- 1958
 - [x] The Apartment -- 1960
 - [x] Rocky -- 1976
 - [x] Lawerence of Arabia -- 1962

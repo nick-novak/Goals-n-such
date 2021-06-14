@@ -46,8 +46,8 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## November 2020
 - [x] Papillon -- Henri Charrière :blue_book:
-- [ ] Do You Feel Like I Do -- Peter Frampton :blue_book:
+- [x] Do You Feel Like I Do -- Peter Frampton :blue_book:
 
 ## December 2020
-- [ ] The design of everyday things -- Don Norman :blue_book:
+- [x] The design of everyday things -- Don Norman :blue_book:
 - [x] Kent State: Four Dead in Ohio :blue_book:
