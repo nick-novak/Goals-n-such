@@ -6,3 +6,4 @@ Lord Huron -- Long lost
 The Weather Station - Ignorance
 
 ## Top Albums I've discovered (in no particular order)
+Logan Ledger -- Self titled -- 2020

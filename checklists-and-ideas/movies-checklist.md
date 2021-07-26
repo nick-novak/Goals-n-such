@@ -58,17 +58,19 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Gardians of the Galaxy vol. 2  -- 2017
 - [x] Avengers: Age of Ultron -- 2015
 - [x] Ant-Man -- 2015
-- [ ] Captian America: Civil War -- 2016
-- [ ] Spiderman: Homecoming -- 2017
-- [ ] Doctor Strange -- 2016
-- [ ] Black Panther -- 2018
-- [ ] Thor: Ragnorak -- 2017
-- [ ] Avengers: Infinity War -- 2018
-- [ ] Ant-Man and the Wasp -- 2018
-- [ ] Avengers: Endgame -- 2019
-- [ ] Spiderman: Far From Home -- 2019
-
-
+- [x] Captian America: Civil War -- 2016
+- [X] Spiderman: Homecoming -- 2017
+- [X] Doctor Strange -- 2016
+- [x] Black Panther -- 2018
+- [X] Thor: Ragnorak -- 2017
+- [X] Avengers: Infinity War -- 2018
+- [X] Ant-Man and the Wasp -- 2018
+- [X] Avengers: Endgame -- 2019
+- [X] Spiderman: Far From Home -- 2019
+- [X] The Terminal -- 2004
+- [X] The Farwell -- 2019
+- [X] Minari -- 2020
+- [X] Luca -- 2021
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006

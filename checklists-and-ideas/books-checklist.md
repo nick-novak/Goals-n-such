@@ -8,6 +8,8 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## January 2021
 - [x] Neverwhere -- Neil Giaman
+- [x] Be Prepared: Be Prepared -- Gary Greenberg & Jeannie Hayden
+- [x] The Birth Partner 5th Edition: A Complete Guide to Childbirth for Dads, Partners, Doulas, and All Other Labor Companions -- Penny Simkin
 
 ## February 2021
 - [x] The Unknown Craftsman: A Japanese Insight Into Beauty -- Soetsu Yanagi, Bernard Leach
@@ -17,27 +19,28 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] Sustainable Web Desing -- Tom Greenwood
 
 ## April 2021
-- [ ] The Outsider -- Stephen King
+- [x] The Outsider -- Stephen King
+
+## June 2021
+- [x] Little and Often -- Trent Prezler
+
+## July 2021
+- [ ] Three Short Novels -- Wendell Berry
 
 To-Read
 ---
-- [ ] Be Prepared: Be Prepared -- Gary Greenberg & Jeannie Hayden
-- [ ] The Birth Partner 5th Edition: A Complete Guide to Childbirth for Dads, Partners, Doulas, and All Other Labor Companions -- Penny Simkin
 - [ ] Shady Characters -- Keith Houston
 - [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Go Set a Watchman -- Harper Lee
-- [ ] Understanding Comics: The Invisible Art -- Scott McCloud
 - [ ] Zen Guitar -- Philip Toshio Sudo
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
 - [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
 - [ ] Love Is a Mix Tape -- Rob Sheffield
-- [ ] Educated -- Tara Westover
 - [ ] How Music Works -- David Bryne
 - [ ] The Victorian Internet -- Tom Standage
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
 - [ ] Cryptonomicon -- Neal Stephenson
-- [ ] Sapiens: A Brief History of Humankind Hardcover –- Yuval Noah Harari
 - [ ] Infinite Jest -- David Foster Wallace
 - [ ] The Great Gatsby -- F. Scott Fitzgerald
 - [ ] All the Pretty Horses -- Cormac McCarthy
