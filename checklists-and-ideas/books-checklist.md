@@ -6,41 +6,20 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 (:blue_book: == Actual book with paper pages)
 (:headphones: == AudioBook)
 
-## January 2021
-- [x] Neverwhere -- Neil Giaman
-- [x] Be Prepared: Be Prepared -- Gary Greenberg & Jeannie Hayden
-- [x] The Birth Partner 5th Edition: A Complete Guide to Childbirth for Dads, Partners, Doulas, and All Other Labor Companions -- Penny Simkin
+## January 2022
+- [ ] Hail Mary -- Andy Weir :blue_book:
 
-## February 2021
-- [x] The Unknown Craftsman: A Japanese Insight Into Beauty -- Soetsu Yanagi, Bernard Leach
-- [x] Daisy Jones & The Six -- Taylor Jenkins Reid
-
-## March 2021
-- [x] Sustainable Web Desing -- Tom Greenwood
-
-## April 2021
-- [x] The Outsider -- Stephen King
-
-## June 2021
-- [x] Little and Often -- Trent Prezler
-
-## July 2021
-- [ ] Three Short Novels -- Wendell Berry
 
 To-Read
 ---
 - [ ] Shady Characters -- Keith Houston
-- [ ] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] I, Me, Mine -- George Harrison
 - [ ] Go Set a Watchman -- Harper Lee
 - [ ] Zen Guitar -- Philip Toshio Sudo
 - [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
-- [ ] The Zen Teachings of Jesus -- Kenneth S. Leong
 - [ ] Love Is a Mix Tape -- Rob Sheffield
 - [ ] How Music Works -- David Bryne
-- [ ] The Victorian Internet -- Tom Standage
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
-- [ ] Cryptonomicon -- Neal Stephenson
 - [ ] Infinite Jest -- David Foster Wallace
 - [ ] The Great Gatsby -- F. Scott Fitzgerald
 - [ ] All the Pretty Horses -- Cormac McCarthy
@@ -53,3 +32,6 @@ To-Read
 - [ ] A Craftsman’s Legacy: Why Working with Our Hands Gives Us Meaning -- Eric Gorges, Jon Sternfeld
 - [ ] One Summer: America, 1927 -- Bill Bryson
 - [ ] Sex, Economy, Freedom & Community: Eight Essays -- Wendell Berry
+- [ ] Buck 'Em!: The Autobiography of Buck Owens -- Randy Poe
+- [ ] Shakey: Neil Young's Biography -- Jimmy McDonough
+- [ ] Dark Matter -- Blake Crouch

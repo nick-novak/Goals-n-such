@@ -23,7 +23,7 @@ Japanese Breakfast -- Soft Sounds from Another Planet
 Grizzly Bear -- Painted Ruins  
 
 
-## Every Album I Enjoyed this year
+## Every new album I enjoyed this year
 The XX -- I See You  
 Cloud Nothings -- Life Without Sound  
 Delicate Steve -- This is Steve  

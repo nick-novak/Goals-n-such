@@ -7,7 +7,7 @@ Taylor Swift -- Folklore
 Jeff Tweedy -- Love is the King
 Hamilton Leithauser -- The Loves of Your Life
 
-## Every Album I Enjoyed this year
+## Every new album I enjoyed this year
 Andy Shauf -- The Neon Skyline
 Tame Impala -- The Slow Rush
 Nathaniel Rateliff -- An It's Still Alright
@@ -33,6 +33,7 @@ Whitney -- Candid
 Chris Stapleton -- Starting Over
 Dawes -- Good Luck with Whatever
 Deep Sea Diver -- Impossible Weight
+Plastic Bouquet -- Kacy & Clayton, Marlon Williams
 
 ## Top Albums I've discovered (in no particular order)
 Allah-Las -- LAHS - 2019

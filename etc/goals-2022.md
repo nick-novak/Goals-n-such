@@ -1,0 +1,31 @@
+# Goals for 2022
+- Learn More
+  - ReactJS
+  - Front-End testing
+  - Juggle
+- Read more articles
+- start building a hollowbody guitar
+- Buy some Guitar effects pedals
+  - New power supply
+  - Tuner
+  - EMI reducing power strip
+- learn the Nashville number system
+- Read
+  - 12 book challenge
+- Invest in my house
+- Build Stuff for the house
+  - [ ] cabinets for kitchen
+  - [ ] liquor cabinet
+  - [ ] End tables for living room
+  - [ ] Tool cabinet
+- Get Old 401K over to the new one
+- Run The Detroit Freepress half marathom
+- Work on improving pennmenship
+- Pay off student loans
+
+## NN Woodwork
+- increase sales
+- buy a new tablesaw
+- buy a Planer
+- Reach 1000 followers on IG
+- Make bottle openers

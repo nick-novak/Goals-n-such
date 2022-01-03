@@ -13,7 +13,7 @@ Robert Ellis -- Texas Piano Man
 Brittany Howard - Jaime
 Black Pumas -- Self-titled
 
-## Every Album I Enjoyed this year
+## Every new album I enjoyed this year
 Deerhunter -- Why Hasn't Everything Already Disappeared
 Toro Y Moi -- Outer Peace
 Sharon Van Etten -- Remind Me Tomorrow

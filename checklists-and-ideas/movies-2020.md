@@ -30,7 +30,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
   - [x] The Sorcerer's Stone -- 2001 *rewatch*
   - [x] The Chamber of Secrets -- 2002 *rewatch*
   - [x] The Prisoner of Azkaban -- 2004 *rewatch*
-  - [x] the Goblet of Fire -- 2004 *rewatch*
+  - [x] the Goblet of Fire -- 2005 *rewatch*
 - [x] Blazing Saddles -- 1974 *rewatch*
 - [x] Hook --1991 *rewatch*
 - [x] The lion King -- 2019

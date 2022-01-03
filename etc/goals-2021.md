@@ -1,35 +1,22 @@
 # Goals for 2021
 - Learn More
-  - ReactJS
-  - Front-End testing
+  - [x] ReactJS
+  - [x] Front-End testing
   - Juggle
-- Read more articles
-- Speak at Word Camp
-- Build a Bass guitar
-- Build a hollowbody guitar
-- Buy some Guitar effects pedals
-  - New power supply
-  - Tuner
-  - EMI reducing power strip
-- learn more Guitar
-- Read
+- [x] Read more articles
+- [x] learn more Guitar
+- [x] Read
   - 12 book challenge
-- Invest in my house
+- [x] Invest in my house
 - Build Stuff for the house
-  - [ ] table
-  - [ ] cabinets for kitchen
   - [x] new flooring upstairs
-- Get Old 401K over to the new one
-- Refinance Student Loans
-- Keep Running
-  - do 3 - 5k runs
-		- Run a 10K
-- Work on improving pennmenship
-- Practice handcutting dovetails
+- [x] Keep Running
+	[x] Run a 10K
+- [x] Work on improving pennmenship
+- [x] Practice handcutting dovetails
 - Pay off parent plus loans
 
 ## NN Woodwork
-- Get branding established
-- increase Sales
-- buy a new tablesaw
+- [x] Get branding established
+- [x] increase Sales
 - [x] buy a buffing wheel

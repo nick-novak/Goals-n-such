@@ -1,7 +1,7 @@
 ## Top Albums in 2018 (in no particular order)
 
 ## Top Choices
-Kasey Musgraves -- Golden Hour 
+Kasey Musgraves -- Golden Hour
 Richard Swift -- The Hex  
 Carolina Rose -- LONER  
 Dawes -- Passwords  
@@ -20,7 +20,7 @@ Ry Cooder -- The Prodigal Son
 Soccer Mommy -- Clean  
 Hop Along -- Bark Your Head Off, Dog  
 
-## Every Album I Enjoyed this year
+## Every new album I enjoyed this year
 Porches -- The House  
 MGMT - Little Dark Age  
 Tune-Yards -- I Can Feel You Creep Into My Private Life  
