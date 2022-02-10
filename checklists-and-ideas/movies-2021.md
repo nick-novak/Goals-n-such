@@ -90,6 +90,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Home Alone 2 - Lost in New York -- 1992
 - [x] Elf -- 2003
 - [x] National Lampoons Christmas Vacation -- 1988
+- [x] Spiderman: No Way Home -- 2021
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006

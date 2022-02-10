@@ -18,6 +18,7 @@
   - [ ] liquor cabinet
   - [ ] End tables for living room
   - [ ] Tool cabinet
+  - [ ] Pantry cabinet
 - Get Old 401K over to the new one
 - Run The Detroit Freepress half marathom
 - Work on improving pennmenship
@@ -29,3 +30,4 @@
 - buy a Planer
 - Reach 1000 followers on IG
 - Make bottle openers
+- Get better measuring tools

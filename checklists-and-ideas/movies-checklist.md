@@ -18,6 +18,14 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Fast Times at Ridgemont High -- 1982
 - [ ] Bullitt -- 1968
 - [ ] The Postman -- 1997
+- [X] Don't Look Up -- 2021
+- [X] Sound of Metal -- 2019
+- [x] Encanto -- 2021
+- [x] Raya and The Last Dragon -- 2021
+- [x] Shang-Chi and the Legend of the Ten Rings -- 2021
+- [x] Rushmore -- 1998
+- [x] Tick, Tick... Boom! -- 2021
+- [x] The French Dispatch -- 2021
 
 ## Documentaries
 - [ ] The U.S. vs John Lennon -- 2006

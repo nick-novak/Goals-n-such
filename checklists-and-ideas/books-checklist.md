@@ -35,3 +35,4 @@ To-Read
 - [ ] Buck 'Em!: The Autobiography of Buck Owens -- Randy Poe
 - [ ] Shakey: Neil Young's Biography -- Jimmy McDonough
 - [ ] Dark Matter -- Blake Crouch
+- [ ] Digital Minimalism -- Cal Newport
