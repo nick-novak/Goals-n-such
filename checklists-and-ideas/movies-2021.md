@@ -3,20 +3,8 @@
 List of all movies I wish to watch/rewatch/have watched for the year.
 
 ## 2021 List
-- [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
-- [ ] Barry Lyndon -- 1975
+
 - [x] 12 Angry Men -- 1957
-- [ ] Network -- 1976
-- [ ] Léon: The Professional -- 1994
-- Rocky
-  - [ ] Rocky II -- 1979
-  - [ ] Rocky III -- 1982
-  - [ ] Rocky IV -- 1985
-  - [ ] Rocky V -- 1990
-  - [ ] Rocky Balboa -- 2006
-- [ ] Creed -- 2015
-- [ ] Five Easy Pieces -- 1970
-- [ ] Fast Times at Ridgemont High -- 1982
 - [x] The Lost Boys -- 1987
 - [x] Crazy Heart -- 2009
 - [ ] Bullitt -- 1968
@@ -26,20 +14,20 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Wonder Women 1984 -- 2020
 - [x] Searching for Bobbie Fisher - 1993
 - [x] Julie & Julia -- 2009
-- [x] Who Framed Roger Rabbit -- 1988 *rewatch*
+- [x] Who Framed Roger Rabbit -- 1988 _rewatch_
 - [x] Les Misérables -- 2012
 - [x] Saving Mr. Banks -- 2013
-- [x] Fantastic Mr. Fox -- 2009 *rewatch*
-- [x] The Royal Tenenbaums -- 2001 *rewatch*
-- [x] Darjeeling Limited -- 2007 *rewatch*
-- [x] Moonrise Kingdom -- 2012 *rewatch*
-- [x] Life Aquatic with Steve Zissou -- 2004 *rewatch*
-- [x] The Grand Buddapest Hotel -- 2014 *rewatch*
+- [x] Fantastic Mr. Fox -- 2009 _rewatch_
+- [x] The Royal Tenenbaums -- 2001 _rewatch_
+- [x] Darjeeling Limited -- 2007 _rewatch_
+- [x] Moonrise Kingdom -- 2012 _rewatch_
+- [x] Life Aquatic with Steve Zissou -- 2004 _rewatch_
+- [x] The Grand Buddapest Hotel -- 2014 _rewatch_
 - [x] The Dig -- 2021
 - [x] The Peanut Butter Falcon -- 2019
 - [x] I, Tonya -- 2017
 - [x] Judas and the Black Messiah -- 2021
-- [x] Scott Pilgrim vs The World -- 2010 *rewatch*
+- [x] Scott Pilgrim vs The World -- 2010 _rewatch_
 - [x] Best In Show -- 2000
 - [x] The U.S. vs Billie Holiday -- 2021
 - [x] My Big Fat Greek Wedding -- 2002
@@ -55,7 +43,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Thor: The Dark World -- 2013
 - [x] Captian America: The Winter Soldier -- 2014
 - [x] Gardians of the Galaxy -- 2014
-- [x] Gardians of the Galaxy vol. 2  -- 2017
+- [x] Gardians of the Galaxy vol. 2 -- 2017
 - [x] Avengers: Age of Ultron -- 2015
 - [x] Ant-Man -- 2015
 - [x] Captian America: Civil War -- 2016
@@ -73,18 +61,18 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Luca -- 2021
 - [x] Cruella -- 2021
 - [x] Ghost -- 1990
-- [x] Almost Famous -- 2000 *rewatch*
-- [x] Raising Arizona -- 1987 *rewatch*
+- [x] Almost Famous -- 2000 _rewatch_
+- [x] Raising Arizona -- 1987 _rewatch_
 - [x] Get Back -- 2021
 - [x] Harry Potter
-  - [x] The Sorcerer's Stone -- 2001 *rewatch*
-  - [x] The Chamber of Secrets -- 2002 *rewatch*
-  - [x] The Prisoner of Azkaban -- 2004 *rewatch*
-  - [x] The Goblet of Fire -- 2005 *rewatch*
-  - [x] The Order of the Phoenix -- 2007 *rewatch*
-  - [x] The Half-Blood Prince -- 2009 *rewatch*
-  - [x] The Deathly Hallows - Part 1 -- 20010 *rewatch*
-  - [x] The Deathly Hallows - Part 2 -- 20011 *rewatch*
+  - [x] The Sorcerer's Stone -- 2001 _rewatch_
+  - [x] The Chamber of Secrets -- 2002 _rewatch_
+  - [x] The Prisoner of Azkaban -- 2004 _rewatch_
+  - [x] The Goblet of Fire -- 2005 _rewatch_
+  - [x] The Order of the Phoenix -- 2007 _rewatch_
+  - [x] The Half-Blood Prince -- 2009 _rewatch_
+  - [x] The Deathly Hallows - Part 1 -- 20010 _rewatch_
+  - [x] The Deathly Hallows - Part 2 -- 20011 _rewatch_
 - [x] Love Actually -- 2003
 - [x] Home Alone -- 1990
 - [x] Home Alone 2 - Lost in New York -- 1992
@@ -93,13 +81,5 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] Spiderman: No Way Home -- 2021
 
 ## Documentaries
-- [ ] The U.S. vs John Lennon -- 2006
-- [ ] Peter Green: Man of the World -- 2009
-- [ ] Gimme Shelter -- 1970
-- [ ] U2: Rattle and Hum’ -- 1988
-- [ ] Radiohead - Meeting People is Easy -- 1998
-- [ ] The Devil and Daniel Johnston -- 2005
-- [ ] Buck -- 2012
-- [ ] Hitsville: The Making of Motown -- 2019
-- [ ] Ken Burns National Parks -- 2009
+
 - [x] Count Me In -- 2021

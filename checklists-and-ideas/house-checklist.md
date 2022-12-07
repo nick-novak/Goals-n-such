@@ -13,7 +13,7 @@
 - [ ] New shutters
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers to keep leaves out/second floor only
-- [ ] Finish sump pump concrete/pea gravel and add cover
+- [ ] Add cover to sump pump
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
@@ -23,3 +23,5 @@
 - [ ] Replace Mailbox
 - [ ] Maybe add in an attic fan
 - [ ] update address sign
+- [x] Remove pantry and move fridge
+- [ ] Add cabinets to kitchen

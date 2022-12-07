@@ -3,6 +3,7 @@
 List of all movies I wish to watch/rewatch/have watched for the year.
 
 ## 2021 List
+
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -- 1964
 - [ ] Barry Lyndon -- 1975
 - [ ] Network -- 1976
@@ -18,16 +19,26 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Fast Times at Ridgemont High -- 1982
 - [ ] Bullitt -- 1968
 - [ ] The Postman -- 1997
-- [X] Don't Look Up -- 2021
-- [X] Sound of Metal -- 2019
+- [x] Don't Look Up -- 2021
+- [x] Sound of Metal -- 2019
 - [x] Encanto -- 2021
 - [x] Raya and The Last Dragon -- 2021
 - [x] Shang-Chi and the Legend of the Ten Rings -- 2021
 - [x] Rushmore -- 1998
 - [x] Tick, Tick... Boom! -- 2021
 - [x] The French Dispatch -- 2021
+- [ ] Dive My Car -- 2021
+- [x] Dune -- 2021
+- [ ] Licorice Pizza -- 2021
+- [ ] The Power of the Dog -- 2021
+- [x] Being the Ricardos -- 2021
+- [x] Dear Evan Hanson -- 2021
+- [x] Apollo 10 1/2: A Space Age Childhood -- 2022
+- [x] The Eternals -- 2022
+- [x] Turning Red -- 2022
 
 ## Documentaries
+
 - [ ] The U.S. vs John Lennon -- 2006
 - [ ] Peter Green: Man of the World -- 2009
 - [ ] Gimme Shelter -- 1970
