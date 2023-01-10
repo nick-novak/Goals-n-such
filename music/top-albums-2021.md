@@ -1,4 +1,4 @@
-## Top Albums in 2020 (in no particular order)
+## Top Albums in 2021 (in no particular order)
 Faye Webster -- I know I'm Funny haha
 Japanese Breakfast -- Jubilee
 Lord Huron -- Long lost

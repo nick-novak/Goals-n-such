@@ -7,9 +7,7 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] 12 Angry Men -- 1957
 - [x] The Lost Boys -- 1987
 - [x] Crazy Heart -- 2009
-- [ ] Bullitt -- 1968
 - [x] A Mighty Wind -- 2003
-- [ ] The Postman -- 1997
 - [x] Dead Man -- 1996
 - [x] Wonder Women 1984 -- 2020
 - [x] Searching for Bobbie Fisher - 1993

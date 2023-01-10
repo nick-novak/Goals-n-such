@@ -1,6 +1,4 @@
 ## Top Albums in 2018 (in no particular order)
-
-## Top Choices
 Kasey Musgraves -- Golden Hour
 Richard Swift -- The Hex  
 Carolina Rose -- LONER  
