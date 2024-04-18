@@ -1,15 +1,16 @@
 ## House To-Do
+
 - [ ] Scrap and repaint exterior
-- [ ] Replace caulk exterior
+- [x] Replace caulk exterior
 - [ ] Replace both spigots
-    - [x] 1
-    - [ ] 2
-- [ ] Replace driveway
+  - [x] 1
+  - [x] 2
+- [x] Replace driveway
 - [ ] Redo molding in entire house
-    - [ ] kitchen
-    - [ ] living Room
-    - [ ] basement
-    - [ ] stairs leading to basement
+  - [x] kitchen
+  - [x] living Room
+  - [ ] basement
+  - [ ] stairs leading to basement
 - [ ] New shutters
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers to keep leaves out/second floor only
@@ -24,4 +25,4 @@
 - [ ] Maybe add in an attic fan
 - [ ] update address sign
 - [x] Remove pantry and move fridge
-- [ ] Add cabinets to kitchen
+- [x] Add cabinets to kitchen

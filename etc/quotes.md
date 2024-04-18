@@ -21,3 +21,9 @@
 
 "Try to make yourself indespendable."
 -- Nick Novak
+
+"To have children is a marker for the exceleration of a lifetime."
+-- Steven Fuller, winter caretaking at Yellowstone national park
+
+"Incompetence is the first step towards a path to mastery"
+-- not sure

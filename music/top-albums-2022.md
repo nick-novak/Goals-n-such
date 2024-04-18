@@ -1,4 +1,5 @@
 ## Top Albums in 2022 (in no particular order)
+
 Harry Styles -- Harry's House
 Orville Peck -- Bronco
 Wet Leg -- self-titled
@@ -7,6 +8,7 @@ Lucius -- Second Nature
 Andrew Bird - Inside Problems
 
 ## Every new album I enjoyed this year
+
 Harry Styles -- Harry's House
 Jack Johnson -- Meet the Moonlight
 Father John Misty -- Chole and the Next 20th Century
@@ -37,6 +39,8 @@ FKJ -- VINCENT
 MJ Lenderman -- Boat Songs
 Wilco -- Cruel Country
 Tyler Childers -- Can I take my Hounds to Heaven?
+The Beths -- Experts In A Dying Field
 
 ## Top Albums I've discovered (in no particular order)
+
 Novo Amor -- Cannot Be, Whatsoever

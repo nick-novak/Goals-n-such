@@ -1,48 +1,54 @@
-# Goals for 2022
+# Goals for 2024
+
 - Learn More
   - Juggle
-	- Front-End Automation
-	- learn how to count to ten in 5 languages
-		- Mandarin
-		- Hindi
-		- Spanish
-		- French
-		- Arabic
+  - Front-End Automation
+  - AI work integration
+  - Sketchup
+  - Nashville number system
 - Buy some Guitar effects pedals
-  - Wampler Tumnus Overdrive
-- learn the Nashville number system
+  - Wampler Tumnus Overdrive or some Klon clone
 - Read
   - 12 book challenge
 - Invest in my house
-  - New flooring
-	- Finish kitchen
+  - Finish kitchen
+  - Finish Murphy Bed
+  - remodel downstairs bathroom
 - Woodworking Projects
-  - Murphy bed
-	- Tool cabinet
-	- Coffee Bar
-	- Hollowbody guitar 
-	- knife block
-	- upgrade workbench
+  - Coffee Bar
+  - New vanity for bathroom
+  - Hollowbody guitar
+  - Upgrade workbench
+  - Mailbox
+  - New fence
+  - Fix garden
+  - Address sign
 - Get Old 401K over to the new one
-- Run The Detroit Freepress half marathon again
 - Pay off student loans
 - Start Meditating
-
+- Listen More and Speak Less
 
 # UM Work goals
+
 - Catalog and document more
 - Read more Professional Development books
-- Get a promotion
-- Remove Getwid from our theme 
+- Finish FSE for the theme
+- Up our documentation game
+- Kick off Forty-Two Academy
 
 ## NN Woodwork
+
+- Create new website
 - Increase sales
 - Establish set products
-- Buy a tablesaw
-- Buy a Planer
-- Buy a low angle jack plane
 - Reach 2000 followers on IG
-- Make bottle openers for Father's Day(12)
+- Mother's day items (necklaces)
 - Get better measuring tools
-- Get a nice apron
 - make a handheld mirror for markets
+- come up with two new designs
+- expand bolo tie options
+- Buy a tablesaw
+- Buy a planer
+- Buy a festool HEPA vacumn
+- Buy a larger Bandsaw
+- Buy a drum sander
