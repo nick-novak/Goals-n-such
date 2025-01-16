@@ -2,7 +2,7 @@
 
 - [ ] Scrap and repaint exterior
 - [x] Replace caulk exterior
-- [ ] Replace both spigots
+- [x] Replace both spigots
   - [x] 1
   - [x] 2
 - [x] Replace driveway
@@ -13,16 +13,21 @@
   - [ ] stairs leading to basement
 - [ ] New shutters
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
-- [ ] Add gutter covers to keep leaves out/second floor only
+- [ ] Add gutter covers
 - [ ] Add cover to sump pump
 - [ ] Seal areas in basement to prevent bug/spider infestation
 - [ ] Finish egress window
 - [ ] Consult and replace sockets with GFCI sockets
 - [ ] Consult and do any finish work, mostly painting touchups
-- [ ] Replace front window panes
+- [x] Replace front window panes
 - [ ] Finish the shower caulking around tile and Paint Molding at the top.
 - [ ] Replace Mailbox
-- [ ] Maybe add in an attic fan
+      ~~- [ ] Maybe add in an attic fan~~
 - [ ] update address sign
 - [x] Remove pantry and move fridge
 - [x] Add cabinets to kitchen
+- [ ] New Siding
+- [x] New windows
+- [x] New Doorwall
+- [ ] remove floida room
+- [ ] new deck

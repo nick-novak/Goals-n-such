@@ -1,24 +1,25 @@
 ## House To-Do
+
 - [x] Fix doorbell
 - [x] Get keys for deadbolts
 - [x] fence in the rest of the yard
 - [x] Remove cedar trees
-    - [x] Remove cedar stumps
+  - [x] Remove cedar stumps
 - [x] Remove pine trees
-    - [ ] Remove pine stumps
-- [X] Remove pool
+  - [x] Remove pine stumps
+- [x] Remove pool
 - [x] Fix yard where pool was
 - [x] contact fireplace company and see if there is a why for better insulation.
 - [ ] Replace both spigots
-    - [x] 1
-    - [ ] 2
+  - [x] 1
+  - [ ] 2
 - [x] remodel bathroom
 - [x] Change out toilet and update molding in downstairs bathroom
 - [ ] redo molding in entire house
-    - [x] hallways
-    - [x] Fix stairs
-    - [x] master bedroom
-    - [x] front Room
+  - [x] hallways
+  - [x] Fix stairs
+  - [x] master bedroom
+  - [x] front Room
 - [x] contact flooring company and see if they have our floor in stock.(they don’t)
 - [x] consult and install smoke detectors
 - [x] install WiFi enhancer

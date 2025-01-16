@@ -9,22 +9,8 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 ## January 2024
 
-- [x] This Country -- Navied Mahdavian
-- [x] The Road -- Cormic McCarthy
-- [x] The Ferryman -- Justin Cronin
-
-## February 2024
-
-- [x] Blood Meridian -- Cormic McCarthy
-
-## March 2024
-
-- [x] The War of Art: Winning the Inner Creative Battle -- Steven Pressfeild
-- [x] The Invisible Life of Addie LaRue -- V. E. Schwab
-
-## April 2024
-
-- [ ] Thinking in Systems: A Primer -- Donella Meadows
+- [ ] Sapiens: A Brief History of Humankind -- Yuval Noah Harari :headphones:
+- [ ] Sex, Economy, Freedom & Community: Eight Essays -- Wendell Berry :blue_book:
 
 ## To-Read
 
@@ -35,15 +21,15 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [ ] How Music Works -- David Bryne
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
 - [ ] A Craftsman’s Legacy: Why Working with Our Hands Gives Us Meaning -- Eric Gorges, Jon Sternfeld
-- [ ] Sex, Economy, Freedom & Community: Eight Essays -- Wendell Berry
-- [ ] Buck 'Em!: The Autobiography of Buck Owens -- Randy Poe
-- [ ] Shakey: Neil Young's Biography -- Jimmy McDonough
 - [ ] Why We Make Things and Why It Matters: The Education of a Craftsman -- Peter Korn
 - [ ] The Storyteller: Tales of Life and Music -- Dave Grohl
 - [ ] A Good Man Is Hard to Find and Other Stories -- Flannery O'Connor
+- [ ] A Feast of Snakes -- Harry Crews
+- [ ] Big Bad Love -- Larry Brown
 
 ## Professional Development
 
+- [ ] Inspired: How to Create Tech Products Customers Love -- Marty Cagan
 - [ ] Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value -- Teresa Torres
 - [ ] Four Thousand Weeks: Time Management for Mortals - Oliver Burkeman
 - [ ] Surronded by Idiots -- Thomas Erikson
@@ -51,5 +37,5 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [ ] The Making of a Manager: What to Do When Everyone Looks to You -- Julie Zhuo
 - [ ] Burnout: The Secret to Unlocking the Stress Cycle -- Emily Nagoski PhD & Amelia Nagoski DMA
 - [ ] Unleashed: The Unapologetic Leader's Guide to Empowering Everyone Around You -- Frances Frei, Anne Morriss
-- [ ] Every Tool's a Hammer: Life Is What You Make It -- Adam Savage
 - [ ] Flow: The Psychology of Optimal Experience -- Mihaly Csikszentmihalyi
+- [ ] Chop Wood Carry Water: How to Fall in Love with the Process of Becoming Great - Joshua Medcalf

@@ -21,13 +21,15 @@ _solos_
 [ ] - Sultans of Swing
 [ ] - While my Guitar Gently Weeps
 [ ] - Gravity
-[ ] - Comfortable Numb
+[ ] - If I wanted someone
 
 Bluegrass
 [ ] Little Sadie -- Doc Watson
 [ ] Black Mountain rag -- Doc watson
 [ ] Church Street Blues -- Tony Rice
 [ ] Deep River Blues -- Doc Watson
+[ ] Whiskey Before Breakfast
+[x] Salt Creek
 [x] Wildwood Flower
 
 Chet Atkins

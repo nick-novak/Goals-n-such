@@ -6,47 +6,50 @@
   - AI work integration
   - Sketchup
   - Nashville number system
+- Buy some Guitar effects pedals
+  - [x] Wampler Tumnus Overdrive or some Klon clone
 - Read
-  - 12 book challenge
+  - [x] 12 book challenge
 - Invest in my house
   - Finish kitchen
   - Finish Murphy Bed
-  - Remodel downstairs bathroom
-  - Plan a new backyard patio/deck
-  - New siding
+  - remodel downstairs bathroom
 - Woodworking Projects
   - Coffee Bar
   - New vanity for bathroom
   - Hollowbody guitar
+  - [x] Upgrade workbench
   - Mailbox
+  - [x] New fence
+  - [x] Fix garden
   - Address sign
-  - Bed for Iris
-  - Matching side table for Iris' bed
 - Get Old 401K over to the new one
 - Pay off student loans
 - Start Meditating
-- Listen More and Speak Less
-- Build a new deer blind
-- Go bow hunting again
+- [x] Listen More and Speak Less
+- [x] Pay off Car
 
 # UM Work goals
 
-- Catalog and document more
+- [x] Catalog and document more
 - Read more Professional Development books
+- [x] Finish FSE for the theme
+- [x] Up our documentation game
 - Kick off Forty-Two Academy
 
 ## NN Woodwork
 
 - Create new website
-- New bolo marketing video
-- Increase sales of earrings and pendants
-- Increase Bolo options - solid fine woods/no inlay
-- Start selling Tie clips and Cufflinks
+- [x] Increase sales
+- [x] Establish set products
 - Reach 2000 followers on IG
+- Mother's day items (necklaces)
+- [x] Get better measuring tools
 - make a handheld mirror for markets
-- Better dust collection
-- Better electrical in garage
+- [x] come up with two new designs
+- [x] expand bolo tie options
 - Buy a tablesaw
+- [x] Buy a planer
 - Buy a festool HEPA vacumn
 - Buy a larger Bandsaw
 - Buy a drum sander

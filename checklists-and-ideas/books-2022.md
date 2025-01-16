@@ -1,4 +1,4 @@
-# Books I've Read & Want to Read
+# Books I've Read in 2022
 
 ## Collection of Audiobooks, books & ebooks I intend to read.
 
@@ -35,7 +35,7 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 
 -[x] Jurassic Park -- Michael Crichton :blue_book:
 
-## July 2022 
+## July 2022
 
 - [x] The Lost World -- Michael Crichton :blue_book:
 
@@ -60,4 +60,5 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [x] Forest Gump -- Winston Groom
 
 ## December 2022
+
 - [x] Upgrade -- Blake Crouch
