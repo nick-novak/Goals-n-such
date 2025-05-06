@@ -28,6 +28,7 @@
 - Listen More and Speak Less
 - Build a new deer blind
 - Go bow hunting again
+- rebuild personal site and incorporate Goals-N-Such
 
 # UM Work goals
 

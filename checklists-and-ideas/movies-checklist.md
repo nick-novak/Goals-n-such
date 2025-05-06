@@ -22,6 +22,14 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] The Power of the Dog -- 2021
 - [ ] The Whale -- 2022
 - [ ] Philiadelphia -- 1993
+- [x] Erin Brockovich -- 2000
+- [x] Wicked -- 2024
+- [x] Howl's Moving Castile -- 2004
+- [x] The Wind Rises -- 2014
+- [x] The Hunger Games -- 2012
+- [x] The Hunger Games: Catching Fire -- 2013
+- [x] The Hunger Games: Mockingjay – Part 1 -- 2014
+- [x] The Hunger Games: Mockingjay – Part 2 -- 2015
 
 ## Documentaries
 
@@ -34,3 +42,4 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Ken Burns National Parks -- 2009
 - [ ] Manufacturing Desent -- 1992
 - [ ] Wild Life -- 2023
+- [ ] Roadrunner: A Film About Anthony Bourdain -- 2021

@@ -15,7 +15,8 @@
 [ ] - Stop this Train -- John Mayer
 [ ] - Walk, Don't Run -- The Ventures
 
-_solos_
+## _solos_
+
 [ ] - Stairway to Heaven
 [ ] - Running on Empty -- lapsteel
 [ ] - Sultans of Swing
@@ -23,7 +24,8 @@ _solos_
 [ ] - Gravity
 [ ] - If I wanted someone
 
-Bluegrass
+## Bluegrass
+
 [ ] Little Sadie -- Doc Watson
 [ ] Black Mountain rag -- Doc watson
 [ ] Church Street Blues -- Tony Rice
@@ -32,7 +34,15 @@ Bluegrass
 [x] Salt Creek
 [x] Wildwood Flower
 
-Chet Atkins
+## Chet Atkins
+
 [ ] - Wildwood Flower
 [ ] - Sandman
 [ ] - Take Five
+
+## Piano
+
+[ ] - Two Weeks -- Grizzly Bear
+[ ] - Our House -- CSN&Y
+[ ] - You're going to live forever in me -- John Mayer
+[ ] - Perpatuum Mobile -- Penguin Cafe Orchestra

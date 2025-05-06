@@ -27,3 +27,9 @@
 
 "Incompetence is the first step towards a path to mastery"
 -- not sure
+
+"Perfection is not attainable, but if we chase perfection we can catch excellence"
+-- Vince Lombardi
+
+"Pleasure in the job puts perfection in the work."
+-- Aristotle

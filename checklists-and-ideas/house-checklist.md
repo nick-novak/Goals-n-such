@@ -31,3 +31,4 @@
 - [x] New Doorwall
 - [ ] remove floida room
 - [ ] new deck
+- [ ] Change access door to shower upstairs
