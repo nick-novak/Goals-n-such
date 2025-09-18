@@ -4,7 +4,7 @@
 [ ] - Hallelujah -- Jeff Buckley version(electric, high reverb)  
 [ ] - Salsbury Hill -- Peter Gabriel  
 [ ] - Impossible Germany -- Wilco _looper_  
-[ ] - Buckets of Rain -- Bob Dylan  
+[x] - Buckets of Rain -- Bob Dylan  
 [ ] - Johnny B Goode -- Chuck Berry
 [ ] - Saginaw, Michigan -- Lefty Frizzel  
 [ ] - Neon Moon -- Brooks and Dunn  
@@ -23,6 +23,7 @@
 [ ] - While my Guitar Gently Weeps
 [ ] - Gravity
 [ ] - If I wanted someone
+[ ] - Freebird
 
 ## Bluegrass
 
@@ -30,13 +31,17 @@
 [ ] Black Mountain rag -- Doc watson
 [ ] Church Street Blues -- Tony Rice
 [ ] Deep River Blues -- Doc Watson
+[ ] Shady Grove -- Doc Watson
+[ ] Beaumont Rag -- Doc Watson
+[ ] Blackberry Blossom
 [ ] Whiskey Before Breakfast
 [x] Salt Creek
 [x] Wildwood Flower
+[ ] Brown Ferry Blues
+[ ] Pear Tree
 
 ## Chet Atkins
 
-[ ] - Wildwood Flower
 [ ] - Sandman
 [ ] - Take Five
 
@@ -46,3 +51,4 @@
 [ ] - Our House -- CSN&Y
 [ ] - You're going to live forever in me -- John Mayer
 [ ] - Perpatuum Mobile -- Penguin Cafe Orchestra
+[ ] - Layla -- Eric Clapton

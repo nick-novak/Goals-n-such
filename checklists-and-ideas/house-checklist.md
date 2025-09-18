@@ -11,7 +11,7 @@
   - [x] living Room
   - [ ] basement
   - [ ] stairs leading to basement
-- [ ] New shutters
+- [x] ~~New~~painted shutters
 - [ ] Replace chimney cap. Current one is rusty and staining the house.
 - [ ] Add gutter covers
 - [ ] Add cover to sump pump
@@ -20,7 +20,8 @@
 - [ ] Consult and replace sockets with GFCI sockets
 - [ ] Consult and do any finish work, mostly painting touchups
 - [x] Replace front window panes
-- [ ] Finish the shower caulking around tile and Paint Molding at the top.
+- [ ] Finish the shower caulking around tile
+- [ ] Paint Molding at the top of the shower
 - [ ] Replace Mailbox
       ~~- [ ] Maybe add in an attic fan~~
 - [ ] update address sign
@@ -29,6 +30,6 @@
 - [ ] New Siding
 - [x] New windows
 - [x] New Doorwall
-- [ ] remove floida room
+- [ ] remove florida room
 - [ ] new deck
 - [ ] Change access door to shower upstairs

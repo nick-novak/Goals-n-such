@@ -27,16 +27,37 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 ## April 2025
 
 - [x] The Unsettling of America: Culture and Agriculture -- Wendell Berry :headphones:
-- [ ] The Ballad of Songbirds and Snakes -- Suzanne Collins :blue_book:
+- [x] The Ballad of Songbirds and Snakes -- Suzanne Collins :blue_book:
 
 ## May 2025
 
-- [ ] Everything is Tuberculosis -- John Green
+- [x] Everything is Tuberculosis -- John Green :headphones:
+- [x] Abundance -- Derek Thompson and Ezra Klein :headphones:
+
+## June 2025
+
+- [x] Born to Run -- Christopher McDougall :headphones:
+- [x] Braiding Sweetgrass -- Robin Wall Kimmerer :blue_book:
+
+## July 2025
+
+- [x] Confessions of a Vintage Guitar Dealer -- Norman Harrison :headphones:
+
+## August 2025
+
+- [x] The Art of Frugal Hedonism -- Adam Grubb & Annie Raser-Rowland :headphones:
+- [ ] The Need to Be Whole: Patriotism and the History of Prejudice -- Wendell Berry :headphones:
+- [x] Sunrise on the Reaping -- Suzanne Collins :blue_book:
+- [x] The Algebra of Wealth: A Simple Formula for Financial Security -- Scott Galloway :headphones:
+
+## September 2025
+
+- [ ] The Essential Marcus Aurelius -- John Piazza & Jacob Needleman
+- [x] The Algebra of Wealth: A Simple Formula for Financial Security -- Scott Galloway :blue_book:
+- [ ] Atmosphere -- Taylor Jenkins Reid
 
 ## To-Read
 
-- [ ] Shady Characters -- Keith Houston
-- [ ] Confessions of a Vintage Guitar Dealer -- Norman Harrison
 - [ ] How Music Works -- David Bryne
 - [ ] A Long Strange Trip: The Inside History of the Grateful Dead -- Dennis McNally
 - [ ] A Craftsman’s Legacy: Why Working with Our Hands Gives Us Meaning -- Eric Gorges, Jon Sternfeld

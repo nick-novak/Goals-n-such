@@ -33,3 +33,9 @@
 
 "Pleasure in the job puts perfection in the work."
 -- Aristotle
+
+"Two of a trade never agree"
+-- C.S. Lewis
+
+"How can workers think well of themselves, if they do not think well of thier work?"
+-- Wendall Berry - The Need to Be Whole

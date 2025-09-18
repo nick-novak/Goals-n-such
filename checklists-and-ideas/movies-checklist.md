@@ -22,7 +22,11 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] The Power of the Dog -- 2021
 - [ ] The Whale -- 2022
 - [ ] Philiadelphia -- 1993
+- [ ] Playtime -- 1967
+- [ ] The Buddy Holly Story -- 1978
+- [ ] City of Angels -- 1998
 - [x] Erin Brockovich -- 2000
+- [x] Blue Velvet -- 1986
 - [x] Wicked -- 2024
 - [x] Howl's Moving Castile -- 2004
 - [x] The Wind Rises -- 2014
@@ -30,6 +34,12 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [x] The Hunger Games: Catching Fire -- 2013
 - [x] The Hunger Games: Mockingjay – Part 1 -- 2014
 - [x] The Hunger Games: Mockingjay – Part 2 -- 2015
+- [x] Star Wars Rouge One -- 2016
+- [x] Star Wars Episode VII - The Force Awakens -- 2015
+- [x] Star Wars Episode VIII - The Last Jedi -- 2017
+- [x] Star Wars Episode IX - Rise of Skywalker -- 2019
+- [x] Twisters -- 2024
+- [x] The Hunger Games: Ballad of Snakes and Songbirds -- 2015
 
 ## Documentaries
 
@@ -43,3 +53,5 @@ List of all movies I wish to watch/rewatch/have watched for the year.
 - [ ] Manufacturing Desent -- 1992
 - [ ] Wild Life -- 2023
 - [ ] Roadrunner: A Film About Anthony Bourdain -- 2021
+- [x] Sally -- 2025
+- [x] Katrina: Come hell and high water -- 2025
