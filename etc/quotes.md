@@ -39,3 +39,9 @@
 
 "How can workers think well of themselves, if they do not think well of thier work?"
 -- Wendall Berry - The Need to Be Whole
+
+"Not wanting something is as good as having it."
+-- Naval Ravikant
+
+"When you align yourself with creation, you inherently take a side against destruction. Creativity eats Darkness."
+-- Jeff Tweedy

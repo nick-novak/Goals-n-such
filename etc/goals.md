@@ -1,13 +1,12 @@
-# Goals for 2024
+# Goals for 2026
 
 - Learn More
   - Juggle
-  - Front-End Automation
   - AI work integration
   - Sketchup
   - Nashville number system
 - Read
-  - 12 book challenge
+  - 18 book challenge
 - Invest in my house
   - Finish kitchen
   - Finish Murphy Bed
@@ -20,34 +19,38 @@
   - Hollowbody guitar
   - Mailbox
   - Address sign
-  - Bed for Iris
   - Matching side table for Iris' bed
 - Get Old 401K over to the new one
 - Pay off student loans
-- Start Meditating
 - Listen More and Speak Less
-- Build a new deer blind
-- Go bow hunting again
 - rebuild personal site and incorporate Goals-N-Such
+- Make a Dorodango
 
 # UM Work goals
 
-- Catalog and document more
 - Read more Professional Development books
-- Kick off Forty-Two Academy
+- Integrate AI into workflow
 
 ## NN Woodwork
 
 - Create new website
+- better product/process documentation
 - New bolo marketing video
-- Increase sales of earrings and pendants
-- Increase Bolo options - solid fine woods/no inlay
-- Start selling Tie clips and Cufflinks
+- come up with a better inventory system
+- More jigs for accurate/fast drilling
+- Increase Bolo options
+  - solid fine woods/no inlay
+  - More designs/new woods
 - Reach 2000 followers on IG
 - make a handheld mirror for markets
+- Get into some stores
+- Do Less shows
 - Better dust collection
 - Better electrical in garage
+- Better Insulation
+- Come up with a new sharpening system
 - Buy a tablesaw
 - Buy a festool HEPA vacumn
 - Buy a larger Bandsaw
 - Buy a drum sander
+- Buy a Bench Pilot for Shaper Origin

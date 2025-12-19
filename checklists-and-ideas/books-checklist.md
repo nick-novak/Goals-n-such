@@ -46,15 +46,28 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 ## August 2025
 
 - [x] The Art of Frugal Hedonism -- Adam Grubb & Annie Raser-Rowland :headphones:
-- [ ] The Need to Be Whole: Patriotism and the History of Prejudice -- Wendell Berry :headphones:
+- [x] The Need to Be Whole: Patriotism and the History of Prejudice -- Wendell Berry :headphones:
 - [x] Sunrise on the Reaping -- Suzanne Collins :blue_book:
 - [x] The Algebra of Wealth: A Simple Formula for Financial Security -- Scott Galloway :headphones:
 
 ## September 2025
 
-- [ ] The Essential Marcus Aurelius -- John Piazza & Jacob Needleman
+- [x] The Essential Marcus Aurelius -- John Piazza & Jacob Needleman :blue_book:
 - [x] The Algebra of Wealth: A Simple Formula for Financial Security -- Scott Galloway :blue_book:
-- [ ] Atmosphere -- Taylor Jenkins Reid
+- [x] Atmosphere -- Taylor Jenkins Reid :blue_book:
+
+## October 2025
+
+- [x] Deliver Me from Nowhere: The Making of Bruce Springsteen's Nebraska -- Warren Zanes
+
+## November 2025
+
+- [x] I Will Teach You to Be Rich -- Ramit Sethi
+- [ ] Outlive: The Science and Art of Longevity -- Peter Attia
+
+## December 2025
+
+- [ ] Blankets -- Craig Thompson
 
 ## To-Read
 
@@ -65,8 +78,10 @@ Check out my [GoodReads](https://www.goodreads.com/user/show/33690483-nick) acco
 - [ ] A Feast of Snakes -- Harry Crews
 - [ ] Big Bad Love -- Larry Brown
 - [ ] The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living
-- [ ] The Twilight of American Culture -- Morris Berman
-- [ ] The Culture of Fear: Why Americans Are Afraid of the Wrong Things -- Barry Glassner
+- [ ] The Nature and Art of Workmanship -- David Pye
+- [ ] The Harder I Fight the More I Love You: A Memoir -- Neko Case
+- [ ] World Within a Song - Music That Changed My Life and Life That Changed My Music -- Jeff Tweedy
+- [ ] Demon Copperhead -- Barbara Kingsolver
 
 ## Professional Development
 
